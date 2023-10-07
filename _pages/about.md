@@ -56,4 +56,6 @@ Other Collaborative Papers
   <li>YOLOv6: A single-stage object detection framework for industrial applications</li>
   <li>FastPillars: A Deployment-friendly Pillar-based 3D Detector</li>
   <li>Norm Tweaking: High-performance Low-bit Quantization of Large Language Models</li>
+</ol>
+
 
