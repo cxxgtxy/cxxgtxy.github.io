@@ -14,7 +14,7 @@ Short  Bio
 
  I Published 15 papers at top AI conferences (9 as first author). I have a wide range of interests, including basic model design, NAS, model compression, self-supervised learning, 2D perception (classification, segmentation, detection), 3D detection, LLM pre-training, multi-modal large models, reinforcement learning, generative models. Three of my first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS-ICCV, Twins-NeurIPS, CPVT-ICLR). I hold over 40 domestic and 7 international invention patents. I have experience managing technical teams of over 30 people and extensive experience in implementing AI (vision, voice, search and recommendation) projects. I am adept at building influential teams, tackling tough challenges, and delivering strong results.
 
-
+I received my master degree from Tsinghua University in 2012 and bachelor degree from SouthEast University in 2010.
 
 Publications
 ======
