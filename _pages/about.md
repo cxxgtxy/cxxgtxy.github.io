@@ -27,14 +27,14 @@ Work experience
 ======
 * __May 2020 - Present, Meituan, Visual Intelligence Department, Senior Technical Manager__
   * Team direction: Multi-modal large models，Large Language Model, perception (2D+3D), basic model design, self-supervised pre-training, model compression, MLOps.
-    * _Core technology breakthroughs in autonomous driving and drones_: Building the 3D offline system for autonomous delivery vehicles, saving the business many million in annotation costs annually, improving online perception algorithms (3D obstacle detection, tracking), helping the autonomous vehicle team achieve industry-leading real-time perception capabilities; improving the level of automated mapping for high-precision maps. Several core perception modules have been launched on the third and fourth generation drones. 
-    * _Large models (LLM and multi-modal)_: Responsible for building a general understanding (multi-modal) large model, open set understanding, and landing in Meituan scenarios; compression and efficient deployment of the company's trillion LLM, the self-developed model quantization technology reaches the advanced level in the industry; responsible for the training and deployment of the LLM base model for the general intelligent robot (embodied intelligence) scene.
-    * _Broad AI business support and MLOps construction_: Construction of a general vision code library, construction of AutoML general tools, support for the compression and deployment (end, edge, cloud) of the department's deep learning models, covering most of the company's vision applications and services such as face recognition, OCR, security review, image understanding, maps, saving many million in vision service costs annually.
-    * _Team building_: Building a team from 0 to 1, completing interviews with multiple Google PHD Fellowship, attracting top talents recognized in the industry.
-    * _Influence building_:  open sourcing and maintaining the well-known detection library YOLOv6; as a project backbone, undertaking the national science and technology innovation 2030 major special project 3.3 research on key technologies of artificial intelligence basic models.
+  * _Core technology breakthroughs in autonomous driving and drones_: Building the 3D offline system for autonomous delivery vehicles, saving the business many million in annotation costs annually, improving online perception algorithms (3D obstacle detection, tracking), helping the autonomous vehicle team achieve industry-leading real-time perception capabilities; improving the level of automated mapping for high-precision maps. Several core perception modules have been launched on the third and fourth generation drones. 
+  * _Large models (LLM and multi-modal)_: Responsible for building a general understanding (multi-modal) large model, open set understanding, and landing in Meituan scenarios; compression and efficient deployment of the company's trillion LLM, the self-developed model quantization technology reaches the advanced level in the industry; responsible for the training and deployment of the LLM base model for the general intelligent robot (embodied intelligence) scene.
+  * _Broad AI business support and MLOps construction_: Construction of a general vision code library, construction of AutoML general tools, support for the compression and deployment (end, edge, cloud) of the department's deep learning models, covering most of the company's vision applications and services such as face recognition, OCR, security review, image understanding, maps, saving many million in vision service costs annually.
+  * _Team building_: Building a team from 0 to 1, completing interviews with multiple Google PHD Fellowship, attracting top talents recognized in the industry.
+  * _Influence building_:  open sourcing and maintaining the well-known detection library YOLOv6; as a project backbone, undertaking the national science and technology innovation 2030 major special project 3.3 research on key technologies of artificial intelligence basic models.
 * __March 2017 - May 2020, Xiaomi, Artificial Intelligence Department, Senior Technical Manager__
   * Team direction: AutoML, basic model design, machine learning.
-    * Initiated the AutoML project, built the AutoML team from 0 to 1, responsible for all-round technical research, algorithm development and implementation. Implemented in multiple businesses such as scene recognition, segmentation, acoustic scene classification, recommendation, etc.
+  * Initiated the AutoML project, built the AutoML team from 0 to 1, responsible for all-round technical research, algorithm development and implementation. Implemented in multiple businesses such as scene recognition, segmentation, acoustic scene classification, recommendation, etc.
 Lead the team and  won the second place ("Automated Neural Network Design") in the first "Million Dollar Prize" of Xiaomi Company.
   
 * __June 2013 - March 2017, Beijing KingStar System Control Co., Ltd., Deputy  Director__
@@ -44,7 +44,7 @@ Lead the team and  won the second place ("Automated Neural Network Design") in t
 
 Publications
 ======
-__First-author papers__
+_First-author papers_
 
 <ol>
   <li>Twins: Revisiting the design of spatial attention in vision transformers, NeurIPS21</li>
@@ -66,7 +66,7 @@ __First-author papers__
   <li>MixPATH: A unified approach for one-shot neural architecture search，ICCV23</li>
 </ol>
 
-__Other Collaborative Papers__
+_Other Collaborative Papers_
 <ol>
   <li>Promptdet: Towards open-vocabulary detection using uncurated images, ECCV22</li>
   <li>SegVIT: Semantic segmentation with plain vision transformers, NeurIPS22</li>
