@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangxiang Chu / Site Title"
+title                    : "Xiangxiang Chu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/cxxgtxy"
+  github           : "cxxgtxy"
   google_plus      :
   keybase          :
   instagram        :
