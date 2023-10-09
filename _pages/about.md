@@ -44,9 +44,9 @@ Lead the team and  won the second place ("Automated Neural Network Design") in t
 
 Publications
 ======
-_First-author papers_
-
+__First-author papers__
 <ol>
+<small>
   <li>Twins: Revisiting the design of spatial attention in vision transformers, NeurIPS21</li>
   <li>Conditional Positional Encodings for Vision Transformers, ICLR23</li>
   <li>FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search, ICCV21 </li>
@@ -64,10 +64,11 @@ _First-author papers_
   <li>ROME: Robustifying memory-efficient nas via topology disentanglement and gradients accumulation , ICCV23</li>
   <li>Make RepVGG Greater Again: A Quantization-aware Approach</li>
   <li>MixPATH: A unified approach for one-shot neural architecture search，ICCV23</li>
+  </small>
 </ol>
-
-_Other Collaborative Papers_
+__Other Collaborative Papers__
 <ol>
+<small>
   <li>Promptdet: Towards open-vocabulary detection using uncurated images, ECCV22</li>
   <li>SegVIT: Semantic segmentation with plain vision transformers, NeurIPS22</li>
   <li>Fully convolutional one-stage 3D object detection on LiDAR range images, NeurIPS22</li>
@@ -82,6 +83,7 @@ _Other Collaborative Papers_
   <li>YOLOv6: A single-stage object detection framework for industrial applications</li>
   <li>FastPillars: A Deployment-friendly Pillar-based 3D Detector</li>
   <li>Norm Tweaking: High-performance Low-bit Quantization of Large Language Models</li>
+  </small>
 </ol>
 
 
