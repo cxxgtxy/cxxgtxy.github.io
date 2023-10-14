@@ -98,6 +98,6 @@ __Other Collaborative Papers__
 Selected Related Reports
 ======
 
-1. 【小米AI实验室成果速递】近日，小米 AutoML 团队（论文作者：初祥祥、张勃、李吉祥、李庆源、许瑞军）再次展示团队在 NAS 方向上的最新成果 SCARLET，超过 Google Brain 首席科学家 Quoc Le 团队提出的 EfficientNet 同量级模型 （ICML 2019）。（https://weibo.com/1771925961/I3RJIzzj0）
-2.  雷军强推：小米造最强超分辨率算法，现已开源（https://www.jiqizhixin.com/articles/2019-02-20-14）
-3. 超越MnasNet、Proxyless：小米提出全新神经架构搜索算法FairNAS（https://www.jiqizhixin.com/articles/2019-07-05-6）
+1. [小米AI实验室成果速递](<https://weibo.com/1771925961/I3RJIzzj0>）近日，小米 AutoML 团队（论文作者：初祥祥、张勃、李吉祥、李庆源、许瑞军）再次展示团队在 NAS 方向上的最新成果 SCARLET，超过 Google Brain 首席科学家 Quoc Le 团队提出的 EfficientNet 同量级模型 （ICML 2019）]
+2.  [雷军强推：小米造最强超分辨率算法，现已开源]（<https://www.jiqizhixin.com/articles/2019-02-20-14>）
+3. [超越MnasNet、Proxyless：小米提出全新神经架构搜索算法FairNAS]（<https://www.jiqizhixin.com/articles/2019-07-05-6>）
