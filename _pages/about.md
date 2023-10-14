@@ -12,7 +12,15 @@ redirect_from:
 Short  Bio
 ======
 
-As a senior technical manager in Meituan, I lead 30 outstanding researchers and engineers, focus on AI research and application. Our team  cover a wide range of topics, including base model design, NAS, model compression, self-supervised learning, 2D/3D perception, large language modes, multi-modal large models, reinforcement learning and generative models.  I published 15 papers at top AI conferences (9 as first author).  Three of my first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS-ICCV, Twins-NeurIPS, CPVT-ICLR). I hold over 40 domestic and 7 international invention patents. I have experience managing technical teams of over 30 people and extensive experience in implementing AI (vision, voice, search and recommendation) projects. I am adept at building influential teams, tackling tough challenges, and delivering strong results.
+1. Research and Innovation: Published 15 papers at top AI conferences, of which 9 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
+
+2. Research Directions: LLM pre-training, multimodal large models, reinforcement learning and generative models, basic model design, NAS, model compression, self-supervised learning, 2D perception, 3D detection, etc., and has paper output or business implementation in the above directions.
+
+3. Achievements: Has rich implementation experience in [AI middle platform, autonomous driving, edge cloud]; excels at creating value for the company and customers through technology, especially good at overcoming difficulties; good at coordinating resources, cooperation and win-win.
+
+4. Team Building and Leadership: Has experience managing a technical team of more than 30 people, excels at building influential technical teams, over 50% of team members come from famous domestic and international AI labs, good at attracting top talents in the industry, open source well-known detection framework in the industry.
+
+5. Influence: Multiple industry shares, top conference shares, technology media reports, Lei Jun & Xiaomi's multiple public praises, etc.
 
 *We are always looking for talented interns/full-time researchers with strong coding skills and research experience. Please drop me an email if interested.*
 
@@ -87,5 +95,9 @@ __Other Collaborative Papers__
 </ol>
 
 
+Selected Related Reports
+======
 
-
+1. 【小米AI实验室成果速递】近日，小米 AutoML 团队（论文作者：初祥祥、张勃、李吉祥、李庆源、许瑞军）再次展示团队在 NAS 方向上的最新成果 SCARLET，超过 Google Brain 首席科学家 Quoc Le 团队提出的 EfficientNet 同量级模型 （ICML 2019）。（https://weibo.com/1771925961/I3RJIzzj0）
+2.  雷军强推：小米造最强超分辨率算法，现已开源（https://www.jiqizhixin.com/articles/2019-02-20-14）
+3. 超越MnasNet、Proxyless：小米提出全新神经架构搜索算法FairNAS（https://www.jiqizhixin.com/articles/2019-07-05-6）
