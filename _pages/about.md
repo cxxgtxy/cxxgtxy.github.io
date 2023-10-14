@@ -20,7 +20,7 @@ Short  Bio
 
 4. Team Building and Leadership: Has experience managing a technical team of more than 30 people, excels at building influential technical teams, over 50% of team members come from famous domestic and international AI labs, good at attracting top talents in the industry, open source well-known detection framework in the industry.
 
-5. Influence: Multiple industry shares, top conference shares, technology media reports, Lei Jun & Xiaomi's multiple public praises, etc.
+5. Influence: Multiple industry invited talks, top conference shares, technology media reports, Lei Jun & Xiaomi's multiple public praises, etc.
 
 *We are always looking for talented interns/full-time researchers with strong coding skills and research experience. Please drop me an email if interested.*
 
