@@ -43,7 +43,7 @@ Work experience
   * __Core technology breakthroughs in autonomous driving and drones__: 
     * Building the 3D offline system for autonomous delivery vehicles, saving the business many million in annotation costs annually.
     * Improving online perception algorithms (3D obstacle detection, tracking), helping the autonomous vehicle team achieve industry-leading real-time perception capabilities. Improving the efficiency of building high-precision maps. 
-    * Several core perception modules have been launched on the third and fourth generation drones. </small>
+    * Several core perception modules have been launched on the third and fourth generation drones. 
   * __Broad AI business support and MLOps construction__: 
     * Construction vision code base, construction of AutoML  tools, model compression and deployment (end, edge, cloud), covering most of  vision applications such as face recognition, OCR, security review, image understanding, saving many million in vision service costs annually.
   * __Team building__:
