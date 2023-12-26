@@ -92,7 +92,7 @@ __Other Collaborative Papers__
   <li>YOLOv6: A single-stage object detection framework for industrial applications (github stars 5.3k)</li>
   <li>A Speed Odyssey for Deployable Quantization of LLMs </li>
   <li>Lenna: Language Enhanced Reasoning Detection Assistant </li>
-  <li>SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation, AAAI24</li>>
+  <li>SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation, AAAI24</li>
   <li>Promptdet: Towards open-vocabulary detection using uncurated images, ECCV22</li>
   <li>SegVIT: Semantic segmentation with plain vision transformers, NeurIPS22</li>
   <li>Fully convolutional one-stage 3D object detection on LiDAR range images, NeurIPS22</li>
