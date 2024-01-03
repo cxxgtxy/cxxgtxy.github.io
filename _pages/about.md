@@ -68,6 +68,7 @@ __First-author papers__
 <small>
   <li>Twins: Revisiting the design of spatial attention in vision transformers, NeurIPS21</li>
   <li>Conditional Positional Encodings for Vision Transformers, ICLR23</li>
+  <li>MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices </li>
   <li>FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search, ICCV21 </li>
   <li>Fair DARTS: Eliminating unfair advantages in differentiable architecture search, ECCV20</li>
   <li>DARTS-: robustly stepping out of performance collapse without indicators, ICLR21</li>
@@ -112,7 +113,8 @@ __Other Collaborative Papers__
 Selected Related Reports
 ======
 
-1. [美团提出基于隐式条件位置编码的Transformer，性能优于 ViT 和 DeiT](https://www.jiqizhixin.com/articles/2021-02-26)
+1. [骁龙888实时运行，美团、浙大等打造全流程移动端多模态大模型MobileVLM](https://mp.weixin.qq.com/s/-KnewDBeCN7a1XPk22u9Pw)
+2. [美团提出基于隐式条件位置编码的Transformer，性能优于 ViT 和 DeiT](https://www.jiqizhixin.com/articles/2021-02-26)
 2. [Twins：重新思考高效的视觉注意力模型设计](https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html)
 3. [更准更快的YOLOv6来了，美团出品并开源](https://www.jiqizhixin.com/articles/2022-06-26-2)
 4. [小米AI实验室成果速递](https://weibo.com/1771925961/I3RJIzzj0)
