@@ -86,9 +86,12 @@ __First-author papers__
   <li>Policy optimization with penalized point probability distance: An alternative to proximal policy optimization</li>
   </small>
 </ol>
+
+
 __Other Collaborative Papers__
 <ol>
 <small>
+  <li> LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection, ICLR24</li>
   <li>Norm Tweaking: High-performance Low-bit Quantization of Large Language Models, AAAI24</li>
   <li>YOLOv6: A single-stage object detection framework for industrial applications (github stars 5.3k)</li>
   <li>A Speed Odyssey for Deployable Quantization of LLMs </li>
