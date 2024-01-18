@@ -12,7 +12,7 @@ redirect_from:
 Short  Bio
 ======
 
-1. Research and Innovation: Published 18 papers at top AI conferences, of which 10 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
+1. Research and Innovation: Published 19 papers at top AI conferences, of which 10 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
 
 2. Research Directions: LLM pre-training, multimodal large models, reinforcement learning and generative models, foundation model design, NAS, model compression, self-supervised learning, 2D perception, 3D detection, etc., and has paper output or business implementation in the above directions.
 
