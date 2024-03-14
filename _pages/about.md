@@ -12,7 +12,7 @@ redirect_from:
 Short  Bio
 ======
 
-1. Research and Innovation: Published 19 papers at top AI conferences, of which 10 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
+1. Research and Innovation: Published 20 papers at top AI conferences, of which 10 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
 
 2. Research Directions: LLM pre-training, multimodal large models, reinforcement learning and generative models, foundation model design, NAS, model compression, self-supervised learning, 2D perception, 3D detection, etc., and has paper output or business implementation in the above directions.
 
@@ -68,7 +68,9 @@ __First-author papers__
 <small>
   <li>Twins: Revisiting the design of spatial attention in vision transformers, NeurIPS21</li>
   <li>Conditional Positional Encodings for Vision Transformers, ICLR23</li>
+  <li>VisionLLaMA: A Unified LLaMA Interface for Vision Tasks </li>
   <li>MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices </li>
+  <li>MobileVLM V2: Faster and Stronger Baseline for Vision Language Model</li>
   <li>FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search, ICCV21 </li>
   <li>Fair DARTS: Eliminating unfair advantages in differentiable architecture search, ECCV20</li>
   <li>DARTS-: robustly stepping out of performance collapse without indicators, ICLR21</li>
@@ -91,6 +93,7 @@ __First-author papers__
 __Other Collaborative Papers__
 <ol>
 <small>
+  <li> PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution, CVPR2024</li>
   <li> LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection, ICLR24</li>
   <li>Norm Tweaking: High-performance Low-bit Quantization of Large Language Models, AAAI24</li>
   <li>YOLOv6: A single-stage object detection framework for industrial applications (github stars 5.3k)</li>
@@ -116,11 +119,13 @@ __Other Collaborative Papers__
 Selected Related Reports
 ======
 
-1. [骁龙888实时运行，美团、浙大等打造全流程移动端多模态大模型MobileVLM](https://mp.weixin.qq.com/s/-KnewDBeCN7a1XPk22u9Pw)
-2. [美团提出基于隐式条件位置编码的Transformer，性能优于 ViT 和 DeiT](https://www.jiqizhixin.com/articles/2021-02-26)
-2. [Twins：重新思考高效的视觉注意力模型设计](https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html)
-3. [更准更快的YOLOv6来了，美团出品并开源](https://www.jiqizhixin.com/articles/2022-06-26-2)
-4. [小米AI实验室成果速递](https://weibo.com/1771925961/I3RJIzzj0)
-5. [雷军强推:小米造最强超分辨率算法，现已开源](https://www.jiqizhixin.com/articles/2019-02-20-14)
-6. [超越MnasNet、Proxyless：小米提出全新神经架构搜索算法FairNAS](https://www.jiqizhixin.com/articles/2019-07-05-6)
-7. [两个月三项成果，对标谷歌！独家对话小米AutoML团队，如何让模型搜索更公平](https://mp.weixin.qq.com/s/lMLAd2sTZdRjbMa38HS3vg)
+1. [全面超越ViT，美团、浙大等提出视觉任务统一架构VisionLLAMA](https://mp.weixin.qq.com/s/grFI_fapRtjVp7CbPkfTNA)
+2. [端侧实时运行、3B媲美7B！美团、浙大等提出MobileVLM V2：更快、更强的端侧视觉语言模型](https://mp.weixin.qq.com/s/WPLWmxkjlc6_2sn8ToHBqg)
+3. [骁龙888实时运行，美团、浙大等打造全流程移动端多模态大模型MobileVLM](https://mp.weixin.qq.com/s/-KnewDBeCN7a1XPk22u9Pw)
+4. [美团提出基于隐式条件位置编码的Transformer，性能优于 ViT 和 DeiT](https://www.jiqizhixin.com/articles/2021-02-26)
+5. [Twins：重新思考高效的视觉注意力模型设计](https://tech.meituan.com/2022/03/24/twins-revisiting-the-design-of-spatial-attention-in-vision-transformers.html)
+6. [更准更快的YOLOv6来了，美团出品并开源](https://www.jiqizhixin.com/articles/2022-06-26-2)
+7. [小米AI实验室成果速递](https://weibo.com/1771925961/I3RJIzzj0)
+8. [雷军强推:小米造最强超分辨率算法，现已开源](https://www.jiqizhixin.com/articles/2019-02-20-14)
+9. [超越MnasNet、Proxyless：小米提出全新神经架构搜索算法FairNAS](https://www.jiqizhixin.com/articles/2019-07-05-6)
+10. [两个月三项成果，对标谷歌！独家对话小米AutoML团队，如何让模型搜索更公平](https://mp.weixin.qq.com/s/lMLAd2sTZdRjbMa38HS3vg)
