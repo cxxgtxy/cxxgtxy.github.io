@@ -58,7 +58,7 @@ Work experience
   * Lead the team and  won the second place ("Automated Neural Network Design") in the first __"Million Dollar Prize"__ of Xiaomi Company. 
   
 * __June 2013 - March 2017, Beijing KingStar System Control Co., Ltd., Deputy  Director__
-  *  As a technical backbone, participated in the "Complex Power Grid Autonomy - Collaborative Automatic Voltage Control Key Technology, System Development and Engineering Application" project, which was awarded the __2018 National Science and Technology Progress First Prize__ (contributing 20 invention patents).</small>
+  *  As a technical backbone, participated in the "Complex Power Grid Autonomy - Collaborative Automatic Voltage Control Key Technology, System Development and Engineering Application" project, which was awarded the __2018 National Science and Technology Progress First Prize__ (contributing 20 invention patents).
 
 * __July 2012 - May 2013, IBM  Research of China (CRL), Research Scientist__
 
