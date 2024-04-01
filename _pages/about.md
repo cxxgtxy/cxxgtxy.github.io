@@ -12,7 +12,7 @@ redirect_from:
 Short  Bio
 ======
 
-1. Research and Innovation: Published 20 papers at top AI conferences, of which 10 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
+1. Research and Innovation: Published 40+ papers at  AI conferences, of which 20 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
 
 2. Research Directions: LLM pre-training, multimodal large models, reinforcement learning and generative models, foundation model design, NAS, model compression, self-supervised learning, 2D perception, 3D detection, etc., and has paper output or business implementation in the above directions.
 
@@ -34,12 +34,13 @@ Education
 Work experience
 ======
 * __May 2020 - Present, Meituan, Visual Intelligence Department, Senior Technical Manager__
-  * Team direction: Multi-modal large models，Large Language Model, perception (2D+3D), base model design, self-supervised pre-training, model compression, MLOps.
-  * __Large models (LLM and multi-modal)__:
+  * Team direction: Multi-modal large models，Large Language Model, perception (2D+3D), foundation model, self-supervised pre-training, model compression, MLOps.
+  * __Large foundation models (LLM and multi-modal)__:
     * Responsible for building a general understanding (multi-modal) large model, open set understanding, and landing in Meituan scenarios.
     * Compression and efficient deployment of the company's trillion LLM,  reaches the advanced level in the industry.
     * Training and deployment of the LLM base model for the general intelligent robot (embodied intelligence) scene.
-    * Reproduced Meta LLaMA 7B base model and SFT from scratch, and independently developed 1B and 3B MobileVLM benchmarking Gemini Nano.
+    * Reproduced Meta LLaMA 7B base model and SFT from scratch, and independently developed 1B and 3B [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) benchmarking Gemini Nano. MobileVLM v2 outperforms many popular larger models.
+    * Foundation models: [VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) unifies the architecture of vision and language, which also outperforms ViT in both understanding and generation tasks. [Twins](https://github.com/Meituan-AutoML/Twins) outperforms Swin and  enjoys more deployment advantages in production environment.
   * __Core technology breakthroughs in autonomous driving and drones__: 
     * Building the 3D offline system for autonomous delivery vehicles, saving the business many million in annotation costs annually.
     * Improving online perception algorithms (3D obstacle detection, tracking), helping the autonomous vehicle team achieve industry-leading real-time perception capabilities. Improving the efficiency of building high-precision maps. 
@@ -98,6 +99,7 @@ __Other Collaborative Papers__
   <li>Norm Tweaking: High-performance Low-bit Quantization of Large Language Models, AAAI24</li>
   <li>YOLOv6: A single-stage object detection framework for industrial applications (github stars 5.3k)</li>
   <li>A Speed Odyssey for Deployable Quantization of LLMs </li>
+  <li>FPTQ: Fine-grained Post-Training Quantization for Large Language Models </li>
   <li>Lenna: Language Enhanced Reasoning Detection Assistant </li>
   <li>SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation, AAAI24</li>
   <li>Promptdet: Towards open-vocabulary detection using uncurated images, ECCV22</li>
@@ -112,6 +114,7 @@ __Other Collaborative Papers__
   <li>STRETCH meat grinder with ICCOS, IEEE Transactions on Plasma Science</li>
   <li>Comparisons of three inductive pulse power supplies, IEEE Transactions on Plasma Science</li>
   <li>FastPillars: A Deployment-friendly Pillar-based 3D Detector</li>
+  <li>LogicalDefender: Discovering, Extracting, and Utilizing Common-Sense Knowledge</li>
   </small>
 </ol>
 
