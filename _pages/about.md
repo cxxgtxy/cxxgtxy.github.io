@@ -12,6 +12,12 @@ redirect_from:
 Short  Bio
 ======
 
+He obtained a bachelor of science in Electrical Engineering from SouthEast University in 2010 and later  a master of science in Electrical Engineering at Tsinghua University in 2012. He was selected as one of the top 100 AI scholars by AMiner in 2023.
+
+
+
+
+
 1. Research and Innovation: Published 40+ papers at  AI conferences, of which 20 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
 
 2. Research Directions: LLM pre-training, multimodal large models, reinforcement learning and generative models, foundation model design, NAS, model compression, self-supervised learning, 2D perception, 3D detection, etc., and has paper output or business implementation in the above directions.
@@ -26,10 +32,13 @@ Short  Bio
 
 
 
-Education
-======
-* B.S. in EE, SouthEast University, 2010
-* M.S. in EE, Tsinghua University, 2012 
+[//]: # (Education)
+
+[//]: # (======)
+
+[//]: # (* B.S. in EE, SouthEast University, 2010)
+
+[//]: # (* M.S. in EE, Tsinghua University, 2012 )
 
 Work experience
 ======
