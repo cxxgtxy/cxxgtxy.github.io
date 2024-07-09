@@ -78,7 +78,7 @@ __First-author papers__
 <small>
   <li>Twins: Revisiting the design of spatial attention in vision transformers, NeurIPS21</li>
   <li>Conditional Positional Encodings for Vision Transformers, ICLR23</li>
-  <li>VisionLLaMA: A Unified LLaMA Interface for Vision Tasks </li>
+  <li>VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks, ECCV24 </li>
   <li>MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices </li>
   <li>MobileVLM V2: Faster and Stronger Baseline for Vision Language Model</li>
   <li>FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search, ICCV21 </li>
@@ -103,7 +103,9 @@ __First-author papers__
 __Other Collaborative Papers__
 <ol>
 <small>
-  <li> PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution, CVPR2024</li>
+  <li>Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition, ECCV24</li>
+  <li> Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness, ICML24</li>
+  <li> PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution, CVPR24</li>
   <li> LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection, ICLR24</li>
   <li>Norm Tweaking: High-performance Low-bit Quantization of Large Language Models, AAAI24</li>
   <li>YOLOv6: A single-stage object detection framework for industrial applications (github stars 5.3k)</li>
