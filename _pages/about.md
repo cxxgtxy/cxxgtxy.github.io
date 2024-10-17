@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-Short  Bio
+senior director, AMAP, Alibaba Group
 ======
 
-He obtained a bachelor of science in Electrical Engineering from SouthEast University in 2010 and later  a master of science in Electrical Engineering at Tsinghua University in 2012. He was selected as one of the top 100 AI scholars by AMiner in 2023.
+I am a senior director in AMAP and leading a team that delivers intelligent route navigation and implements AIGC solutions for core business scenarios. Before that, I was a senior manager in Meituan. I obtained a bachelor of science in Electrical Engineering from SouthEast University in 2010 and later  a master of science in Electrical Engineering at Tsinghua University in 2012. I was selected as one of the top 100 AI scholars by AMiner in 2023.
 
 
 
@@ -42,7 +42,10 @@ He obtained a bachelor of science in Electrical Engineering from SouthEast Unive
 
 Work experience
 ======
-* __May 2020 - Present, Meituan, Visual Intelligence Department, Senior Technical Manager__
+* __Mar 2024 - present, Alibaba Group, AMAP, Senior Director__
+  * Team direction: Multi-modal large models, Generation Models, Route Navigation, Recommendation, Spatio-temporal Data Mining
+
+* __May 2020 - Mar 2024, Meituan, Visual Intelligence Department, Senior Technical Manager__
   * Team direction: Multi-modal large models，Large Language Model, perception (2D+3D), foundation model, self-supervised pre-training, model compression, MLOps.
   * __Large foundation models (LLM and multi-modal)__:
     * Responsible for building a general understanding (multi-modal) large model, open set understanding, and landing in Meituan scenarios.
