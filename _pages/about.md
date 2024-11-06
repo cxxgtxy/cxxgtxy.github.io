@@ -24,7 +24,7 @@ I am a senior director in AMAP and leading a team that delivers intelligent rout
 
 3. Achievements: Has rich implementation experience in [AI middle platform, autonomous driving, edge cloud]; excels at creating value for the company and customers through technology, especially good at overcoming difficulties; good at coordinating resources, cooperation and win-win.
 
-4. Team Building and Leadership: Has experience managing a technical team of more than 30 people, excels at building influential technical teams, over 50% of team members come from famous domestic and international AI labs, good at attracting top talents in the industry, open source well-known detection framework in the industry.
+4. Team Building and Leadership: Has experience managing a technical team of more than 50 people, excels at building influential technical teams, over 50% of team members come from famous domestic and international AI labs, good at attracting top talents in the industry, open source well-known detection framework in the industry.
 
 5. Influence: Multiple industry invited talks, top conference shares, technology media reports, Lei Jun & Xiaomi's multiple public praises, etc.
 
