@@ -100,6 +100,7 @@ __First-author papers__
   <li>Parameter sharing deep deterministic policy gradient for cooperative multi-agent reinforcement learning</li>
   <li>Improved crowding distance for NSGA-II</li>
   <li>Policy optimization with penalized point probability distance: An alternative to proximal policy optimization</li>
+  <li>Gpg: A simple and strong reinforcement learning baseline for model reasoning</li>
   </small>
 </ol>
 
