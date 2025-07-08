@@ -89,7 +89,8 @@ __First-author papers__
   <li>DARTS-: robustly stepping out of performance collapse without indicators, ICLR21</li>
   <li>ROME: Robustifying memory-efficient nas via topology disentanglement and gradients accumulation, ICCV23</li>
   <li>Make RepVGG Greater Again: A Quantization-aware Approach, AAAI24</li>
-  <li>MixPATH: A unified approach for one-shot neural architecture search，ICCV23</li>
+  <li>MixPATH: A unified approach for one-shot neural architecture search, ICCV23</li>
+  <li> USP: Unified self-supervised pretraining for image generation and understanding, ICCV25</li>
   <li>Noisy differentiable architecture search, BMVC21</li>
   <li>A Unified Mixture-View Framework for Unsupervised Representation Learning, BMVC22</li>
   <li>Multi-objective reinforced evolution in mobile neural architecture search, ECCVW2020</li>
@@ -106,7 +107,11 @@ __First-author papers__
 __Other Collaborative Papers__
 <ol>
 <small>
-  <li>Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition, ECCV24</li>
+  <li> UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement, ICCV25</li>
+  <li> VMBench: A Benchmark for Perception-Aligned Video Motion Generation, ICCV25</li>
+  <li> LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling, ICCV25</li>
+  <li> FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos, ACM MM25</li>
+  <li> Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition, ECCV24</li>
   <li> Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness, ICML24</li>
   <li> PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution, CVPR24</li>
   <li> LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection, ICLR24</li>
