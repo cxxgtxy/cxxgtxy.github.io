@@ -12,23 +12,22 @@ redirect_from:
 senior director, AMAP, Alibaba Group
 ======
 
-I am a senior director in AMAP and leading a team that delivers intelligent route navigation and implements AIGC solutions for core business scenarios. Before that, I was a senior manager in Meituan. I obtained a bachelor of science in Electrical Engineering from SouthEast University in 2010 and later  a master of science in Electrical Engineering at Tsinghua University in 2012. I was selected as one of the top 100 AI scholars by AMiner in 2023.
+I am a senior director at Alibaba (AMAP), leading a team that delivers intelligent route navigation and implements AIGC solutions for core business scenarios. In 2023, I was fortunate to be selected as one of the top 100 AI scholars by AMiner. Prior to that, I served as a senior manager at Meituan (2020-2024) and Xiaomi (2017-2020). I earned my Bachelor of Science in Electrical Engineering from Southeast University in 2010, and later my Master of Science in Electrical Engineering from Tsinghua University in 2012.
+
+*We are always looking for talented interns/full-time researchers with strong coding skills and research experience. Please drop me an email if interested.*
 
 
 
-
-
-1. Research and Innovation: Published 40+ papers at  AI conferences, of which 20 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
+1. Research and Innovation: Published 50+ papers at  AI conferences, of which 20 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
 
 2. Research Directions: LLM pre-training, multimodal large models, reinforcement learning and generative models, foundation model design, NAS, model compression, self-supervised learning, 2D perception, 3D detection, etc., and has paper output or business implementation in the above directions.
 
 3. Achievements: Has rich implementation experience in [AI middle platform, autonomous driving, edge cloud]; excels at creating value for the company and customers through technology, especially good at overcoming difficulties; good at coordinating resources, cooperation and win-win.
 
-4. Team Building and Leadership: Has experience managing a technical team of more than 50 people, excels at building influential technical teams, over 50% of team members come from famous domestic and international AI labs, good at attracting top talents in the industry, open source well-known detection framework in the industry.
+4. Team Building and Leadership: Has experience managing a technical team of more than 100 people, excels at building influential technical teams, over 50% of team members come from famous domestic and international AI labs, good at attracting top talents in the industry, open source well-known detection framework in the industry.
 
 5. Influence: Multiple industry invited talks, top conference shares, technology media reports, Lei Jun & Xiaomi's multiple public praises, etc.
 
-*We are always looking for talented interns/full-time researchers with strong coding skills and research experience. Please drop me an email if interested.*
 
 
 
