@@ -107,6 +107,13 @@ __First-author papers__
 __Other Collaborative Papers__
 <ol>
 <small>
+  <li>Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning, AAAI26</li>
+  <li>Scalar: Scale-wise controllable visual autoregressive learning, AAAI26</li>
+  <li>Omni-effects: Unified and spatially-controllable visual effects generation, AAAI26</li>
+  <li>AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting, AAAI26</li>
+  <li>ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints, AAAI26</li>
+  <li> Position bias mitigates position bias: Mitigate position bias through inter-position knowledge distillation, EMNLP25 oral</li>
+  <li> HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation, EMNLP25 oral</li> 
   <li> UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement, ICCV25</li>
   <li> VMBench: A Benchmark for Perception-Aligned Video Motion Generation, ICCV25</li>
   <li> LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling, ICCV25</li>
@@ -151,3 +158,7 @@ Selected Related Reports
 8. [雷军强推:小米造最强超分辨率算法，现已开源](https://www.jiqizhixin.com/articles/2019-02-20-14)
 9. [超越MnasNet、Proxyless：小米提出全新神经架构搜索算法FairNAS](https://www.jiqizhixin.com/articles/2019-07-05-6)
 10. [两个月三项成果，对标谷歌！独家对话小米AutoML团队，如何让模型搜索更公平](https://mp.weixin.qq.com/s/lMLAd2sTZdRjbMa38HS3vg)
+
+
+ <a href='http://www.freevisitorcounters.com'>visitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=31dd2b5ea9e0f23b78cdb124346f25d08819f711'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1458162/t/1"></script>
