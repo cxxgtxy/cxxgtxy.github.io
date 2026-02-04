@@ -8,131 +8,172 @@ redirect_from:
   - /about.html
 ---
 
-
-senior director, AMAP, Alibaba Group
+Senior Director, AMAP, Alibaba Group
 ======
 
-I am a senior director at Alibaba (AMAP), leading a team that delivers intelligent route navigation and implements AIGC solutions for core business scenarios. In 2023, I was fortunate to be selected as one of the top 100 AI scholars by AMiner. Prior to that, I served as a senior manager at Meituan (2020-2024) and Xiaomi (2017-2020). I earned my Bachelor of Science in Electrical Engineering from Southeast University in 2010, and later my Master of Science in Electrical Engineering from Tsinghua University in 2012.
+I am a senior director at Alibaba (AMAP), leading a team that delivers intelligent route navigation and implements AIGC solutions for core business scenarios. In 2023, I was fortunate to be selected as one of the **Top 100 AI Scholars** by AMiner. Prior to that, I served as a senior manager at Meituan (2020-2024) and Xiaomi (2017-2020). I earned my Bachelor of Science in Electrical Engineering from Southeast University in 2010, and later my Master of Science in Electrical Engineering from Tsinghua University in 2012.
 
 *We are always looking for talented interns/full-time researchers with strong coding skills and research experience. Please drop me an email if interested.*
 
+---
 
+Highlights
+------
 
-1. Research and Innovation: Published 50+ papers at  AI conferences, of which 20 were first-authored; 3 first-authored papers were selected for the PaperDigest's most influential paper list (FairNAS, Twins, CPVT); holds over 40 domestic and 7 international invention patents.
+### Research & Innovation
+- Published **50+ papers** at top AI conferences, with **20 first-authored papers**
+- **3 papers** selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
+- Holds **40+ domestic** and **7 international** invention patents
 
-2. Research Directions: LLM pre-training, multimodal large models, reinforcement learning and generative models, foundation model design, NAS, model compression, self-supervised learning, 2D perception, 3D detection, etc., and has paper output or business implementation in the above directions.
+### Research Directions
+LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative Models | Foundation Model Design | Neural Architecture Search | Model Compression | Self-supervised Learning | 2D/3D Perception
 
-3. Achievements: Has rich implementation experience in [AI middle platform, autonomous driving, edge cloud]; excels at creating value for the company and customers through technology, especially good at overcoming difficulties; good at coordinating resources, cooperation and win-win.
+### Industry Impact
+- Rich implementation experience across **AI platforms**, **autonomous driving**, and **edge-cloud systems**
+- Excels at creating value through technology and overcoming complex challenges
 
-4. Team Building and Leadership: Has experience managing a technical team of more than 100 people, excels at building influential technical teams, over 50% of team members come from famous domestic and international AI labs, good at attracting top talents in the industry, open source well-known detection framework in the industry.
+### Leadership
+- Managed technical teams of **100+ members**
+- Over 50% of team members recruited from renowned domestic and international AI labs
+- Open-sourced industry-leading detection framework [YOLOv6](https://github.com/meituan/YOLOv6)
 
-5. Influence: Multiple industry invited talks, top conference shares, technology media reports, Lei Jun & Xiaomi's multiple public praises, etc.
+### Recognition
+- Multiple industry invited talks and top conference presentations
+- Technology media coverage and public recognition from Lei Jun & Xiaomi
 
+---
 
-
-
-[//]: # (Education)
-
-[//]: # (======)
-
-[//]: # (* B.S. in EE, SouthEast University, 2010)
-
-[//]: # (* M.S. in EE, Tsinghua University, 2012 )
-
-Work experience
+Work Experience
 ======
-* __Mar 2024 - present, Alibaba Group, AMAP, Senior Director__
-  * Team direction: Multi-modal large models, Generation Models, Route Navigation, Recommendation, Spatio-temporal Data Mining
 
-* __May 2020 - Mar 2024, Meituan, Visual Intelligence Department, Senior Technical Manager__
-  * Team direction: Multi-modal large models，Large Language Model, perception (2D+3D), foundation model, self-supervised pre-training, model compression, MLOps.
-  * __Large foundation models (LLM and multi-modal)__:
-    * Responsible for building a general understanding (multi-modal) large model, open set understanding, and landing in Meituan scenarios.
-    * Compression and efficient deployment of the company's trillion LLM,  reaches the advanced level in the industry.
-    * Training and deployment of the LLM base model for the general intelligent robot (embodied intelligence) scene.
-    * Reproduced Meta LLaMA 7B base model and SFT from scratch, and independently developed 1B and 3B [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) benchmarking Gemini Nano. MobileVLM v2 outperforms many popular larger models.
-    * Foundation models: [VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) unifies the architecture of vision and language, which also outperforms ViT in both understanding and generation tasks. [Twins](https://github.com/Meituan-AutoML/Twins) outperforms Swin and  enjoys more deployment advantages in production environment.
-  * __Core technology breakthroughs in autonomous driving and drones__: 
-    * Building the 3D offline system for autonomous delivery vehicles, saving the business many million in annotation costs annually.
-    * Improving online perception algorithms (3D obstacle detection, tracking), helping the autonomous vehicle team achieve industry-leading real-time perception capabilities. Improving the efficiency of building high-precision maps. 
-    * Several core perception modules have been launched on the third and fourth generation drones. 
-  * __Broad AI business support and MLOps construction__: 
-    * Construction vision code base, construction of AutoML  tools, model compression and deployment (end, edge, cloud), covering most of  vision applications such as face recognition, OCR, security review, image understanding, saving many million in vision service costs annually.
-  * __Team building__:
-    * Building a team from 0 to 1, completing interviews with multiple Google PHD Fellowship, attracting top talents recognized in the industry.
-  * __Influence building__:
-    * Open sourcing and maintaining the well-known detection library [YOLOv6](https://github.com/meituan/YOLOv6).
-    * As a project backbone, undertaking the national science and technology innovation 2030 major special project 3.3 research on key technologies of artificial intelligence fundamental models.
-* __March 2017 - May 2020, Xiaomi, Artificial Intelligence Department, Senior Technical Manager__
-  * Team direction: AutoML, base model design, machine learning.
-  * Initiated the AutoML project, built the AutoML team from 0 to 1, responsible for all-round technical research, algorithm development and implementation. Implemented in multiple businesses such as scene recognition, segmentation, acoustic scene classification, recommendation, etc. 
-  * Lead the team and  won the second place ("Automated Neural Network Design") in the first __"Million Dollar Prize"__ of Xiaomi Company. 
-  
-* __June 2013 - March 2017, Beijing KingStar System Control Co., Ltd., Deputy  Director__
-  *  As a technical backbone, participated in the "Complex Power Grid Autonomy - Collaborative Automatic Voltage Control Key Technology, System Development and Engineering Application" project, which was awarded the __2018 National Science and Technology Progress First Prize__ (contributing 20 invention patents).
+### Alibaba Group - AMAP
+**Senior Director** | Mar 2024 - Present
 
-* __July 2012 - May 2013, IBM  Research of China (CRL), Research Scientist__
+*Team Direction:* Multi-modal Large Models, Generation Models, Route Navigation, Recommendation, Spatio-temporal Data Mining
+
+---
+
+### Meituan - Visual Intelligence Department
+**Senior Technical Manager** | May 2020 - Mar 2024
+
+*Team Direction:* Multi-modal Large Models, Large Language Model, Perception (2D+3D), Foundation Model, Self-supervised Pre-training, Model Compression, MLOps
+
+**Large Foundation Models (LLM and Multi-modal)**
+- Built general understanding (multi-modal) large model with open set understanding capabilities for Meituan scenarios
+- Achieved industry-leading compression and efficient deployment of the company's trillion-parameter LLM
+- Trained and deployed LLM base model for embodied intelligence scenarios
+- Reproduced Meta LLaMA 7B from scratch; developed 1B and 3B [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) benchmarking Gemini Nano
+- Created [VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) unifying vision and language architecture; [Twins](https://github.com/Meituan-AutoML/Twins) outperforming Swin with production deployment advantages
+
+**Autonomous Driving & Drones**
+- Built 3D offline system for autonomous delivery vehicles, saving millions in annotation costs annually
+- Improved online perception algorithms (3D obstacle detection, tracking) achieving industry-leading real-time capabilities
+- Launched core perception modules on third and fourth generation drones
+
+**AI Business Support & MLOps**
+- Constructed vision code base and AutoML tools
+- Model compression and deployment (end, edge, cloud) covering face recognition, OCR, security review, image understanding
+- Saved millions in vision service costs annually
+
+**Team & Influence Building**
+- Built team from 0 to 1; recruited multiple Google PhD Fellowship recipients
+- Open-sourced and maintained [YOLOv6](https://github.com/meituan/YOLOv6) detection library
+- Contributed to National Science and Technology Innovation 2030 major project on AI fundamental models
+
+---
+
+### Xiaomi - Artificial Intelligence Department
+**Senior Technical Manager** | Mar 2017 - May 2020
+
+*Team Direction:* AutoML, Base Model Design, Machine Learning
+
+- Initiated AutoML project and built the team from 0 to 1
+- Implemented in scene recognition, segmentation, acoustic scene classification, recommendation
+- Won **2nd place** in Xiaomi's first **"Million Dollar Prize"** (Automated Neural Network Design)
+
+---
+
+### Beijing KingStar System Control Co., Ltd.
+**Deputy Director** | Jun 2013 - Mar 2017
+
+- Key contributor to "Complex Power Grid Autonomy - Collaborative Automatic Voltage Control" project
+- Awarded **2018 National Science and Technology Progress First Prize** (contributed 20 invention patents)
+
+---
+
+### IBM Research China (CRL)
+**Research Scientist** | Jul 2012 - May 2013
+
+---
 
 Publications
 ======
-__First-author papers__
+
+### First-Author Papers
 <ol>
 <small>
   <li>Twins: Revisiting the design of spatial attention in vision transformers, NeurIPS21</li>
   <li>Conditional Positional Encodings for Vision Transformers, ICLR23</li>
-  <li>VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks, ECCV24 </li>
-  <li>MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices </li>
+  <li>VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks, ECCV24</li>
+  <li>Gpg: A simple and strong reinforcement learning baseline for model reasoning, ICLR26</li>
+  <li>MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices</li>
   <li>MobileVLM V2: Faster and Stronger Baseline for Vision Language Model</li>
-  <li>FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search, ICCV21 </li>
+  <li>FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search, ICCV21</li>
   <li>Fair DARTS: Eliminating unfair advantages in differentiable architecture search, ECCV20</li>
-  <li>DARTS-: robustly stepping out of performance collapse without indicators, ICLR21</li>
-  <li>ROME: Robustifying memory-efficient nas via topology disentanglement and gradients accumulation, ICCV23</li>
+  <li>DARTS-: Robustly stepping out of performance collapse without indicators, ICLR21</li>
+  <li>ROME: Robustifying memory-efficient NAS via topology disentanglement and gradients accumulation, ICCV23</li>
   <li>Make RepVGG Greater Again: A Quantization-aware Approach, AAAI24</li>
   <li>MixPATH: A unified approach for one-shot neural architecture search, ICCV23</li>
-  <li> USP: Unified self-supervised pretraining for image generation and understanding, ICCV25</li>
+  <li>USP: Unified self-supervised pretraining for image generation and understanding, ICCV25</li>
   <li>Noisy differentiable architecture search, BMVC21</li>
   <li>A Unified Mixture-View Framework for Unsupervised Representation Learning, BMVC22</li>
   <li>Multi-objective reinforced evolution in mobile neural architecture search, ECCVW2020</li>
   <li>Fast, accurate and lightweight super-resolution with neural architecture search, ICPR20</li>
-  <li>MoGA: Searching beyond mobilenetv3, ICASSP2020</li>
-  <li>Scarlet-NAS: bridging the gap between stability and scalability in weight-sharing neural architecture search, ICCVW21</li>
+  <li>MoGA: Searching beyond MobileNetV3, ICASSP2020</li>
+  <li>Scarlet-NAS: Bridging the gap between stability and scalability in weight-sharing NAS, ICCVW21</li>
   <li>Parameter sharing deep deterministic policy gradient for cooperative multi-agent reinforcement learning</li>
   <li>Improved crowding distance for NSGA-II</li>
-  <li>Policy optimization with penalized point probability distance: An alternative to proximal policy optimization</li>
-  <li>Gpg: A simple and strong reinforcement learning baseline for model reasoning</li>
-  </small>
+  <li>Policy optimization with penalized point probability distance: An alternative to PPO</li>
+</small>
 </ol>
 
-
-__Other Collaborative Papers__
+### Collaborative Papers
 <ol>
 <small>
+  <li>Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation, ICLR26</li>
+  <li>Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models, ICLR26</li>
+  <li>There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training, ICLR26</li>
+  <li>Video-star: Reinforcing open-vocabulary action recognition with tools, ICLR26</li>
+  <li>Tree search for LLM agent reinforcement learning, ICLR26</li>
+  <li>AutoDrive-R: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, ICLR26</li>
+  <li>S-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models, ICLR26</li>
+  <li>Narrlv: Towards a comprehensive narrative-centric evaluation for long video generation models, ICLR26</li>
   <li>Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning, AAAI26</li>
   <li>Scalar: Scale-wise controllable visual autoregressive learning, AAAI26</li>
   <li>Omni-effects: Unified and spatially-controllable visual effects generation, AAAI26</li>
   <li>AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting, AAAI26</li>
   <li>ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints, AAAI26</li>
-  <li> Position bias mitigates position bias: Mitigate position bias through inter-position knowledge distillation, EMNLP25 oral</li>
-  <li> HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation, EMNLP25 oral</li> 
-  <li> UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement, ICCV25</li>
-  <li> VMBench: A Benchmark for Perception-Aligned Video Motion Generation, ICCV25</li>
-  <li> LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling, ICCV25</li>
-  <li> FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos, ACM MM25</li>
-  <li> Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition, ECCV24</li>
-  <li> Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness, ICML24</li>
-  <li> PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution, CVPR24</li>
-  <li> LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection, ICLR24</li>
+  <li>Position bias mitigates position bias: Mitigate position bias through inter-position knowledge distillation, EMNLP25 oral</li>
+  <li>HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation, EMNLP25 oral</li>
+  <li>UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement, ICCV25</li>
+  <li>VMBench: A Benchmark for Perception-Aligned Video Motion Generation, ICCV25</li>
+  <li>LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling, ICCV25</li>
+  <li>FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos, ACM MM25</li>
+  <li>Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition, ECCV24</li>
+  <li>Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness, ICML24</li>
+  <li>PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution, CVPR24</li>
+  <li>LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection, ICLR24</li>
   <li>Norm Tweaking: High-performance Low-bit Quantization of Large Language Models, AAAI24</li>
-  <li>YOLOv6: A single-stage object detection framework for industrial applications (github stars 5.3k)</li>
-  <li>A Speed Odyssey for Deployable Quantization of LLMs </li>
-  <li>FPTQ: Fine-grained Post-Training Quantization for Large Language Models </li>
-  <li>Lenna: Language Enhanced Reasoning Detection Assistant </li>
+  <li>YOLOv6: A single-stage object detection framework for industrial applications (5.3k GitHub stars)</li>
+  <li>A Speed Odyssey for Deployable Quantization of LLMs</li>
+  <li>FPTQ: Fine-grained Post-Training Quantization for Large Language Models</li>
+  <li>Lenna: Language Enhanced Reasoning Detection Assistant</li>
   <li>SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation, AAAI24</li>
   <li>Promptdet: Towards open-vocabulary detection using uncurated images, ECCV22</li>
   <li>SegVIT: Semantic segmentation with plain vision transformers, NeurIPS22</li>
   <li>Fully convolutional one-stage 3D object detection on LiDAR range images, NeurIPS22</li>
   <li>Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation, CVPR22</li>
-  <li>Aedet: Azimuth-invariant multi-view 3d object detection, CVPR23</li>
+  <li>Aedet: Azimuth-invariant multi-view 3D object detection, CVPR23</li>
   <li>EAPruning: Evolutionary Pruning for Vision Transformers and CNNs, BMVC22</li>
   <li>AutoKWS: Keyword Spotting with Differentiable Architecture Search, ICASSP21</li>
   <li>Neural Architecture Search on Acoustic Scene Classification, InterSpeech20</li>
@@ -141,11 +182,12 @@ __Other Collaborative Papers__
   <li>Comparisons of three inductive pulse power supplies, IEEE Transactions on Plasma Science</li>
   <li>FastPillars: A Deployment-friendly Pillar-based 3D Detector</li>
   <li>LogicalDefender: Discovering, Extracting, and Utilizing Common-Sense Knowledge</li>
-  </small>
+</small>
 </ol>
 
+---
 
-Selected Related Reports
+Selected Media Coverage
 ======
 
 1. [全面超越ViT，美团、浙大等提出视觉任务统一架构VisionLLAMA](https://mp.weixin.qq.com/s/grFI_fapRtjVp7CbPkfTNA)
