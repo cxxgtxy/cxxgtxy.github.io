@@ -44,17 +44,5 @@ LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative
 
 ---
 
-Open Source Projects
-------
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [YOLOv6](https://github.com/meituan/YOLOv6) | Single-stage object detection framework | 5.3k+ |
-| [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) | Mobile vision language model | - |
-| [VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) | Unified LLaMA backbone for vision | - |
-| [Twins](https://github.com/Meituan-AutoML/Twins) | Spatial attention in vision transformers | - |
-
----
-
 <a href='http://www.freevisitorcounters.com'>visitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=31dd2b5ea9e0f23b78cdb124346f25d08819f711'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1458162/t/1"></script>
