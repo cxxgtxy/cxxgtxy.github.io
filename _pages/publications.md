@@ -29,14 +29,14 @@ First-Author Papers
   <li><a href="https://arxiv.org/abs/2001.05887">MixPATH: A unified approach for one-shot neural architecture search</a>, <strong>ICCV23</strong></li>
   <li><a href="https://arxiv.org/abs/2503.06132">USP: Unified self-supervised pretraining for image generation and understanding</a>, <strong>ICCV25</strong></li>
   <li><a href="https://arxiv.org/abs/2005.03566">Noisy differentiable architecture search</a>, <strong>BMVC21</strong></li>
-  <li>A Unified Mixture-View Framework for Unsupervised Representation Learning, <strong>BMVC22</strong></li>
+  <li><a href="https://arxiv.org/abs/2011.13356">A Unified Mixture-View Framework for Unsupervised Representation Learning</a>, <strong>BMVC22</strong></li>
   <li><a href="https://arxiv.org/abs/1901.01074">Multi-objective reinforced evolution in mobile neural architecture search</a>, <strong>ECCVW2020</strong></li>
   <li><a href="https://arxiv.org/abs/1901.07261">Fast, accurate and lightweight super-resolution with neural architecture search</a>, <strong>ICPR20</strong></li>
   <li><a href="https://ieeexplore.ieee.org/document/9054428">MoGA: Searching beyond MobileNetV3</a>, <strong>ICASSP2020</strong></li>
   <li><a href="https://arxiv.org/abs/1908.06022">Scarlet-NAS: Bridging the gap between stability and scalability in weight-sharing NAS</a>, <strong>ICCVW21</strong></li>
-  <li>Parameter sharing deep deterministic policy gradient for cooperative multi-agent reinforcement learning</li>
-  <li>Improved crowding distance for NSGA-II</li>
-  <li>Policy optimization with penalized point probability distance: An alternative to PPO</li>
+  <li><a href="https://arxiv.org/abs/1710.00336">Parameter sharing deep deterministic policy gradient for cooperative multi-agent reinforcement learning</a></li>
+  <li><a href="https://arxiv.org/abs/1811.12667">Improved crowding distance for NSGA-II</a></li>
+  <li><a href="https://arxiv.org/abs/1807.00442">Policy optimization with penalized point probability distance: An alternative to PPO</a></li>
 </ol>
 
 ---
@@ -47,17 +47,17 @@ Collaborative Papers
 <ol>
   <li><a href="https://arxiv.org/abs/2601.20614">Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation</a>, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR26</strong></li>
-  <li>There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2510.12586">There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training</a>, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2510.08480">Video-star: Reinforcing open-vocabulary action recognition with tools</a>, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2509.21240">Tree search for LLM agent reinforcement learning</a>, <strong>ICLR26</strong></li>
-  <li>AutoDrive-R: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2509.01944">AutoDrive-R: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving</a>, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2508.12880">S-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR26</strong></li>
   <li>Narrlv: Towards a comprehensive narrative-centric evaluation for long video generation models, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2511.08246">Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning</a>, <strong>AAAI26</strong></li>
   <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI26</strong></li>
   <li><a href="https://arxiv.org/abs/2508.07981">Omni-effects: Unified and spatially-controllable visual effects generation</a>, <strong>AAAI26</strong></li>
   <li><a href="https://arxiv.org/abs/2511.09478">AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting</a>, <strong>AAAI26</strong></li>
-  <li>ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints, <strong>AAAI26</strong></li>
+  <li><a href="https://arxiv.org/abs/2510.14847">ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints</a>, <strong>AAAI26</strong></li>
   <li><a href="https://arxiv.org/abs/2508.15709">Position bias mitigates position bias: Mitigate position bias through inter-position knowledge distillation</a>, <strong>EMNLP25 oral</strong></li>
   <li><a href="https://arxiv.org/abs/2505.19866">HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation</a>, <strong>EMNLP25 oral</strong></li>
   <li><a href="https://arxiv.org/abs/2507.00721">UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement</a>, <strong>ICCV25</strong></li>
@@ -70,9 +70,9 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2401.15865">LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection</a>, <strong>ICLR24</strong></li>
   <li><a href="https://arxiv.org/abs/2309.02784">Norm Tweaking: High-performance Low-bit Quantization of Large Language Models</a>, <strong>AAAI24</strong></li>
   <li><a href="https://arxiv.org/abs/2209.02976">YOLOv6: A single-stage object detection framework for industrial applications</a> (5.3k GitHub stars)</li>
-  <li>A Speed Odyssey for Deployable Quantization of LLMs</li>
+  <li><a href="https://arxiv.org/abs/2311.09550">A Speed Odyssey for Deployable Quantization of LLMs</a></li>
   <li><a href="https://arxiv.org/abs/2308.15987">FPTQ: Fine-grained Post-Training Quantization for Large Language Models</a></li>
-  <li>Lenna: Language Enhanced Reasoning Detection Assistant</li>
+  <li><a href="https://arxiv.org/abs/2312.02433">Lenna: Language Enhanced Reasoning Detection Assistant</a></li>
   <li><a href="https://arxiv.org/abs/2312.17071">SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation</a>, <strong>AAAI24</strong></li>
   <li><a href="https://arxiv.org/abs/2203.16513">PromptDet: Towards open-vocabulary detection using uncurated images</a>, <strong>ECCV22</strong></li>
   <li><a href="https://arxiv.org/abs/2210.05844">SegViT: Semantic segmentation with plain vision transformers</a>, <strong>NeurIPS22</strong></li>
@@ -82,9 +82,9 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2210.00181">EAPruning: Evolutionary Pruning for Vision Transformers and CNNs</a>, <strong>BMVC22</strong></li>
   <li><a href="https://arxiv.org/abs/2009.03658">AutoKWS: Keyword Spotting with Differentiable Architecture Search</a>, <strong>ICASSP21</strong></li>
   <li>Neural Architecture Search on Acoustic Scene Classification, <strong>InterSpeech20</strong></li>
-  <li>Accurate and efficient single image super-resolution with matrix channel attention network, <strong>ACCV20</strong></li>
+  <li><a href="https://openaccess.thecvf.com/content/ACCV2020/html/Ma_Accurate_and_Efficient_Single_Image_Super-Resolution_with_Matrix_Channel_Attention_ACCV_2020_paper.html">Accurate and efficient single image super-resolution with matrix channel attention network</a>, <strong>ACCV20</strong></li>
   <li>STRETCH meat grinder with ICCOS, <strong>IEEE Transactions on Plasma Science</strong></li>
   <li>Comparisons of three inductive pulse power supplies, <strong>IEEE Transactions on Plasma Science</strong></li>
   <li><a href="https://arxiv.org/abs/2302.02367">FastPillars: A Deployment-friendly Pillar-based 3D Detector</a></li>
-  <li>LogicalDefender: Discovering, Extracting, and Utilizing Common-Sense Knowledge</li>
+  <li><a href="https://arxiv.org/abs/2403.11570">LogicalDefender: Discovering, Extracting, and Utilizing Common-Sense Knowledge</a></li>
 </ol>
