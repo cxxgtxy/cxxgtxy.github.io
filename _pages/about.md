@@ -21,7 +21,7 @@ Highlights
 ------
 
 ### Research & Innovation
-- Published **90+ papers**  AI papers, with **22 first-authored papers**
+- Published **90+ AI papers**, with **22 first-authored papers**
 - **3 papers** selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
 - Holds **40+ domestic** and **7 international** invention patents
 
