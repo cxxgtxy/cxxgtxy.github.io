@@ -15,24 +15,24 @@ First-Author Papers
 ======
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2104.13840">Twins: Revisiting the design of spatial attention in vision transformers</a>, <strong>NeurIPS21</strong></li>
+  <li><a href="https://arxiv.org/abs/2104.13840">Twins: Revisiting the design of spatial attention in vision transformers</a>, <strong>NeurIPS21</strong> <a href="https://github.com/Meituan-AutoML/Twins"><i class="fab fa-fw fa-github"></i>608</a></li>
   <li><a href="https://arxiv.org/abs/2102.10882">Conditional Positional Encodings for Vision Transformers</a>, <strong>ICLR23</strong></li>
-  <li><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks</a>, <strong>ECCV24</strong></li>
+  <li><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks</a>, <strong>ECCV24</strong> <a href="https://github.com/Meituan-AutoML/VisionLLaMA"><i class="fab fa-fw fa-github"></i>390</a></li>
   <li><a href="https://arxiv.org/abs/2504.02546">GPG: A simple and strong reinforcement learning baseline for model reasoning</a>, <strong>ICLR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2312.16886">MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices</a></li>
+  <li><a href="https://arxiv.org/abs/2312.16886">MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices</a> <a href="https://github.com/Meituan-AutoML/MobileVLM"><i class="fab fa-fw fa-github"></i>1.3k</a></li>
   <li><a href="https://arxiv.org/abs/2402.03766">MobileVLM V2: Faster and Stronger Baseline for Vision Language Model</a></li>
-  <li><a href="https://arxiv.org/abs/1907.01845">FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search</a>, <strong>ICCV21</strong></li>
+  <li><a href="https://arxiv.org/abs/1907.01845">FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search</a>, <strong>ICCV21</strong> <a href="https://github.com/xiaomi-automl/FairNAS"><i class="fab fa-fw fa-github"></i>304</a></li>
   <li><a href="https://arxiv.org/abs/1911.12126">Fair DARTS: Eliminating unfair advantages in differentiable architecture search</a>, <strong>ECCV20</strong></li>
-  <li><a href="https://arxiv.org/abs/2009.01027">DARTS-: Robustly stepping out of performance collapse without indicators</a>, <strong>ICLR21</strong></li>
+  <li><a href="https://arxiv.org/abs/2009.01027">DARTS-: Robustly stepping out of performance collapse without indicators</a>, <strong>ICLR21</strong> <a href="https://github.com/Meituan-AutoML/DARTS-"><i class="fab fa-fw fa-github"></i>57</a></li>
   <li><a href="https://arxiv.org/abs/2011.11233">ROME: Robustifying memory-efficient NAS via topology disentanglement and gradients accumulation</a>, <strong>ICCV23</strong></li>
-  <li><a href="https://arxiv.org/abs/2212.01593">Make RepVGG Greater Again: A Quantization-aware Approach</a>, <strong>AAAI24</strong></li>
+  <li><a href="https://arxiv.org/abs/2212.01593">Make RepVGG Greater Again: A Quantization-aware Approach</a>, <strong>AAAI24</strong> <a href="https://github.com/cxxgtxy/QARepVGG"><i class="fab fa-fw fa-github"></i>28</a></li>
   <li><a href="https://arxiv.org/abs/2001.05887">MixPATH: A unified approach for one-shot neural architecture search</a>, <strong>ICCV23</strong></li>
   <li><a href="https://arxiv.org/abs/2503.06132">USP: Unified self-supervised pretraining for image generation and understanding</a>, <strong>ICCV25</strong></li>
   <li><a href="https://arxiv.org/abs/2005.03566">Noisy differentiable architecture search</a>, <strong>BMVC21</strong></li>
   <li><a href="https://arxiv.org/abs/2011.13356">A Unified Mixture-View Framework for Unsupervised Representation Learning</a>, <strong>BMVC22</strong></li>
   <li><a href="https://arxiv.org/abs/1901.01074">Multi-objective reinforced evolution in mobile neural architecture search</a>, <strong>ECCVW2020</strong></li>
-  <li><a href="https://arxiv.org/abs/1901.07261">Fast, accurate and lightweight super-resolution with neural architecture search</a>, <strong>ICPR20</strong></li>
-  <li><a href="https://ieeexplore.ieee.org/document/9054428">MoGA: Searching beyond MobileNetV3</a>, <strong>ICASSP2020</strong></li>
+  <li><a href="https://arxiv.org/abs/1901.07261">Fast, accurate and lightweight super-resolution with neural architecture search</a>, <strong>ICPR20</strong> <a href="https://github.com/xiaomi-automl/FALSR"><i class="fab fa-fw fa-github"></i>690</a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/9054428">MoGA: Searching beyond MobileNetV3</a>, <strong>ICASSP2020</strong> <a href="https://github.com/xiaomi-automl/MoGA"><i class="fab fa-fw fa-github"></i>227</a></li>
   <li><a href="https://arxiv.org/abs/1908.06022">Scarlet-NAS: Bridging the gap between stability and scalability in weight-sharing NAS</a>, <strong>ICCVW21</strong></li>
   <li><a href="https://arxiv.org/abs/1710.00336">Parameter sharing deep deterministic policy gradient for cooperative multi-agent reinforcement learning</a></li>
   <li><a href="https://arxiv.org/abs/1811.12667">Improved crowding distance for NSGA-II</a></li>
@@ -49,9 +49,9 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2510.12586">There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training</a>, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2510.08480">Video-star: Reinforcing open-vocabulary action recognition with tools</a>, <strong>ICLR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2509.21240">Tree search for LLM agent reinforcement learning</a>, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2509.21240">Tree search for LLM agent reinforcement learning</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/Tree-GRPO"><i class="fab fa-fw fa-github"></i>281</a></li>
   <li><a href="https://arxiv.org/abs/2509.01944">AutoDrive-R: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving</a>, <strong>ICLR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2508.12880">S-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2508.12880">S-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/S2-Guidance"><i class="fab fa-fw fa-github"></i>151</a></li>
   <li>Narrlv: Towards a comprehensive narrative-centric evaluation for long video generation models, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2511.08246">Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning</a>, <strong>AAAI26</strong></li>
   <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI26</strong></li>
@@ -69,10 +69,10 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2403.07589">PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution</a>, <strong>CVPR24</strong></li>
   <li><a href="https://arxiv.org/abs/2401.15865">LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection</a>, <strong>ICLR24</strong></li>
   <li><a href="https://arxiv.org/abs/2309.02784">Norm Tweaking: High-performance Low-bit Quantization of Large Language Models</a>, <strong>AAAI24</strong></li>
-  <li><a href="https://arxiv.org/abs/2209.02976">YOLOv6: A single-stage object detection framework for industrial applications</a> (5.3k GitHub stars)</li>
+  <li><a href="https://arxiv.org/abs/2209.02976">YOLOv6: A single-stage object detection framework for industrial applications</a>, <strong>arXiv</strong> <a href="https://github.com/meituan/YOLOv6"><i class="fab fa-fw fa-github"></i>5.9k</a></li>
   <li><a href="https://arxiv.org/abs/2311.09550">A Speed Odyssey for Deployable Quantization of LLMs</a></li>
   <li><a href="https://arxiv.org/abs/2308.15987">FPTQ: Fine-grained Post-Training Quantization for Large Language Models</a></li>
-  <li><a href="https://arxiv.org/abs/2312.02433">Lenna: Language Enhanced Reasoning Detection Assistant</a></li>
+  <li><a href="https://arxiv.org/abs/2312.02433">Lenna: Language Enhanced Reasoning Detection Assistant</a> <a href="https://github.com/Meituan-AutoML/Lenna"><i class="fab fa-fw fa-github"></i>86</a></li>
   <li><a href="https://arxiv.org/abs/2312.17071">SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation</a>, <strong>AAAI24</strong></li>
   <li><a href="https://arxiv.org/abs/2203.16513">PromptDet: Towards open-vocabulary detection using uncurated images</a>, <strong>ECCV22</strong></li>
   <li><a href="https://arxiv.org/abs/2210.05844">SegViT: Semantic segmentation with plain vision transformers</a>, <strong>NeurIPS22</strong></li>
