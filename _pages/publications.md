@@ -86,5 +86,4 @@ Collaborative Papers
   <li>STRETCH meat grinder with ICCOS, <strong>IEEE Transactions on Plasma Science</strong></li>
   <li>Comparisons of three inductive pulse power supplies, <strong>IEEE Transactions on Plasma Science</strong></li>
   <li><a href="https://arxiv.org/abs/2302.02367">FastPillars: A Deployment-friendly Pillar-based 3D Detector</a></li>
-  <li><a href="https://arxiv.org/abs/2403.11570">LogicalDefender: Discovering, Extracting, and Utilizing Common-Sense Knowledge</a></li>
 </ol>
