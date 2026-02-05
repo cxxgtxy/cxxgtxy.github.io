@@ -57,7 +57,7 @@ Collaborative Papers
   <li>Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V, <strong>ICASSP26</strong></li>
   <li>Artifact-Aware Evaluation for High-Quality Video Generation, <strong>ICASSP26</strong></li>
   <li>TEXTS-Diff: TEXTS-Aware Diffusion Model for Real-World Text Image Super-Resolution, <strong>ICASSP26</strong></li>
-  <li><a href="https://arxiv.org/abs/2601.10477">Urban Socio-Semantic Segmentation with Vision-Language Reasoning</a></li>
+  <li><a href="https://arxiv.org/abs/2601.10477">Urban Socio-Semantic Segmentation with Vision-Language Reasoning</a> <a href="https://github.com/AMAP-ML/SocioReasoner"><img src="https://img.shields.io/github/stars/AMAP-ML/SocioReasoner?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a></li>
   <li><a href="https://arxiv.org/abs/2512.24146">Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning</a></li>
   <li><a href="https://arxiv.org/abs/2512.24271">Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation</a></li>
