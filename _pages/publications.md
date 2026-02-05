@@ -15,25 +15,25 @@ First-Author Papers
 ======
 
 <ol>
-  <li>Twins: Revisiting the design of spatial attention in vision transformers, <strong>NeurIPS21</strong></li>
-  <li>Conditional Positional Encodings for Vision Transformers, <strong>ICLR23</strong></li>
-  <li>VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks, <strong>ECCV24</strong></li>
-  <li>Gpg: A simple and strong reinforcement learning baseline for model reasoning, <strong>ICLR26</strong></li>
-  <li>MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices</li>
-  <li>MobileVLM V2: Faster and Stronger Baseline for Vision Language Model</li>
-  <li>FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search, <strong>ICCV21</strong></li>
-  <li>Fair DARTS: Eliminating unfair advantages in differentiable architecture search, <strong>ECCV20</strong></li>
-  <li>DARTS-: Robustly stepping out of performance collapse without indicators, <strong>ICLR21</strong></li>
-  <li>ROME: Robustifying memory-efficient NAS via topology disentanglement and gradients accumulation, <strong>ICCV23</strong></li>
-  <li>Make RepVGG Greater Again: A Quantization-aware Approach, <strong>AAAI24</strong></li>
-  <li>MixPATH: A unified approach for one-shot neural architecture search, <strong>ICCV23</strong></li>
-  <li>USP: Unified self-supervised pretraining for image generation and understanding, <strong>ICCV25</strong></li>
-  <li>Noisy differentiable architecture search, <strong>BMVC21</strong></li>
+  <li><a href="https://arxiv.org/abs/2104.13840">Twins: Revisiting the design of spatial attention in vision transformers</a>, <strong>NeurIPS21</strong></li>
+  <li><a href="https://arxiv.org/abs/2102.10882">Conditional Positional Encodings for Vision Transformers</a>, <strong>ICLR23</strong></li>
+  <li><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks</a>, <strong>ECCV24</strong></li>
+  <li><a href="https://arxiv.org/abs/2504.02546">GPG: A simple and strong reinforcement learning baseline for model reasoning</a>, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2312.16886">MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices</a></li>
+  <li><a href="https://arxiv.org/abs/2402.03766">MobileVLM V2: Faster and Stronger Baseline for Vision Language Model</a></li>
+  <li><a href="https://arxiv.org/abs/1907.01845">FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search</a>, <strong>ICCV21</strong></li>
+  <li><a href="https://arxiv.org/abs/1911.12126">Fair DARTS: Eliminating unfair advantages in differentiable architecture search</a>, <strong>ECCV20</strong></li>
+  <li><a href="https://arxiv.org/abs/2009.01027">DARTS-: Robustly stepping out of performance collapse without indicators</a>, <strong>ICLR21</strong></li>
+  <li><a href="https://arxiv.org/abs/2011.11233">ROME: Robustifying memory-efficient NAS via topology disentanglement and gradients accumulation</a>, <strong>ICCV23</strong></li>
+  <li><a href="https://arxiv.org/abs/2212.01593">Make RepVGG Greater Again: A Quantization-aware Approach</a>, <strong>AAAI24</strong></li>
+  <li><a href="https://arxiv.org/abs/2001.05887">MixPATH: A unified approach for one-shot neural architecture search</a>, <strong>ICCV23</strong></li>
+  <li><a href="https://arxiv.org/abs/2503.06132">USP: Unified self-supervised pretraining for image generation and understanding</a>, <strong>ICCV25</strong></li>
+  <li><a href="https://arxiv.org/abs/2005.03566">Noisy differentiable architecture search</a>, <strong>BMVC21</strong></li>
   <li>A Unified Mixture-View Framework for Unsupervised Representation Learning, <strong>BMVC22</strong></li>
-  <li>Multi-objective reinforced evolution in mobile neural architecture search, <strong>ECCVW2020</strong></li>
-  <li>Fast, accurate and lightweight super-resolution with neural architecture search, <strong>ICPR20</strong></li>
-  <li>MoGA: Searching beyond MobileNetV3, <strong>ICASSP2020</strong></li>
-  <li>Scarlet-NAS: Bridging the gap between stability and scalability in weight-sharing NAS, <strong>ICCVW21</strong></li>
+  <li><a href="https://arxiv.org/abs/1901.01074">Multi-objective reinforced evolution in mobile neural architecture search</a>, <strong>ECCVW2020</strong></li>
+  <li><a href="https://arxiv.org/abs/1901.07261">Fast, accurate and lightweight super-resolution with neural architecture search</a>, <strong>ICPR20</strong></li>
+  <li><a href="https://ieeexplore.ieee.org/document/9054428">MoGA: Searching beyond MobileNetV3</a>, <strong>ICASSP2020</strong></li>
+  <li><a href="https://arxiv.org/abs/1908.06022">Scarlet-NAS: Bridging the gap between stability and scalability in weight-sharing NAS</a>, <strong>ICCVW21</strong></li>
   <li>Parameter sharing deep deterministic policy gradient for cooperative multi-agent reinforcement learning</li>
   <li>Improved crowding distance for NSGA-II</li>
   <li>Policy optimization with penalized point probability distance: An alternative to PPO</li>
@@ -45,46 +45,46 @@ Collaborative Papers
 ======
 
 <ol>
-  <li>Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation, <strong>ICLR26</strong></li>
-  <li>Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2601.20614">Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation</a>, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR26</strong></li>
   <li>There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training, <strong>ICLR26</strong></li>
-  <li>Video-star: Reinforcing open-vocabulary action recognition with tools, <strong>ICLR26</strong></li>
-  <li>Tree search for LLM agent reinforcement learning, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2510.08480">Video-star: Reinforcing open-vocabulary action recognition with tools</a>, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2509.21240">Tree search for LLM agent reinforcement learning</a>, <strong>ICLR26</strong></li>
   <li>AutoDrive-R: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving, <strong>ICLR26</strong></li>
-  <li>S-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models, <strong>ICLR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2508.12880">S-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR26</strong></li>
   <li>Narrlv: Towards a comprehensive narrative-centric evaluation for long video generation models, <strong>ICLR26</strong></li>
-  <li>Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning, <strong>AAAI26</strong></li>
-  <li>Scalar: Scale-wise controllable visual autoregressive learning, <strong>AAAI26</strong></li>
-  <li>Omni-effects: Unified and spatially-controllable visual effects generation, <strong>AAAI26</strong></li>
-  <li>AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting, <strong>AAAI26</strong></li>
+  <li><a href="https://arxiv.org/abs/2511.08246">Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning</a>, <strong>AAAI26</strong></li>
+  <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI26</strong></li>
+  <li><a href="https://arxiv.org/abs/2508.07981">Omni-effects: Unified and spatially-controllable visual effects generation</a>, <strong>AAAI26</strong></li>
+  <li><a href="https://arxiv.org/abs/2511.09478">AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting</a>, <strong>AAAI26</strong></li>
   <li>ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints, <strong>AAAI26</strong></li>
-  <li>Position bias mitigates position bias: Mitigate position bias through inter-position knowledge distillation, <strong>EMNLP25 oral</strong></li>
-  <li>HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation, <strong>EMNLP25 oral</strong></li>
-  <li>UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement, <strong>ICCV25</strong></li>
-  <li>VMBench: A Benchmark for Perception-Aligned Video Motion Generation, <strong>ICCV25</strong></li>
-  <li>LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling, <strong>ICCV25</strong></li>
-  <li>FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos, <strong>ACM MM25</strong></li>
-  <li>Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition, <strong>ECCV24</strong></li>
-  <li>Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness, <strong>ICML24</strong></li>
-  <li>PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution, <strong>CVPR24</strong></li>
-  <li>LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection, <strong>ICLR24</strong></li>
-  <li>Norm Tweaking: High-performance Low-bit Quantization of Large Language Models, <strong>AAAI24</strong></li>
-  <li>YOLOv6: A single-stage object detection framework for industrial applications (5.3k GitHub stars)</li>
+  <li><a href="https://arxiv.org/abs/2508.15709">Position bias mitigates position bias: Mitigate position bias through inter-position knowledge distillation</a>, <strong>EMNLP25 oral</strong></li>
+  <li><a href="https://arxiv.org/abs/2505.19866">HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation</a>, <strong>EMNLP25 oral</strong></li>
+  <li><a href="https://arxiv.org/abs/2507.00721">UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement</a>, <strong>ICCV25</strong></li>
+  <li><a href="https://arxiv.org/abs/2507.00790">VMBench: A Benchmark for Perception-Aligned Video Motion Generation</a>, <strong>ICCV25</strong></li>
+  <li><a href="https://arxiv.org/abs/2507.00790">LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling</a>, <strong>ICCV25</strong></li>
+  <li><a href="https://arxiv.org/abs/2504.10358">FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos</a>, <strong>ACM MM25</strong></li>
+  <li><a href="https://arxiv.org/abs/2407.14302">Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition</a>, <strong>ECCV24</strong></li>
+  <li><a href="https://arxiv.org/abs/2407.08972">Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness</a>, <strong>ICML24</strong></li>
+  <li><a href="https://arxiv.org/abs/2403.07589">PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution</a>, <strong>CVPR24</strong></li>
+  <li><a href="https://arxiv.org/abs/2401.15865">LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection</a>, <strong>ICLR24</strong></li>
+  <li><a href="https://arxiv.org/abs/2309.02784">Norm Tweaking: High-performance Low-bit Quantization of Large Language Models</a>, <strong>AAAI24</strong></li>
+  <li><a href="https://arxiv.org/abs/2209.02976">YOLOv6: A single-stage object detection framework for industrial applications</a> (5.3k GitHub stars)</li>
   <li>A Speed Odyssey for Deployable Quantization of LLMs</li>
-  <li>FPTQ: Fine-grained Post-Training Quantization for Large Language Models</li>
+  <li><a href="https://arxiv.org/abs/2308.15987">FPTQ: Fine-grained Post-Training Quantization for Large Language Models</a></li>
   <li>Lenna: Language Enhanced Reasoning Detection Assistant</li>
-  <li>SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation, <strong>AAAI24</strong></li>
-  <li>Promptdet: Towards open-vocabulary detection using uncurated images, <strong>ECCV22</strong></li>
-  <li>SegVIT: Semantic segmentation with plain vision transformers, <strong>NeurIPS22</strong></li>
-  <li>Fully convolutional one-stage 3D object detection on LiDAR range images, <strong>NeurIPS22</strong></li>
-  <li>Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation, <strong>CVPR22</strong></li>
-  <li>Aedet: Azimuth-invariant multi-view 3D object detection, <strong>CVPR23</strong></li>
-  <li>EAPruning: Evolutionary Pruning for Vision Transformers and CNNs, <strong>BMVC22</strong></li>
-  <li>AutoKWS: Keyword Spotting with Differentiable Architecture Search, <strong>ICASSP21</strong></li>
+  <li><a href="https://arxiv.org/abs/2312.17071">SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation</a>, <strong>AAAI24</strong></li>
+  <li><a href="https://arxiv.org/abs/2203.16513">PromptDet: Towards open-vocabulary detection using uncurated images</a>, <strong>ECCV22</strong></li>
+  <li><a href="https://arxiv.org/abs/2210.05844">SegViT: Semantic segmentation with plain vision transformers</a>, <strong>NeurIPS22</strong></li>
+  <li><a href="https://arxiv.org/abs/2205.13764">Fully convolutional one-stage 3D object detection on LiDAR range images</a>, <strong>NeurIPS22</strong></li>
+  <li><a href="https://arxiv.org/abs/2204.02547">Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation</a>, <strong>CVPR22</strong></li>
+  <li><a href="https://arxiv.org/abs/2211.12501">AeDet: Azimuth-invariant multi-view 3D object detection</a>, <strong>CVPR23</strong></li>
+  <li><a href="https://arxiv.org/abs/2210.00181">EAPruning: Evolutionary Pruning for Vision Transformers and CNNs</a>, <strong>BMVC22</strong></li>
+  <li><a href="https://arxiv.org/abs/2009.03658">AutoKWS: Keyword Spotting with Differentiable Architecture Search</a>, <strong>ICASSP21</strong></li>
   <li>Neural Architecture Search on Acoustic Scene Classification, <strong>InterSpeech20</strong></li>
   <li>Accurate and efficient single image super-resolution with matrix channel attention network, <strong>ACCV20</strong></li>
   <li>STRETCH meat grinder with ICCOS, <strong>IEEE Transactions on Plasma Science</strong></li>
   <li>Comparisons of three inductive pulse power supplies, <strong>IEEE Transactions on Plasma Science</strong></li>
-  <li>FastPillars: A Deployment-friendly Pillar-based 3D Detector</li>
+  <li><a href="https://arxiv.org/abs/2302.02367">FastPillars: A Deployment-friendly Pillar-based 3D Detector</a></li>
   <li>LogicalDefender: Discovering, Extracting, and Utilizing Common-Sense Knowledge</li>
 </ol>
