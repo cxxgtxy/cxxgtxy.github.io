@@ -45,6 +45,7 @@ Collaborative Papers
 ======
 
 <ol>
+  <li><a href="https://arxiv.org/abs/2602.09856">Code2World: A GUI World Model via Renderable Code Generation</a> <a href="https://github.com/AMAP-ML/Code2World"><img src="https://img.shields.io/github/stars/AMAP-ML/Code2World?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.20614">Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/MathForge"><img src="https://img.shields.io/github/stars/AMAP-ML/MathForge?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SpatialGenEval"><img src="https://img.shields.io/github/stars/AMAP-ML/SpatialGenEval?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2510.12586">There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/EPG"><img src="https://img.shields.io/github/stars/AMAP-ML/EPG?style=social" alt="GitHub stars"></a></li>
