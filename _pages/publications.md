@@ -45,6 +45,12 @@ Collaborative Papers
 ======
 
 <ol>
+  <li><a href="https://arxiv.org/abs/2603.03143">Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</a> <a href="https://github.com/AMAP-ML/RL3DEdit"><img src="https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a> <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR"><img src="https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel"><img src="https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.03152">FASA: Frequency-Aware Sparse Attention</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/FASA-ICLR2026"><img src="https://img.shields.io/github/stars/AMAP-ML/FASA-ICLR2026?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2601.22920">Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment</a> <a href="https://github.com/AMAP-ML/Q-Hawkeye"><img src="https://img.shields.io/github/stars/AMAP-ML/Q-Hawkeye?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.09856">Code2World: A GUI World Model via Renderable Code Generation</a> <a href="https://github.com/AMAP-ML/Code2World"><img src="https://img.shields.io/github/stars/AMAP-ML/Code2World?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.20614">Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/MathForge"><img src="https://img.shields.io/github/stars/AMAP-ML/MathForge?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SpatialGenEval"><img src="https://img.shields.io/github/stars/AMAP-ML/SpatialGenEval?style=social" alt="GitHub stars"></a></li>
@@ -58,19 +64,19 @@ Collaborative Papers
   <li>Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V, <strong>ICASSP26</strong></li>
   <li>Artifact-Aware Evaluation for High-Quality Video Generation, <strong>ICASSP26</strong></li>
   <li>TEXTS-Diff: TEXTS-Aware Diffusion Model for Real-World Text Image Super-Resolution, <strong>ICASSP26</strong></li>
-  <li><a href="https://arxiv.org/abs/2601.10477">Urban Socio-Semantic Segmentation with Vision-Language Reasoning</a> <a href="https://github.com/AMAP-ML/SocioReasoner"><img src="https://img.shields.io/github/stars/AMAP-ML/SocioReasoner?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2601.10477">Urban Socio-Semantic Segmentation with Vision-Language Reasoning</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SocioReasoner"><img src="https://img.shields.io/github/stars/AMAP-ML/SocioReasoner?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a></li>
   <li><a href="https://arxiv.org/abs/2512.24146">Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning</a></li>
   <li><a href="https://arxiv.org/abs/2512.24271">Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation</a></li>
-  <li><a href="https://arxiv.org/abs/2511.18957">Eevee: Towards Close-up High-resolution Video-based Virtual Try-on</a></li>
+  <li><a href="https://arxiv.org/abs/2511.18957">Eevee: Towards Close-up High-resolution Video-based Virtual Try-on</a>, <strong>CVPR26 Findings</strong> <a href="https://github.com/AMAP-ML/Eevee"><img src="https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2511.14063">Semantic Context Matters: Improving Conditioning for Autoregressive Models</a></li>
-  <li><a href="https://arxiv.org/abs/2511.08246">Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning</a>, <strong>AAAI26</strong></li>
+  <li><a href="https://arxiv.org/abs/2511.08246">Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/STV"><img src="https://img.shields.io/github/stars/AMAP-ML/STV?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/SCALAR"><img src="https://img.shields.io/github/stars/AMAP-ML/SCALAR?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2508.07981">Omni-effects: Unified and spatially-controllable visual effects generation</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/Omni-Effects"><img src="https://img.shields.io/github/stars/AMAP-ML/Omni-Effects?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2511.09478">AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting</a>, <strong>AAAI26</strong></li>
   <li><a href="https://arxiv.org/abs/2510.14847">ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/ImagerySearch"><img src="https://img.shields.io/github/stars/AMAP-ML/ImagerySearch?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2509.21179">Intsr: An integrated generative framework for search and recommendation</a></li>
-  <li><a href="https://arxiv.org/abs/2509.04338">From editor to dense geometry estimator</a></li>
+  <li><a href="https://arxiv.org/abs/2509.04338">From editor to dense geometry estimator</a>, <strong>CVPR26</strong> <a href="https://github.com/AMAP-ML/FE2E"><img src="https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2508.16158">Ragsr: Regional attention guided diffusion for image super-resolution</a></li>
   <li><a href="https://arxiv.org/abs/2508.08745">Comprehensive Comparison Network: a framework for locality-aware, routes-comparable and interpretable route recommendation</a></li>
   <li><a href="https://arxiv.org/abs/2505.14231">Univg-r1: Reasoning guided universal visual grounding with reinforcement learning</a></li>
@@ -110,7 +116,7 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2408.05008">FlowDreamer: exploring high fidelity text-to-3D generation via rectified flow</a></li>
   <li>PLUG: Revisiting Amodal Segmentation with Foundation Model and Hierarchical Focus, <strong>CVPR25</strong></li>
   <li><a href="https://arxiv.org/abs/2405.13467">Adafedfr: Federated face recognition with adaptive inter-class representation learning</a></li>
-  <li>DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking, <strong>WWW25</strong></li>
+  <li>DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking, <strong>WWW25</strong> <a href="https://github.com/AMAP-ML/DSFNet"><img src="https://img.shields.io/github/stars/AMAP-ML/DSFNet?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2311.12086">Masked Autoencoders Are Robust Neural Architecture Search Learners</a></li>
   <li><a href="https://arxiv.org/abs/2302.00386">Efficientrep: an efficient repvgg-style convnets with hardware-aware neural network design</a></li>
   <li><a href="https://arxiv.org/abs/2301.05586">Yolov6 v3.0: A full-scale reloading</a></li>
