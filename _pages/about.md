@@ -21,12 +21,12 @@ Highlights
 ------
 
 ### Research & Innovation
-- Published **90+ AI papers**, with **22 first-authored papers**
+- Published **100+ AI papers**, with **22 first-authored papers**
 - **3 papers** selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
 - Holds **40+ domestic** and **7 international** invention patents
 
 ### Research Directions
-LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative Models | Foundation Model Design | Neural Architecture Search | Model Compression | Self-supervised Learning | 2D/3D Perception
+LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative Models | Foundation Model Design | AutoML | Model Compression | Self-supervised Learning | 2D/3D Perception
 
 ### Industry Impact
 - Rich implementation experience across **AI platforms**, **autonomous driving**, and **edge-cloud systems**
