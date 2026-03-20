@@ -152,7 +152,7 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2302.00386">Efficientrep: an efficient repvgg-style convnets with hardware-aware neural network design</a></li>
 </ol>
 
-### Model Compression & NAS
+### Model Compression & AutoML
 
 <ol>
   <li><a href="https://arxiv.org/abs/2405.13467">Adafedfr: Federated face recognition with adaptive inter-class representation learning</a></li>
