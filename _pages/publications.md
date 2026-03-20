@@ -51,12 +51,9 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2603.03143">Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</a> <a href="https://github.com/AMAP-ML/RL3DEdit"><img src="https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2603.00141">From Scale to Speed: Adaptive Test-Time Scaling for Image Editing</a>, <strong>CVPR26</strong></li>
   <li><a href="https://arxiv.org/abs/2512.24146">Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning</a></li>
-  <li><a href="https://arxiv.org/abs/2511.14063">Semantic Context Matters: Improving Conditioning for Autoregressive Models</a></li>
-  <li><a href="https://arxiv.org/abs/2510.12586">There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/EPG"><img src="https://img.shields.io/github/stars/AMAP-ML/EPG?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2509.04338">From editor to dense geometry estimator</a>, <strong>CVPR26</strong> <a href="https://github.com/AMAP-ML/FE2E"><img src="https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2508.16158">Ragsr: Regional attention guided diffusion for image super-resolution</a></li>
   <li><a href="https://arxiv.org/abs/2508.12880">S-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/S2-Guidance"><img src="https://img.shields.io/github/stars/AMAP-ML/S2-Guidance?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/SCALAR"><img src="https://img.shields.io/github/stars/AMAP-ML/SCALAR?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2507.00790">LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling</a>, <strong>ICCV25</strong> <a href="https://github.com/AMAP-ML/LD-RPS"><img src="https://img.shields.io/github/stars/AMAP-ML/LD-RPS?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2505.03329">Flux-text: A simple and advanced diffusion transformer baseline for scene text editing</a></li>
   <li><a href="https://arxiv.org/abs/2411.14871">Preference Alignment for Diffusion Model via Explicit Denoised Distribution Estimation</a></li>
@@ -86,7 +83,6 @@ Collaborative Papers
 
 <ol>
   <li><a href="https://arxiv.org/abs/2602.09856">Code2World: A GUI World Model via Renderable Code Generation</a> <a href="https://github.com/AMAP-ML/Code2World"><img src="https://img.shields.io/github/stars/AMAP-ML/Code2World?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2602.02178">AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?</a> <a href="https://github.com/AMAP-ML/AR-MAP"><img src="https://img.shields.io/github/stars/AMAP-ML/AR-MAP?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.01884">Entropy-Guided Data-Efficient Training for Multimodal Reasoning Reward Models</a></li>
   <li><a href="https://arxiv.org/abs/2601.20614">Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/MathForge"><img src="https://img.shields.io/github/stars/AMAP-ML/MathForge?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2511.09478">AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting</a>, <strong>AAAI26</strong></li>
@@ -142,20 +138,29 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2109.14483">Cctrans: Simplifying and improving crowd counting with transformer</a></li>
 </ol>
 
-### Efficient Architectures & Model Compression
+### Foundation Model Architectures
 
 <ol>
   <li><a href="https://arxiv.org/abs/2602.03152">FASA: Frequency-Aware Sparse Attention</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/FASA-ICLR2026"><img src="https://img.shields.io/github/stars/AMAP-ML/FASA-ICLR2026?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.02178">AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?</a> <a href="https://github.com/AMAP-ML/AR-MAP"><img src="https://img.shields.io/github/stars/AMAP-ML/AR-MAP?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2511.14063">Semantic Context Matters: Improving Conditioning for Autoregressive Models</a></li>
+  <li><a href="https://arxiv.org/abs/2510.12586">There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/EPG"><img src="https://img.shields.io/github/stars/AMAP-ML/EPG?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/SCALAR"><img src="https://img.shields.io/github/stars/AMAP-ML/SCALAR?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2407.14302">Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition</a>, <strong>ECCV24</strong></li>
   <li><a href="https://arxiv.org/abs/2407.08972">Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness</a>, <strong>ICML24</strong></li>
-  <li><a href="https://arxiv.org/abs/2405.13467">Adafedfr: Federated face recognition with adaptive inter-class representation learning</a></li>
   <li><a href="https://arxiv.org/abs/2403.07589">PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution</a>, <strong>CVPR24</strong></li>
+  <li><a href="https://arxiv.org/abs/2302.00386">Efficientrep: an efficient repvgg-style convnets with hardware-aware neural network design</a></li>
+</ol>
+
+### Model Compression & NAS
+
+<ol>
+  <li><a href="https://arxiv.org/abs/2405.13467">Adafedfr: Federated face recognition with adaptive inter-class representation learning</a></li>
   <li><a href="https://arxiv.org/abs/2401.15865">LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection</a>, <strong>ICLR24</strong></li>
   <li><a href="https://arxiv.org/abs/2311.12086">Masked Autoencoders Are Robust Neural Architecture Search Learners</a></li>
   <li><a href="https://arxiv.org/abs/2311.09550">A Speed Odyssey for Deployable Quantization of LLMs</a></li>
   <li><a href="https://arxiv.org/abs/2309.02784">Norm Tweaking: High-performance Low-bit Quantization of Large Language Models</a>, <strong>AAAI24</strong></li>
   <li><a href="https://arxiv.org/abs/2308.15987">FPTQ: Fine-grained Post-Training Quantization for Large Language Models</a></li>
-  <li><a href="https://arxiv.org/abs/2302.00386">Efficientrep: an efficient repvgg-style convnets with hardware-aware neural network design</a></li>
   <li><a href="https://arxiv.org/abs/2210.00181">EAPruning: Evolutionary Pruning for Vision Transformers and CNNs</a>, <strong>BMVC22</strong></li>
   <li><a href="https://arxiv.org/abs/2109.15273">DAAS: Differentiable architecture and augmentation policy search</a></li>
   <li><a href="https://arxiv.org/abs/2009.03658">AutoKWS: Keyword Spotting with Differentiable Architecture Search</a>, <strong>ICASSP21</strong></li>
