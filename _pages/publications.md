@@ -107,21 +107,6 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2312.02433">Lenna: Language Enhanced Reasoning Detection Assistant</a>, <strong>ICASSP25</strong> <a href="https://github.com/Meituan-AutoML/Lenna"><img src="https://img.shields.io/github/stars/Meituan-AutoML/Lenna?style=social" alt="GitHub stars"></a></li>
 </ol>
 
-### Maps, Mobility & Recommendation
-
-<ol>
-  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a> <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR"><img src="https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel"><img src="https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2602.04174">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></li>
-  <li><a href="https://arxiv.org/abs/2602.03324">SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation</a></li>
-  <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a></li>
-  <li><a href="https://arxiv.org/abs/2509.21179">Intsr: An integrated generative framework for search and recommendation</a></li>
-  <li><a href="https://arxiv.org/abs/2508.08745">Comprehensive Comparison Network: a framework for locality-aware, routes-comparable and interpretable route recommendation</a></li>
-  <li><a href="https://arxiv.org/abs/2505.11306">Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion</a></li>
-  <li>DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking, <strong>WWW25</strong> <a href="https://github.com/AMAP-ML/DSFNet"><img src="https://img.shields.io/github/stars/AMAP-ML/DSFNet?style=social" alt="GitHub stars"></a></li>
-</ol>
-
 ### Detection, Segmentation & 3D Perception
 
 <ol>
@@ -155,7 +140,6 @@ Collaborative Papers
 ### Model Compression & AutoML
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2405.13467">Adafedfr: Federated face recognition with adaptive inter-class representation learning</a></li>
   <li><a href="https://arxiv.org/abs/2401.15865">LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection</a>, <strong>ICLR24</strong></li>
   <li><a href="https://arxiv.org/abs/2311.12086">Masked Autoencoders Are Robust Neural Architecture Search Learners</a></li>
   <li><a href="https://arxiv.org/abs/2311.09550">A Speed Odyssey for Deployable Quantization of LLMs</a></li>
@@ -165,6 +149,19 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2109.15273">DAAS: Differentiable architecture and augmentation policy search</a></li>
   <li><a href="https://arxiv.org/abs/2009.03658">AutoKWS: Keyword Spotting with Differentiable Architecture Search</a>, <strong>ICASSP21</strong></li>
   <li>Neural Architecture Search on Acoustic Scene Classification, <strong>InterSpeech20</strong></li>
-  <li>STRETCH meat grinder with ICCOS, <strong>IEEE Transactions on Plasma Science</strong></li>
-  <li>Comparisons of three inductive pulse power supplies, <strong>IEEE Transactions on Plasma Science</strong></li>
+</ol>
+
+### Maps, Mobility & Recommendation
+
+<ol>
+  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a> <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR"><img src="https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel"><img src="https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.04174">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></li>
+  <li><a href="https://arxiv.org/abs/2602.03324">SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation</a></li>
+  <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a></li>
+  <li><a href="https://arxiv.org/abs/2509.21179">Intsr: An integrated generative framework for search and recommendation</a></li>
+  <li><a href="https://arxiv.org/abs/2508.08745">Comprehensive Comparison Network: a framework for locality-aware, routes-comparable and interpretable route recommendation</a></li>
+  <li><a href="https://arxiv.org/abs/2505.11306">Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion</a></li>
+  <li>DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking, <strong>WWW25</strong> <a href="https://github.com/AMAP-ML/DSFNet"><img src="https://img.shields.io/github/stars/AMAP-ML/DSFNet?style=social" alt="GitHub stars"></a></li>
 </ol>
