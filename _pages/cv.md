@@ -87,16 +87,14 @@ Work Experience
 
 ---
 
+Professional Services
+======
+- **Senior Program Committee (SPC)**: AAAI, IJCAI
+- **Area Chair (AC)**: ICLR, NeurIPS
+
 Awards & Honors
 ======
 - **Top 100 AI Scholars**, AMiner, 2023
 - **National Science and Technology Progress First Prize**, 2018
 - **2nd Place**, Xiaomi "Million Dollar Prize" (Automated Neural Network Design)
 - **3 first-authored papers** on PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
-
----
-
-Professional Services
-======
-- **Senior Program Committee (SPC)**: AAAI, IJCAI
-- **Area Chair (AC)**: ICLR, NeurIPS
