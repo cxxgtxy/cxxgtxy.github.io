@@ -24,6 +24,14 @@ Work Experience
 
 *Research Focus:* Large Language Models, Multimodal Understanding, Generative AI, Reinforcement Learning, Intelligent Mobility
 
+**Research & Publications**
+- Led the team to publish numerous papers at top venues (CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, EMNLP)
+- 3 papers selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
+
+**Team & Leadership**
+- Built and leading a research team focusing on multimodal learning and intelligent mobility
+- Managed technical teams of **100+ members**, with over 50% recruited from renowned AI labs
+
 ---
 
 ### Meituan - Visual Intelligence Department
@@ -38,6 +46,11 @@ Work Experience
 - Reproduced Meta LLaMA 7B from scratch; developed 1B and 3B [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) benchmarking Gemini Nano
 - Created [VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) unifying vision and language architecture; [Twins](https://github.com/Meituan-AutoML/Twins) outperforming Swin with production deployment advantages
 
+**Team & Influence Building**
+- Built team from 0 to 1; recruited multiple Google PhD Fellowship recipients
+- Open-sourced and maintained [YOLOv6](https://github.com/meituan/YOLOv6) detection library
+- Contributed to National Science and Technology Innovation 2030 major project on AI fundamental models
+
 **Autonomous Driving & Drones**
 - Built 3D offline system for autonomous delivery vehicles, saving millions in annotation costs annually
 - Improved online perception algorithms (3D obstacle detection, tracking) achieving industry-leading real-time capabilities
@@ -47,11 +60,6 @@ Work Experience
 - Constructed vision code base and AutoML tools
 - Model compression and deployment (end, edge, cloud) covering face recognition, OCR, security review, image understanding
 - Saved millions in vision service costs annually
-
-**Team & Influence Building**
-- Built team from 0 to 1; recruited multiple Google PhD Fellowship recipients
-- Open-sourced and maintained [YOLOv6](https://github.com/meituan/YOLOv6) detection library
-- Contributed to National Science and Technology Innovation 2030 major project on AI fundamental models
 
 ---
 
