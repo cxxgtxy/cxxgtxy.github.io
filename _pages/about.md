@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Senior Director, AMAP, Alibaba Group
+Senior Director & Head of AMAP-ML, Alibaba Group
 ======
 
-I am a senior director at Alibaba (AMAP), leading a team that delivers intelligent route navigation and implements AIGC solutions for core business scenarios. In 2023, I was fortunate to be selected as one of the **Top 100 AI Scholars** by AMiner. Prior to that, I served as a senior manager at Meituan (2020-2024) and Xiaomi (2017-2020). I earned my Bachelor of Science in Electrical Engineering from Southeast University in 2010, and later my Master of Science in Electrical Engineering from Tsinghua University in 2012.
+I lead the **Multimodal Learning team at Amap (Alibaba)**, focusing on large language models, multimodal understanding, generative AI, reinforcement learning, and intelligent mobility. Our work has been published at top venues including ICLR, CVPR, AAAI, ICCV, EMNLP, ACM MM, and WWW. We actively open-source our research, with projects like [FluxText](https://github.com/AMAP-ML/FluxText) (400+ stars), [Code2World](https://github.com/AMAP-ML/Code2World) (300+ stars), and [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) (300+ stars).
+
+In 2023, I was selected as one of the **Top 100 AI Scholars** by AMiner. Prior to that, I served as a senior manager at Meituan (2020-2024) and Xiaomi (2017-2020). I earned my Bachelor of Science in Electrical Engineering from Southeast University in 2010, and later my Master of Science in Electrical Engineering from Tsinghua University in 2012.
 
 *We are always looking for talented interns/full-time researchers with strong coding skills and research experience. Please drop me an email if interested.*
 
@@ -32,8 +34,8 @@ Highlights
 LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative Models | Foundation Model Design | AutoML | Model Compression | Self-supervised Learning | 2D/3D Perception
 
 ### Industry Impact
-- Rich implementation experience across **AI platforms**, **autonomous driving**, and **edge-cloud systems**
-- Excels at creating value through technology and overcoming complex challenges
+- **1000+ GitHub stars** across AMAP-ML open-source projects, including FluxText, Code2World, Tree-GRPO, and more
+- Applied research delivering AI solutions for **navigation**, **autonomous driving**, and **intelligent mobility**
 
 ### Leadership
 - Managed technical teams of **100+ members**
