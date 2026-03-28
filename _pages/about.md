@@ -27,8 +27,8 @@ Highlights
 - **3 first-authored papers** selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
 
 ### Professional Services
-- **SPC**: AAAI, IJCAI
-- **AC**: ICLR, NeurIPS
+- **Senior Program Committee (SPC)**: AAAI, IJCAI
+- **Area Chair (AC)**: ICLR, NeurIPS
 
 ### Research Directions
 LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative Models | Foundation Model Design | AutoML | Model Compression | Self-supervised Learning | 2D/3D Perception
