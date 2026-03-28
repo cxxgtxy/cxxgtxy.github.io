@@ -21,9 +21,12 @@ Highlights
 ------
 
 ### Research & Innovation
-- Published **100+ AI papers**, with **22 first-authored papers**
-- **3 papers** selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
-- Holds **40+ domestic** and **7 international** invention patents
+- **55+ top conference papers** (CVPR/ICCV/ECCV/NeurIPS/ICML/ICLR/AAAI/EMNLP), with **13 first-authored papers**
+- **3 first-authored papers** selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
+
+### Professional Services
+- **SPC**: AAAI, IJCAI
+- **AC**: ICLR, NeurIPS
 
 ### Research Directions
 LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative Models | Foundation Model Design | AutoML | Model Compression | Self-supervised Learning | 2D/3D Perception
