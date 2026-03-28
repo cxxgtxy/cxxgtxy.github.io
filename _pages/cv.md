@@ -20,9 +20,9 @@ Work Experience
 ======
 
 ### Alibaba Group - AMAP
-**Senior Director** | Mar 2024 - Present
+**Senior Director & Head of AMAP-ML** | Mar 2024 - Present
 
-*Team Direction:* Multi-modal Large Models, Generation Models, Route Navigation, Recommendation, Spatio-temporal Data Mining
+*Research Focus:* Large Language Models, Multimodal Understanding, Generative AI, Reinforcement Learning, Intelligent Mobility
 
 ---
 
@@ -84,11 +84,11 @@ Awards & Honors
 - **Top 100 AI Scholars**, AMiner, 2023
 - **National Science and Technology Progress First Prize**, 2018
 - **2nd Place**, Xiaomi "Million Dollar Prize" (Automated Neural Network Design)
-- **3 Papers** on PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
+- **3 first-authored papers** on PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
 
 ---
 
-Patents
+Professional Services
 ======
-- **40+** domestic invention patents
-- **7** international invention patents
+- **Senior Program Committee (SPC)**: AAAI, IJCAI
+- **Area Chair (AC)**: ICLR, NeurIPS
