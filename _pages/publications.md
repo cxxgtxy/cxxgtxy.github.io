@@ -97,7 +97,7 @@ Collaborative Papers
 
 <ol>
   <li><a href="https://arxiv.org/abs/2602.11499">What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation</a></li>
-  <li>Visually-Guided Policy Optimization for Multimodal Reasoning, <strong>ACL26</strong></li>
+  <li><a href="https://arxiv.org/abs/2604.09349">Visually-Guided Policy Optimization for Multimodal Reasoning</a>, <strong>ACL26</strong></li>
   <li><a href="https://arxiv.org/abs/2601.22920">Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment</a> <a href="https://github.com/AMAP-ML/Q-Hawkeye"><img src="https://img.shields.io/github/stars/AMAP-ML/Q-Hawkeye?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SpatialGenEval"><img src="https://img.shields.io/github/stars/AMAP-ML/SpatialGenEval?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.10477">Urban Socio-Semantic Segmentation with Vision-Language Reasoning</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SocioReasoner"><img src="https://img.shields.io/github/stars/AMAP-ML/SocioReasoner?style=social" alt="GitHub stars"></a></li>
@@ -128,10 +128,10 @@ Collaborative Papers
 
 <ol>
   <li><a href="https://arxiv.org/abs/2602.03152">FASA: Frequency-Aware Sparse Attention</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/FASA-ICLR2026"><img src="https://img.shields.io/github/stars/AMAP-ML/FASA-ICLR2026?style=social" alt="GitHub stars"></a></li>
-  <li>Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models, <strong>ACL26</strong></li>
+  <li><a href="https://arxiv.org/abs/2604.08964">Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models</a>, <strong>ACL26</strong></li>
   <li><a href="https://arxiv.org/abs/2602.02178">AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?</a> <a href="https://github.com/AMAP-ML/AR-MAP"><img src="https://img.shields.io/github/stars/AMAP-ML/AR-MAP?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2511.14063">Semantic Context Matters: Improving Conditioning for Autoregressive Models</a>, <strong>CVPR26</strong></li>
-  <li>Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation, <strong>CVPR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2604.18168">Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation</a>, <strong>CVPR26</strong></li>
   <li><a href="https://arxiv.org/abs/2510.12586">There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/EPG"><img src="https://img.shields.io/github/stars/AMAP-ML/EPG?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/SCALAR"><img src="https://img.shields.io/github/stars/AMAP-ML/SCALAR?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2407.14302">Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition</a>, <strong>ECCV24</strong></li>
@@ -157,7 +157,7 @@ Collaborative Papers
 ### Maps, Mobility & Recommendation
 
 <ol>
-  <li>Adaptive Task Balancing for Visual Instruction Tuning via Inter-Task Contribution and Intra-Task Difficulty, <strong>WWW26</strong></li>
+  <li><a href="https://arxiv.org/abs/2403.04343">Adaptive Task Balancing for Visual Instruction Tuning via Inter-Task Contribution and Intra-Task Difficulty</a>, <strong>WWW26</strong></li>
   <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a> <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR"><img src="https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel"><img src="https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social" alt="GitHub stars"></a></li>
