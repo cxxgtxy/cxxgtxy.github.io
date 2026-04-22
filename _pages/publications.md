@@ -71,8 +71,8 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2510.14847">ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/ImagerySearch"><img src="https://img.shields.io/github/stars/AMAP-ML/ImagerySearch?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2510.08480">Video-star: Reinforcing open-vocabulary action recognition with tools</a>, <strong>ICLR26</strong></li>
   <li><a href="https://arxiv.org/abs/2508.07981">Omni-effects: Unified and spatially-controllable visual effects generation</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/Omni-Effects"><img src="https://img.shields.io/github/stars/AMAP-ML/Omni-Effects?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2507.00790">Narrlv: Towards a comprehensive narrative-centric evaluation for long video generation models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/NarrLV"><img src="https://img.shields.io/github/stars/AMAP-ML/NarrLV?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2507.00790">VMBench: A Benchmark for Perception-Aligned Video Motion Generation</a>, <strong>ICCV25</strong> <a href="https://github.com/AMAP-ML/VMBench"><img src="https://img.shields.io/github/stars/AMAP-ML/VMBench?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2507.11245">Narrlv: Towards a comprehensive narrative-centric evaluation for long video generation models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/NarrLV"><img src="https://img.shields.io/github/stars/AMAP-ML/NarrLV?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2503.10076">VMBench: A Benchmark for Perception-Aligned Video Motion Generation</a>, <strong>ICCV25</strong> <a href="https://github.com/AMAP-ML/VMBench"><img src="https://img.shields.io/github/stars/AMAP-ML/VMBench?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2504.10358">FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos</a>, <strong>ACM MM25</strong> <a href="https://github.com/AMAP-ML/FingER"><img src="https://img.shields.io/github/stars/AMAP-ML/FingER?style=social" alt="GitHub stars"></a></li>
   <li>Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V, <strong>ICASSP26</strong></li>
   <li>Artifact-Aware Evaluation for High-Quality Video Generation, <strong>ICASSP26</strong></li>
@@ -98,6 +98,7 @@ Collaborative Papers
 <ol>
   <li><a href="https://arxiv.org/abs/2602.11499">What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation</a></li>
   <li><a href="https://arxiv.org/abs/2604.09349">Visually-Guided Policy Optimization for Multimodal Reasoning</a>, <strong>ACL26</strong></li>
+  <li><a href="https://arxiv.org/abs/2403.04343">Adaptive Task Balancing for Visual Instruction Tuning via Inter-Task Contribution and Intra-Task Difficulty</a>, <strong>WWW26</strong></li>
   <li><a href="https://arxiv.org/abs/2601.22920">Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment</a> <a href="https://github.com/AMAP-ML/Q-Hawkeye"><img src="https://img.shields.io/github/stars/AMAP-ML/Q-Hawkeye?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SpatialGenEval"><img src="https://img.shields.io/github/stars/AMAP-ML/SpatialGenEval?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2601.10477">Urban Socio-Semantic Segmentation with Vision-Language Reasoning</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SocioReasoner"><img src="https://img.shields.io/github/stars/AMAP-ML/SocioReasoner?style=social" alt="GitHub stars"></a></li>
@@ -157,7 +158,6 @@ Collaborative Papers
 ### Maps, Mobility & Recommendation
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2403.04343">Adaptive Task Balancing for Visual Instruction Tuning via Inter-Task Contribution and Intra-Task Difficulty</a>, <strong>WWW26</strong></li>
   <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a> <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR"><img src="https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel"><img src="https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social" alt="GitHub stars"></a></li>
