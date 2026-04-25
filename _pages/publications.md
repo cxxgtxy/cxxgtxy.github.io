@@ -47,10 +47,11 @@ Collaborative Papers
 ### Image Generation & Editing
 
 <ol>
+  <li><a href="https://arxiv.org/abs/2604.16044">Elucidating the SNR-t Bias of Diffusion Probabilistic Models</a>, <strong>CVPR26</strong> <a href="https://github.com/AMAP-ML/DCW"><img src="https://img.shields.io/github/stars/AMAP-ML/DCW?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2603.05769">Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers</a>, <strong>CVPR26</strong></li>
   <li><a href="https://arxiv.org/abs/2603.03143">Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</a> <a href="https://github.com/AMAP-ML/RL3DEdit"><img src="https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2603.00141">From Scale to Speed: Adaptive Test-Time Scaling for Image Editing</a>, <strong>CVPR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2512.24146">Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning</a></li>
+  <li><a href="https://arxiv.org/abs/2512.24146">Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning</a>, <strong>CVPR26</strong></li>
   <li><a href="https://arxiv.org/abs/2509.04338">From editor to dense geometry estimator</a>, <strong>CVPR26</strong> <a href="https://github.com/AMAP-ML/FE2E"><img src="https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2508.16158">Ragsr: Regional attention guided diffusion for image super-resolution</a></li>
   <li><a href="https://arxiv.org/abs/2508.12880">S-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/S2-Guidance"><img src="https://img.shields.io/github/stars/AMAP-ML/S2-Guidance?style=social" alt="GitHub stars"></a></li>
@@ -82,6 +83,7 @@ Collaborative Papers
 ### LLM Reasoning & Agents
 
 <ol>
+  <li><a href="https://arxiv.org/abs/2604.15840">CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution</a>, <strong>ACL26</strong></li>
   <li><a href="https://arxiv.org/abs/2602.09856">Code2World: A GUI World Model via Renderable Code Generation</a> <a href="https://github.com/AMAP-ML/Code2World"><img src="https://img.shields.io/github/stars/AMAP-ML/Code2World?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.01884">Entropy-Guided Data-Efficient Training for Multimodal Reasoning Reward Models</a></li>
   <li><a href="https://arxiv.org/abs/2601.20614">Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/MathForge"><img src="https://img.shields.io/github/stars/AMAP-ML/MathForge?style=social" alt="GitHub stars"></a></li>
@@ -96,6 +98,7 @@ Collaborative Papers
 ### Multimodal & Vision-Language
 
 <ol>
+  <li><a href="https://arxiv.org/abs/2604.17295">LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics</a>, <strong>ACL26</strong></li>
   <li><a href="https://arxiv.org/abs/2602.11499">What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation</a></li>
   <li><a href="https://arxiv.org/abs/2604.09349">Visually-Guided Policy Optimization for Multimodal Reasoning</a>, <strong>ACL26</strong></li>
   <li><a href="https://arxiv.org/abs/2403.04343">Adaptive Task Balancing for Visual Instruction Tuning via Inter-Task Contribution and Intra-Task Difficulty</a>, <strong>WWW26</strong></li>
@@ -163,7 +166,7 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel"><img src="https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.04174">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></li>
   <li><a href="https://arxiv.org/abs/2602.03324">SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation</a></li>
-  <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a></li>
+  <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a>, <strong>ACL26 Findings</strong></li>
   <li><a href="https://arxiv.org/abs/2509.21179">Intsr: An integrated generative framework for search and recommendation</a></li>
   <li><a href="https://arxiv.org/abs/2508.08745">Comprehensive Comparison Network: a framework for locality-aware, routes-comparable and interpretable route recommendation</a></li>
   <li><a href="https://arxiv.org/abs/2505.11306">Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion</a></li>
