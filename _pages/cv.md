@@ -25,8 +25,8 @@ Work Experience
 *Research Focus:* Large Language Models, Multimodal Understanding, Generative AI, Reinforcement Learning, Intelligent Mobility
 
 **Research & Publications**
-- Led the team to publish numerous papers at top venues (CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, EMNLP)
-- 3 papers selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
+- Led the team to publish numerous papers at top venues (CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ACL, EMNLP)
+- 3 first-authored papers selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
 
 **Team & Leadership**
 - Built and leading a research team focusing on multimodal learning and intelligent mobility
