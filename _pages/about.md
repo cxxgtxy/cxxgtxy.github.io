@@ -23,7 +23,7 @@ Highlights
 ------
 
 ### Research & Innovation
-- **60+ top conference papers** (CVPR/ICCV/ECCV/NeurIPS/ICML/ICLR/AAAI/ACL/EMNLP), with **11 first-authored papers**
+- **60+ top conference papers** (CVPR/ICCV/ECCV/NeurIPS/ICML/ICLR/AAAI/ACL/EMNLP), with **11 first-authored papers** and **14,000+ citations**
 - **3 first-authored papers** selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
 
 ### Professional Services
