@@ -11,7 +11,7 @@ redirect_from:
 Senior Director & Head of AMAP-ML, Alibaba Group
 ======
 
-I lead the **Multimodal Learning team at Amap (Alibaba)**, focusing on large language models, multimodal understanding, generative AI, reinforcement learning, and intelligent mobility.
+I lead the **Multimodal Learning team at Amap (Alibaba)**, focusing on large language models, vision foundation models, multimodal understanding, generative AI, reinforcement learning, and intelligent mobility.
 
 In 2023, I was selected as one of the **Top 100 AI Scholars** by AMiner. Prior to that, I served as a senior manager at Meituan (2020-2024) and Xiaomi (2017-2020). I earned my Bachelor of Science in Electrical Engineering from Southeast University in 2010, and later my Master of Science in Electrical Engineering from Tsinghua University in 2012.
 
