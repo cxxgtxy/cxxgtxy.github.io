@@ -19,24 +19,38 @@ Education
 Work Experience
 ======
 
-### Alibaba Group - AMAP
-**Senior Director & Head of AMAP-ML** | Mar 2024 - Present
+<div class="cv-timeline" markdown="1">
+
+<div class="cv-entry cv-entry--current" markdown="1">
+<div class="cv-entry__header">
+  <span class="cv-entry__title">Alibaba Group — AMAP</span>
+  <span class="cv-entry__period">Mar 2024 – Present</span>
+</div>
+<div class="cv-entry__role">Senior Director & Head of AMAP-ML</div>
 
 *Research Focus:* Large Language Models, Multimodal Understanding, Generative AI, Reinforcement Learning, Intelligent Mobility
 
 **Research & Publications**
-- Led the team to publish numerous papers at top venues (CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ACL, EMNLP)
+- Led the team to publish 30+ papers at top venues in the first year (CVPR, ICLR, ACL, ICCV, AAAI, EMNLP)
+- Open-sourced 20+ research projects on [GitHub (AMAP-ML)](https://github.com/AMAP-ML)
 
 **Team & Leadership**
-- Built and leading a research team focusing on multimodal learning and intelligent mobility
-- Managed technical teams of **100+ members**, with over 50% recruited from renowned AI labs
+- Built and leading a 100+ member research team, with over 50% recruited from top AI labs worldwide
+- Established research directions in LLM reasoning, generative AI, and intelligent mobility
 
----
+<div class="cv-entry__impact" markdown="1">
+**Key Impact:** 30+ top-venue papers in year one; built the AMAP-ML open-source ecosystem from scratch; research directly powers Alibaba's intelligent navigation products serving hundreds of millions of users.
+</div>
+</div>
 
-### Meituan - Visual Intelligence Department
-**Senior Technical Manager** | May 2020 - Mar 2024
+<div class="cv-entry" markdown="1">
+<div class="cv-entry__header">
+  <span class="cv-entry__title">Meituan — Visual Intelligence Department</span>
+  <span class="cv-entry__period">May 2020 – Mar 2024</span>
+</div>
+<div class="cv-entry__role">Senior Technical Manager</div>
 
-*Team Direction:* Multi-modal Large Models, Large Language Model, Perception (2D+3D), Foundation Model, Self-supervised Pre-training, Model Compression, MLOps
+*Team Direction:* Multi-modal Large Models, LLM, Perception (2D+3D), Foundation Model, Self-supervised Pre-training, Model Compression, MLOps
 
 **Large Foundation Models (LLM and Multi-modal)**
 - Built general understanding (multi-modal) large model with open set understanding capabilities for Meituan scenarios
@@ -47,7 +61,7 @@ Work Experience
 
 **Team & Influence Building**
 - Built team from 0 to 1; recruited multiple Google PhD Fellowship recipients
-- Open-sourced and maintained [YOLOv6](https://github.com/meituan/YOLOv6) detection library
+- Open-sourced and maintained [YOLOv6](https://github.com/meituan/YOLOv6) detection library (5,700+ GitHub Stars)
 - Contributed to National Science and Technology Innovation 2030 major project on AI fundamental models
 
 **Autonomous Driving & Drones**
@@ -60,38 +74,64 @@ Work Experience
 - Model compression and deployment (end, edge, cloud) covering face recognition, OCR, security review, image understanding
 - Saved millions in vision service costs annually
 
----
+<div class="cv-entry__impact" markdown="1">
+**Key Impact:** Built the team from 0 to 1; created MobileVLM (first real-time mobile VLM), VisionLLaMA, and Twins (all widely cited); open-sourced YOLOv6 which became an industry standard; saved millions annually through AI-driven cost optimization.
+</div>
+</div>
 
-### Xiaomi - Artificial Intelligence Department
-**Senior Technical Manager** | Mar 2017 - May 2020
+<div class="cv-entry" markdown="1">
+<div class="cv-entry__header">
+  <span class="cv-entry__title">Xiaomi — Artificial Intelligence Department</span>
+  <span class="cv-entry__period">Mar 2017 – May 2020</span>
+</div>
+<div class="cv-entry__role">Senior Technical Manager</div>
 
 *Team Direction:* AutoML, Base Model Design, Machine Learning
 
 - Initiated AutoML project and built the team from 0 to 1
+- Produced a series of influential NAS works: FairNAS (ICCV'21), FairDARTS (ECCV'20), DARTS- (ICLR'21), MoGA, FALSR
 - Implemented in scene recognition, segmentation, acoustic scene classification, recommendation
 - Won **2nd place** in Xiaomi's first **"Million Dollar Prize"** (Automated Neural Network Design)
 
----
+<div class="cv-entry__impact" markdown="1">
+**Key Impact:** Founded Xiaomi's AutoML team; FairNAS became a benchmark in the NAS field and was selected for PaperDigest's Most Influential Paper List; FALSR super-resolution algorithm was personally endorsed by CEO Lei Jun.
+</div>
+</div>
 
-### Beijing KingStar System Control Co., Ltd.
-**Deputy Director** | Jun 2013 - Mar 2017
+<div class="cv-entry" markdown="1">
+<div class="cv-entry__header">
+  <span class="cv-entry__title">Beijing KingStar System Control Co., Ltd.</span>
+  <span class="cv-entry__period">Jun 2013 – Mar 2017</span>
+</div>
+<div class="cv-entry__role">Deputy Director</div>
 
-- Key contributor to "Complex Power Grid Autonomy - Collaborative Automatic Voltage Control" project
+- Key contributor to "Complex Power Grid Autonomy — Collaborative Automatic Voltage Control" project
 - Awarded **2018 National Science and Technology Progress First Prize** (contributed 20 invention patents)
 
----
+<div class="cv-entry__impact" markdown="1">
+**Key Impact:** Core contributor to a national-level award-winning project; contributed 20 invention patents that formed the foundation of the system.
+</div>
+</div>
 
-### IBM Research China (CRL)
-**Research Scientist** | Jul 2012 - May 2013
+<div class="cv-entry" markdown="1">
+<div class="cv-entry__header">
+  <span class="cv-entry__title">IBM Research China (CRL)</span>
+  <span class="cv-entry__period">Jul 2012 – May 2013</span>
+</div>
+<div class="cv-entry__role">Research Scientist</div>
 
 - Worked on large-scale data analytics and machine learning solutions at IBM China Research Lab
+
+</div>
+
+</div>
 
 ---
 
 Professional Services
 ======
-- **Senior Program Committee (SPC)**: AAAI, IJCAI
 - **Area Chair (AC)**: ICLR, NeurIPS
+- **Senior Program Committee (SPC)**: AAAI, IJCAI
 
 Awards & Honors
 ======
