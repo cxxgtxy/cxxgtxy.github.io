@@ -85,6 +85,8 @@ Work Experience
 ### IBM Research China (CRL)
 **Research Scientist** | Jul 2012 - May 2013
 
+- Worked on large-scale data analytics and machine learning solutions at IBM China Research Lab
+
 ---
 
 Professional Services
@@ -98,3 +100,10 @@ Awards & Honors
 - **National Science and Technology Progress First Prize**, 2018
 - **2nd Place**, Xiaomi "Million Dollar Prize" (Automated Neural Network Design)
 - **3 first-authored papers** on PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
+
+---
+
+Patents
+======
+- **40+** domestic invention patents
+- **7** international invention patents
