@@ -11,7 +11,7 @@ redirect_from:
 Senior Director & Head of AMAP-ML, Alibaba Group
 ======
 
-I am a Senior Director at Alibaba (AMAP), leading a 100+ member team working on multimodal large models, generative AI, and intelligent navigation. I was selected as one of the **Top 100 AI Scholars** by AMiner (2023) and have published **120+ papers** with **14,000+ citations**. Previously, I led AI teams at Meituan (2020-2024) and Xiaomi (2017-2020). I hold an M.S. from Tsinghua University and a B.S. from Southeast University, both in Electrical Engineering.
+I am a Senior Director at Alibaba (AMAP), leading a 100+ member team working on multimodal large models, generative AI, and intelligent navigation. I was selected as one of the **Top 100 AI Scholars** by AMiner (2023) and have published **110+ papers** with **14,000+ citations**. Previously, I led AI teams at Meituan (2020-2024) and Xiaomi (2017-2020). I hold an M.S. from Tsinghua University and a B.S. from Southeast University, both in Electrical Engineering.
 
 *We are always looking for talented interns/full-time researchers. Please drop me an [email](mailto:cxxgtxy@gmail.com) if interested.*
 
@@ -21,7 +21,7 @@ Highlights
 ------
 
 ### Research & Innovation
-- **60+ top conference papers** (CVPR/ICCV/ECCV/NeurIPS/ICML/ICLR/AAAI/ACL/EMNLP), with **11 first-authored papers** and **14,000+ citations**
+- **60+ top conference papers** (CVPR/ICCV/ECCV/NeurIPS/ICML/ICLR/AAAI/ACL/EMNLP), with **11 first-authored papers**
 - **3 first-authored papers** selected for PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
 
 ### Professional Services
