@@ -11,6 +11,14 @@ Selected media reports and articles about my research work.
 
 ---
 
+Agent Systems
+======
+
+1. [多模态Agent](https://mp.weixin.qq.com/s/nMI6nyWWam110EoMGl821A)
+   > Multimodal Agent System
+
+---
+
 Foundation Models & Vision
 ======
 
