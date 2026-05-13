@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Senior Director & Head of AMAP-ML, Alibaba Group
+About me
 ======
 
-I lead the **Multimodal Learning team at Amap (Alibaba)**, focusing on large language models, vision foundation models, multimodal understanding, generative AI, reinforcement learning, and intelligent mobility.
+I am a Senior Director at Alibaba (AMAP), leading a 100+ member team working on multimodal large models, generative AI, and intelligent navigation. I was selected as one of the **Top 100 AI Scholars** by AMiner (2023) and have published **120+ papers** at top venues (NeurIPS, ICLR, ICML, CVPR, ECCV) with **14,000+ citations**. Previously, I led AI teams at Meituan (2020-2024) and Xiaomi (2017-2020). I hold an M.S. from Tsinghua University and a B.S. from Southeast University, both in Electrical Engineering.
 
-In 2023, I was selected as one of the **Top 100 AI Scholars** by AMiner. Prior to that, I served as a senior manager at Meituan (2020-2024) and Xiaomi (2017-2020). I earned my Bachelor of Science in Electrical Engineering from Southeast University in 2010, and later my Master of Science in Electrical Engineering from Tsinghua University in 2012.
-
-*We are always looking for talented interns/full-time researchers with strong coding skills and research experience. Please drop me an email if interested.*
+*We are always looking for talented interns/full-time researchers. Please drop me an [email](mailto:cxxgtxy@gmail.com) if interested.*
 
 ---
 
@@ -31,10 +29,7 @@ Highlights
 - **Area Chair (AC)**: ICLR, NeurIPS
 
 ### Research Directions
-LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative Models | Foundation Model Design | AutoML | Model Compression | Self-supervised Learning | 2D/3D Perception
-
-### Industry Impact
-- Applied research delivering AI solutions for **navigation**, **autonomous driving**, and **intelligent mobility**
+Multimodal Large Models | Generative Models | Reinforcement Learning | Foundation Model Architecture
 
 ### Leadership
 - Managed technical teams of **100+ members**
@@ -48,5 +43,3 @@ LLM Pre-training | Multimodal Large Models | Reinforcement Learning | Generative
 
 ---
 
-<a href='http://www.freevisitorcounters.com'>visitorcounters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=31dd2b5ea9e0f23b78cdb124346f25d08819f711'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1458162/t/1"></script>

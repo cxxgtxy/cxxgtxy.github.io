@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Xiangxiang Chu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Xiangxiang Chu"
+description              : &description "AI Research Leader | Senior Director at Alibaba AMAP | 120+ publications in top venues"
 url                      : https://cxxgtxy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cxxgtxy/cxxgtxy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangxiang Chu（初祥祥）"
   avatar           : "profile.png"
-  bio              : "Stay Hungry, Stay Foolish"
+  bio              : "Building AI that ships."
   location         : "Beijing"
   employer         : "AMAP, Alibaba Group"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
