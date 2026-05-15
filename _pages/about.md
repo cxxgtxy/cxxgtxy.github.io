@@ -90,7 +90,7 @@ Featured Projects
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Foundation</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA</a></div>
-    <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks that surpasses ViT across image generation, classification, segmentation, and detection.</div>
+    <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks. Pioneered auto-scaling 2D RoPE for multimodal Transformers — the approach was later adopted by Qwen-VL and others. Surpasses ViT across generation, classification, segmentation, and detection.</div>
     <div class="project-card__meta">ECCV 2024 · First Author · <a href="https://github.com/Meituan-AutoML/VisionLLaMA"><img src="https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA?style=social" alt="GitHub stars"></a></div>
   </div>
 </div>
