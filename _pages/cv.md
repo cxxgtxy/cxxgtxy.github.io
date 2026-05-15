@@ -9,14 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-- **M.S. in Electrical Engineering**, Tsinghua University, 2012
-- **B.S. in Electrical Engineering**, Southeast University, 2010
+<div class="vision-statement" markdown="1">
+I lead a 100+ member research team at Alibaba AMAP, building AI systems that span **LLM reasoning, generative AI, world models, agent systems, and intelligent mobility**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to large-scale AI systems that ship to hundreds of millions of users. I have published **110+ papers** at top venues, with **14,000+ citations** and **10,000+ GitHub stars** across open-source projects.
+</div>
+
+<div class="stats-grid">
+  <div class="stat-item">
+    <span class="stat-number">110+</span>
+    <span class="stat-label">Publications</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">14,000+</span>
+    <span class="stat-label">Citations</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">100+</span>
+    <span class="stat-label">Team Members</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">10,000+</span>
+    <span class="stat-label">GitHub Stars</span>
+  </div>
+</div>
 
 ---
 
-Work Experience
+Awards & Recognition
+======
+
+<ul class="awards-list">
+  <li><strong>Top 100 AI Scholars</strong>, AMiner 2023 — selected from hundreds of thousands of AI researchers worldwide</li>
+  <li><strong>3 first-authored papers</strong> on PaperDigest's Most Influential Paper List: <em>FairNAS</em>, <em>Twins</em>, <em>CPVT</em></li>
+  <li><strong>2nd Place</strong>, Xiaomi "Million Dollar Prize" — Automated Neural Network Design</li>
+</ul>
+
+---
+
+Professional Experience
 ======
 
 <div class="cv-timeline" markdown="1">
@@ -28,23 +57,12 @@ Work Experience
 </div>
 <div class="cv-entry__role">Senior Director & Head of AMAP-ML</div>
 
-*Research Focus:* Large Language Models, Multimodal Understanding, Generative AI, Reinforcement Learning, Intelligent Mobility
+Leading a 100+ member research team with over 50% recruited from top AI labs worldwide, across six core directions: LLM reasoning, generative AI & world models, AI agents, foundation architectures, multimodal understanding, and intelligent mobility.
 
-**Research & Publications**
-- Led the team to publish 45+ papers at top venues (CVPR, ICLR, ACL, ICCV, AAAI, EMNLP)
-- Open-sourced 20+ research projects on [GitHub (AMAP-ML)](https://github.com/AMAP-ML)
+- Published **45+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP) and open-sourced **20+ projects** with **10,000+ cumulative GitHub stars**
+- Key first-author works: GPG (ICLR'26, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV'25); key team works: SkillClaw (1,300+ Stars), DreamX-World, Tree-GRPO, FASA, CoEvolve
+- Multimodal technology powers AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent system drives **AI Companion (AI 伴行)** — both serving hundreds of millions of users
 
-**Product Impact**
-- Multimodal understanding and generation technology powers AMAP's Saojie Bang (扫街榜) pipeline
-- Large-scale industrial Agent system drives AMAP's newly launched AI Companion (AI 伴行) feature
-
-**Team & Leadership**
-- Built and leading a 100+ member research team, with over 50% recruited from top AI labs worldwide
-- Established research directions in LLM reasoning, generative AI, and intelligent mobility
-
-<div class="cv-entry__impact" markdown="1">
-**Key Impact:** 45+ top-venue papers; built the AMAP-ML open-source ecosystem from scratch; AI technology powers core AMAP products — Saojie Bang multimodal pipeline and AI Companion (large-scale industrial Agent) — serving hundreds of millions of users.
-</div>
 </div>
 
 <div class="cv-entry" markdown="1">
@@ -54,33 +72,13 @@ Work Experience
 </div>
 <div class="cv-entry__role">Senior Technical Manager</div>
 
-*Team Direction:* Multi-modal Large Models, LLM, Perception (2D+3D), Foundation Model, Self-supervised Pre-training, Model Compression, MLOps
+Built the Visual Intelligence team from scratch. Directed research in Vision Transformers, multimodal large models, and industrial AI systems.
 
-**Large Foundation Models (LLM and Multi-modal)**
-- Built general understanding (multi-modal) large model with open set understanding capabilities for Meituan scenarios
-- Achieved industry-leading compression and efficient deployment of the company's trillion-parameter LLM
-- Trained and deployed LLM base model for embodied intelligence scenarios
-- Reproduced Meta LLaMA 7B from scratch; developed 1B and 3B [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) benchmarking Gemini Nano
-- Created [VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) unifying vision and language architecture; [Twins](https://github.com/Meituan-AutoML/Twins) outperforming Swin with production deployment advantages
+- Created **Twins** (NeurIPS'21), **CPVT** (ICLR'23), **VisionLLaMA** (ECCV'24) — widely adopted Vision Transformer architectures; VisionLLaMA pioneered auto-scaling 2D RoPE, later adopted by Qwen-VL and others
+- Built **MobileVLM**, the first real-time mobile VLM; reproduced LLaMA 7B from scratch
+- Open-sourced **YOLOv6** (5,700+ Stars), an industry-standard detection framework deployed across the industry
+- Shipped 3D perception for autonomous delivery vehicles and drones; saved millions in annotation and serving costs annually
 
-**Team & Influence Building**
-- Built team from 0 to 1; recruited multiple Google PhD Fellowship recipients
-- Open-sourced and maintained [YOLOv6](https://github.com/meituan/YOLOv6) detection library (5,700+ GitHub Stars)
-- Contributed to National Science and Technology Innovation 2030 major project on AI fundamental models
-
-**Autonomous Driving & Drones**
-- Built 3D offline system for autonomous delivery vehicles, saving millions in annotation costs annually
-- Improved online perception algorithms (3D obstacle detection, tracking) achieving industry-leading real-time capabilities
-- Launched core perception modules on third and fourth generation drones
-
-**AI Business Support & MLOps**
-- Constructed vision code base and AutoML tools
-- Model compression and deployment (end, edge, cloud) covering face recognition, OCR, security review, image understanding
-- Saved millions in vision service costs annually
-
-<div class="cv-entry__impact" markdown="1">
-**Key Impact:** Built the team from 0 to 1; created MobileVLM (first real-time mobile VLM), VisionLLaMA, and Twins (all widely cited); open-sourced YOLOv6 which became an industry standard; saved millions annually through AI-driven cost optimization.
-</div>
 </div>
 
 <div class="cv-entry" markdown="1">
@@ -90,16 +88,12 @@ Work Experience
 </div>
 <div class="cv-entry__role">Senior Technical Manager</div>
 
-*Team Direction:* AutoML, Base Model Design, Machine Learning
+Founded Xiaomi's AutoML team and produced a series of influential neural architecture search works.
 
-- Initiated AutoML project and built the team from 0 to 1
-- Produced a series of influential NAS works: FairNAS (ICCV'21), FairDARTS (ECCV'20), DARTS- (ICLR'21), MoGA, FALSR
-- Implemented in scene recognition, segmentation, acoustic scene classification, recommendation
-- Won **2nd place** in Xiaomi's first **"Million Dollar Prize"** (Automated Neural Network Design)
+- **FairNAS** (ICCV'21), **FairDARTS** (ECCV'20), **DARTS-** (ICLR'21), **FALSR** — establishing new standards for fair and robust architecture search
+- Won **2nd place** in Xiaomi's first "Million Dollar Prize" (Automated Neural Network Design)
+- FALSR super-resolution algorithm personally endorsed by CEO Lei Jun
 
-<div class="cv-entry__impact" markdown="1">
-**Key Impact:** Founded Xiaomi's AutoML team; FairNAS became a benchmark in the NAS field and was selected for PaperDigest's Most Influential Paper List; FALSR super-resolution algorithm was personally endorsed by CEO Lei Jun.
-</div>
 </div>
 
 <div class="cv-entry" markdown="1">
@@ -109,12 +103,9 @@ Work Experience
 </div>
 <div class="cv-entry__role">Deputy Director</div>
 
-- Key contributor to "Complex Power Grid Autonomy — Collaborative Automatic Voltage Control" project
-- Awarded **2018 National Science and Technology Progress First Prize** (contributed 20 invention patents)
+- Core contributor to "Complex Power Grid Autonomy — Collaborative Automatic Voltage Control" project
+- Contributed 20 invention patents; awarded **National Science and Technology Progress First Prize (2018)**
 
-<div class="cv-entry__impact" markdown="1">
-**Key Impact:** Core contributor to a national-level award-winning project; contributed 20 invention patents that formed the foundation of the system.
-</div>
 </div>
 
 <div class="cv-entry" markdown="1">
@@ -124,7 +115,7 @@ Work Experience
 </div>
 <div class="cv-entry__role">Research Scientist</div>
 
-- Worked on large-scale data analytics and machine learning solutions at IBM China Research Lab
+- Large-scale data analytics and machine learning solutions at IBM China Research Lab
 
 </div>
 
@@ -132,17 +123,77 @@ Work Experience
 
 ---
 
-Professional Services
+Selected Publications
 ======
-- **Area Chair (AC)**: ICLR, NeurIPS
-- **Senior Program Committee (SPC)**: AAAI, IJCAI
 
-Awards & Honors
+<div class="two-col" markdown="1">
+<div markdown="1">
+
+**LLM Reasoning**
+- [GPG](https://arxiv.org/abs/2504.02546): Simple & Strong RL for Reasoning — **ICLR'26** · 1st Author
+- [Tree-GRPO](https://arxiv.org/abs/2509.21240): Tree Search for Agent RL — **ICLR'26**
+- [CoEvolve](https://arxiv.org/abs/2604.15840): Agent-Data Co-Evolution — **ACL'26**
+- [MathForge](https://arxiv.org/abs/2601.20614): Difficulty-Aware GRPO — **ICLR'26**
+- [AutoDrive-R](https://arxiv.org/abs/2509.01944): Reasoning VLA for Driving — **ICLR'26**
+
+**Generative AI & World Models**
+- [USP](https://arxiv.org/abs/2503.06132): Unified Pretraining for Gen & Understanding — **ICCV'25** · 1st Author
+- [DCW](https://arxiv.org/abs/2604.16044): SNR-t Bias of Diffusion Models — **CVPR'26**
+- [S-Guidance](https://arxiv.org/abs/2508.12880): Training-Free Diffusion Enhancement — **ICLR'26**
+- [EPG](https://arxiv.org/abs/2510.12586): End-to-End Pixel Generation without VAE — **ICLR'26**
+- [DreamX-World](https://github.com/AMAP-ML/DreamX-World): Interactive World Model
+
+**AI Agents & Intelligent Mobility**
+- [SkillClaw](https://github.com/AMAP-ML/SkillClaw): Collective Skill Evolution — 1,300+ Stars
+- [Code2World](https://arxiv.org/abs/2602.09856): GUI World Model via Renderable Code
+- [MobilityBench](https://arxiv.org/abs/2602.22638): Route-Planning Agent Benchmark
+
+</div>
+<div markdown="1">
+
+**Foundation Architectures**
+- [VisionLLaMA](https://arxiv.org/abs/2403.00522): Unified LLaMA for Vision — **ECCV'24** · 1st Author
+- [Twins](https://arxiv.org/abs/2104.13840): Spatial Attention in ViTs — **NeurIPS'21** · 1st Author · Most Influential
+- [CPVT](https://arxiv.org/abs/2102.10882): Conditional Positional Encodings — **ICLR'23** · 1st Author · Most Influential
+- [FASA](https://arxiv.org/abs/2602.03152): Frequency-Aware Sparse Attention — **ICLR'26**
+- [QARepVGG](https://arxiv.org/abs/2212.01593): Quantization-Aware RepVGG — **AAAI'24** · 1st Author
+
+**Vision-Language & Detection**
+- [MobileVLM](https://arxiv.org/abs/2312.16886): First Real-Time Mobile VLM · 1st Author
+- [YOLOv6](https://arxiv.org/abs/2209.02976): Industrial Object Detection — 5,700+ Stars
+- [SpatialGenEval](https://arxiv.org/abs/2601.20354): Spatial Intelligence Benchmark — **ICLR'26**
+- [PromptDet](https://arxiv.org/abs/2203.16513): Open-Vocabulary Detection — **ECCV'22**
+
+**AutoML & Neural Architecture Search**
+- [FairNAS](https://arxiv.org/abs/1907.01845): Rethinking NAS Fairness — **ICCV'21** · 1st Author · Most Influential
+- [FairDARTS](https://arxiv.org/abs/1911.12126): Fair Differentiable NAS — **ECCV'20** · 1st Author
+- [DARTS-](https://arxiv.org/abs/2009.01027): Robustly Out of Collapse — **ICLR'21** · 1st Author
+
+</div>
+</div>
+
+<p style="text-align: right; font-size: 0.85em; color: #999;">
+  → <a href="/publications/">Full publication list (110+ papers)</a>
+</p>
+
+---
+
+Professional Service
 ======
-- **Top 100 AI Scholars**, AMiner, 2023
-- **National Science and Technology Progress First Prize**, 2018
-- **2nd Place**, Xiaomi "Million Dollar Prize" (Automated Neural Network Design)
-- **3 first-authored papers** on PaperDigest's Most Influential Paper List: *FairNAS*, *Twins*, *CPVT*
+
+<div class="service-badges">
+  <span class="service-badge">Area Chair: ICLR</span>
+  <span class="service-badge">Area Chair: NeurIPS</span>
+  <span class="service-badge">SPC: AAAI</span>
+  <span class="service-badge">SPC: IJCAI</span>
+</div>
+
+---
+
+Education
+======
+- **M.S. in Electrical Engineering**, Tsinghua University, 2012
+- **B.S. in Electrical Engineering**, Southeast University, 2010
 
 ---
 
