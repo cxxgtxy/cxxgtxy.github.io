@@ -43,12 +43,6 @@ Featured Projects
 
 <div class="project-grid project-grid--4col">
   <div class="project-card">
-    <span class="project-card__tag project-card__tag--llm">Agent</span>
-    <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
-    <div class="project-card__desc">Open-source framework that lets AI agent skills automatically evolve from real interactions across sessions, devices, and users. Compatible with Claude Code, Codex, and more.</div>
-    <div class="project-card__meta">1,300+ Stars · HF Daily Papers #2 · <a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></div>
-  </div>
-  <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">LLM Reasoning</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2504.02546">GPG</a></div>
     <div class="project-card__desc">A simple and strong reinforcement learning baseline for model reasoning — no critic, no reference model, no KL penalty. Adopted by ByteDance's <a href="https://verl.readthedocs.io/en/latest/algo/gpg.html">VERL</a> framework as an official algorithm.</div>
@@ -65,6 +59,12 @@ Featured Projects
     <div class="project-card__title"><a href="https://arxiv.org/abs/2503.06132">USP</a></div>
     <div class="project-card__desc">Unified self-supervised pretraining that bridges image generation and understanding within a single framework.</div>
     <div class="project-card__meta">ICCV 2025 · First Author · <a href="https://github.com/AMAP-ML/USP"><img src="https://img.shields.io/github/stars/AMAP-ML/USP?style=social" alt="GitHub stars"></a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--llm">Agent</span>
+    <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
+    <div class="project-card__desc">Open-source framework that lets AI agent skills automatically evolve from real interactions across sessions, devices, and users. Compatible with Claude Code, Codex, and more.</div>
+    <div class="project-card__meta">1,300+ Stars · <a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></div>
   </div>
 </div>
 
