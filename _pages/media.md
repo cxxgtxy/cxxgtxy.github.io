@@ -11,10 +11,18 @@ Selected media reports and articles about my research work.
 
 ---
 
+Generative AI
+======
+
+1. [高德扫街榜视频生成](https://mp.weixin.qq.com/s/7p53EMY_rKVdZXG2bWTZzQ)
+   > AMAP Saojie Bang: Multimodal video generation technology for street-view imagery
+
+---
+
 Agent Systems
 ======
 
-1. [多模态Agent](https://mp.weixin.qq.com/s/nMI6nyWWam110EoMGl821A)
+2. [多模态Agent](https://mp.weixin.qq.com/s/nMI6nyWWam110EoMGl821A)
    > Multimodal Agent System
 
 ---
