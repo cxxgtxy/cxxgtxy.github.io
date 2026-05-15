@@ -104,7 +104,7 @@ Research Journey
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
     <div class="journey-item__title">LLM Reasoning, Generative AI & Intelligent Mobility</div>
-    <div class="journey-item__desc">Leading a 100+ member team building LLM reasoning systems (GPG — adopted by ByteDance's VERL framework, Tree-GRPO, CoEvolve), image/video generation (DCW, S-Guidance, Eevee), foundation architectures (FASA, EPG), and AI-powered navigation (MobilityBench, GenMRP). 45+ top-venue papers.</div>
+    <div class="journey-item__desc">Leading a 100+ member team building LLM reasoning systems (GPG — adopted by ByteDance's VERL framework, Tree-GRPO, CoEvolve), image/video generation (DCW, S-Guidance, Eevee), foundation architectures (FASA, EPG), and AI-powered navigation (MobilityBench, GenMRP). Our multimodal understanding and generation technology powers AMAP's Saojie Bang (扫街榜) pipeline, and our large-scale industrial Agent system drives AMAP's newly launched AI Companion (AI 伴行) feature. 45+ top-venue papers.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>

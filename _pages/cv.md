@@ -34,12 +34,16 @@ Work Experience
 - Led the team to publish 45+ papers at top venues (CVPR, ICLR, ACL, ICCV, AAAI, EMNLP)
 - Open-sourced 20+ research projects on [GitHub (AMAP-ML)](https://github.com/AMAP-ML)
 
+**Product Impact**
+- Multimodal understanding and generation technology powers AMAP's Saojie Bang (扫街榜) pipeline
+- Large-scale industrial Agent system drives AMAP's newly launched AI Companion (AI 伴行) feature
+
 **Team & Leadership**
 - Built and leading a 100+ member research team, with over 50% recruited from top AI labs worldwide
 - Established research directions in LLM reasoning, generative AI, and intelligent mobility
 
 <div class="cv-entry__impact" markdown="1">
-**Key Impact:** 45+ top-venue papers; built the AMAP-ML open-source ecosystem from scratch; research directly powers Alibaba's intelligent navigation products serving hundreds of millions of users.
+**Key Impact:** 45+ top-venue papers; built the AMAP-ML open-source ecosystem from scratch; AI technology powers core AMAP products — Saojie Bang multimodal pipeline and AI Companion (large-scale industrial Agent) — serving hundreds of millions of users.
 </div>
 </div>
 
