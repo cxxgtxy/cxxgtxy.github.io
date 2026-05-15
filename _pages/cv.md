@@ -31,7 +31,7 @@ Work Experience
 *Research Focus:* Large Language Models, Multimodal Understanding, Generative AI, Reinforcement Learning, Intelligent Mobility
 
 **Research & Publications**
-- Led the team to publish 30+ papers at top venues in the first year (CVPR, ICLR, ACL, ICCV, AAAI, EMNLP)
+- Led the team to publish 45+ papers at top venues (CVPR, ICLR, ACL, ICCV, AAAI, EMNLP)
 - Open-sourced 20+ research projects on [GitHub (AMAP-ML)](https://github.com/AMAP-ML)
 
 **Team & Leadership**
@@ -39,7 +39,7 @@ Work Experience
 - Established research directions in LLM reasoning, generative AI, and intelligent mobility
 
 <div class="cv-entry__impact" markdown="1">
-**Key Impact:** 30+ top-venue papers in year one; built the AMAP-ML open-source ecosystem from scratch; research directly powers Alibaba's intelligent navigation products serving hundreds of millions of users.
+**Key Impact:** 45+ top-venue papers; built the AMAP-ML open-source ecosystem from scratch; research directly powers Alibaba's intelligent navigation products serving hundreds of millions of users.
 </div>
 </div>
 
