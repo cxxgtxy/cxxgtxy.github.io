@@ -41,13 +41,34 @@ My research traces an arc from **efficient neural architecture design** to **mul
 Featured Projects
 ------
 
-<div class="project-grid">
+<div class="project-grid project-grid--4col">
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--llm">Agent</span>
+    <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
+    <div class="project-card__desc">Open-source framework that lets AI agent skills automatically evolve from real interactions across sessions, devices, and users. Compatible with Claude Code, Codex, and more.</div>
+    <div class="project-card__meta">1,300+ Stars · HF Daily Papers #2 · <a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></div>
+  </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">LLM Reasoning</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2504.02546">GPG</a></div>
     <div class="project-card__desc">A simple and strong reinforcement learning baseline for model reasoning — no critic, no reference model, no KL penalty. Adopted by ByteDance's <a href="https://verl.readthedocs.io/en/latest/algo/gpg.html">VERL</a> framework as an official algorithm.</div>
     <div class="project-card__meta">ICLR 2026 · First Author · <a href="https://github.com/AMAP-ML/GPG"><img src="https://img.shields.io/github/stars/AMAP-ML/GPG?style=social" alt="GitHub stars"></a></div>
   </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--gen">World Model</span>
+    <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
+    <div class="project-card__desc">A general-purpose interactive world model that creates diverse, high-fidelity virtual environments with camera-controlled navigation and prompt-driven world events.</div>
+    <div class="project-card__meta"><a href="https://github.com/AMAP-ML/DreamX-World"><img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"></a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--gen">Generation</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2503.06132">USP</a></div>
+    <div class="project-card__desc">Unified self-supervised pretraining that bridges image generation and understanding within a single framework.</div>
+    <div class="project-card__meta">ICCV 2025 · First Author · <a href="https://github.com/AMAP-ML/USP"><img src="https://img.shields.io/github/stars/AMAP-ML/USP?style=social" alt="GitHub stars"></a></div>
+  </div>
+</div>
+
+<div class="project-grid project-grid--4col">
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Detection</span>
     <div class="project-card__title"><a href="https://github.com/meituan/YOLOv6">YOLOv6</a></div>
@@ -60,9 +81,6 @@ Featured Projects
     <div class="project-card__desc">The first vision language assistant that runs in real-time on mobile devices (Snapdragon 888). The 1B/3B models benchmark against Gemini Nano.</div>
     <div class="project-card__meta">First Author · <a href="https://github.com/Meituan-AutoML/MobileVLM"><img src="https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social" alt="GitHub stars"></a></div>
   </div>
-</div>
-
-<div class="project-grid">
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Architecture</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2104.13840">Twins</a></div>
@@ -70,16 +88,10 @@ Featured Projects
     <div class="project-card__meta">NeurIPS 2021 · First Author · Most Influential Paper · <a href="https://github.com/Meituan-AutoML/Twins"><img src="https://img.shields.io/github/stars/Meituan-AutoML/Twins?style=social" alt="GitHub stars"></a></div>
   </div>
   <div class="project-card">
-    <span class="project-card__tag project-card__tag--arch">Architecture</span>
+    <span class="project-card__tag project-card__tag--arch">Foundation</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA</a></div>
     <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks that surpasses ViT across image generation, classification, segmentation, and detection.</div>
     <div class="project-card__meta">ECCV 2024 · First Author · <a href="https://github.com/Meituan-AutoML/VisionLLaMA"><img src="https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA?style=social" alt="GitHub stars"></a></div>
-  </div>
-  <div class="project-card">
-    <span class="project-card__tag project-card__tag--gen">Generation</span>
-    <div class="project-card__title"><a href="https://arxiv.org/abs/2503.06132">USP</a></div>
-    <div class="project-card__desc">Unified self-supervised pretraining that bridges image generation and understanding within a single framework.</div>
-    <div class="project-card__meta">ICCV 2025 · First Author · <a href="https://github.com/AMAP-ML/USP"><img src="https://img.shields.io/github/stars/AMAP-ML/USP?style=social" alt="GitHub stars"></a></div>
   </div>
 </div>
 

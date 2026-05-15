@@ -69,6 +69,18 @@
   @include breakpoint(max-width $medium) {
     grid-template-columns: 1fr;
   }
+
+  &--4col {
+    grid-template-columns: repeat(4, 1fr);
+
+    @include breakpoint(max-width $large) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include breakpoint(max-width $medium) {
+      grid-template-columns: 1fr;
+    }
+  }
 }
 
 .project-card {
