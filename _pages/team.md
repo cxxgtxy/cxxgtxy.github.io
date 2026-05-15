@@ -73,11 +73,11 @@ Our work is available on GitHub at [**AMAP-ML**](https://github.com/AMAP-ML), wi
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [YOLOv6](https://github.com/meituan/YOLOv6) | 5,700+ | Industrial-grade real-time object detection |
-| [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) | 1,500+ | Mobile vision language model |
-| [Twins](https://github.com/Meituan-AutoML/Twins) | 1,000+ | Spatial attention Vision Transformer |
-| [GPG](https://github.com/AMAP-ML/GPG) | — | RL reasoning baseline (ICLR 2026) |
-| [USP](https://github.com/AMAP-ML/USP) | — | Unified self-supervised pretraining (ICCV 2025) |
-| [Tree-GRPO](https://github.com/AMAP-ML/Tree-GRPO) | — | Tree search for LLM agent RL (ICLR 2026) |
+| [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | 1,300+ | Collective skill evolution for AI agents |
+| [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) | 1,500+ | First real-time mobile vision language model |
+| [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | — | Interactive world model for virtual environments |
+| [GPG](https://github.com/AMAP-ML/GPG) | — | Simple & strong RL for reasoning (ICLR 2026) |
+| [USP](https://github.com/AMAP-ML/USP) | — | Unified pretraining for generation & understanding (ICCV 2025) |
 
 ---
 
