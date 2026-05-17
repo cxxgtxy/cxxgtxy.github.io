@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="vision-statement" markdown="1">
-I lead a 100+ member research team at Alibaba AMAP, building AI systems that span **LLM reasoning, generative AI, world models, agent systems, and intelligent mobility**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to large-scale AI systems that ship to hundreds of millions of users. I have published **110+ papers** at top venues, with **14,000+ citations** and **10,000+ GitHub stars** across open-source projects.
+I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AI products that ship to hundreds of millions of users. I have published **110+ papers** at top venues, with **14,000+ citations** and **10,000+ GitHub stars** across open-source projects.
 </div>
 
 <div class="stats-grid">
@@ -57,9 +57,9 @@ Professional Experience
 </div>
 <div class="cv-entry__role">Senior Director & Head of AMAP-ML</div>
 
-Leading a 100+ member research team with over 50% recruited from top AI labs worldwide, across six core directions: LLM reasoning, generative AI & world models, AI agents, foundation architectures, multimodal understanding, and intelligent mobility.
+Leading a 100+ member product-facing AI team with over 50% recruited from top AI labs worldwide, across spatial intelligence, generative intelligence, reasoning agents, world models, foundation architectures, and multimodal understanding.
 
-- Published **45+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP) and open-sourced **20+ projects** with **10,000+ cumulative GitHub stars**
+- Published **45+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP) and open-sourced **30+ AMAP-ML projects** with **10,000+ cumulative GitHub stars**
 - Key first-author works: GPG (ICLR'26, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV'25); key team works: SkillClaw (1,300+ Stars), DreamX-World, Tree-GRPO, FASA, CoEvolve
 - Multimodal technology powers AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent system drives **AI Companion (AI 伴行)** — both serving hundreds of millions of users
 
@@ -134,12 +134,12 @@ Selected Publications
 - [Tree-GRPO](https://arxiv.org/abs/2509.21240): Tree Search for Agent RL — **ICLR'26**
 - [CoEvolve](https://arxiv.org/abs/2604.15840): Agent-Data Co-Evolution — **ACL'26**
 - [MathForge](https://arxiv.org/abs/2601.20614): Difficulty-Aware GRPO — **ICLR'26**
-- [AutoDrive-R](https://arxiv.org/abs/2509.01944): Reasoning VLA for Driving — **ICLR'26**
+- [AutoDrive-R2](https://arxiv.org/abs/2509.01944): Reasoning VLA for Driving — **ICLR'26**
 
 **Generative AI & World Models**
 - [USP](https://arxiv.org/abs/2503.06132): Unified Pretraining for Gen & Understanding — **ICCV'25** · 1st Author
 - [DCW](https://arxiv.org/abs/2604.16044): SNR-t Bias of Diffusion Models — **CVPR'26**
-- [S-Guidance](https://arxiv.org/abs/2508.12880): Training-Free Diffusion Enhancement — **ICLR'26**
+- [S2-Guidance](https://arxiv.org/abs/2508.12880): Training-Free Diffusion Enhancement — **ICLR'26**
 - [EPG](https://arxiv.org/abs/2510.12586): End-to-End Pixel Generation without VAE — **ICLR'26**
 - [DreamX-World](https://github.com/AMAP-ML/DreamX-World): Interactive World Model
 

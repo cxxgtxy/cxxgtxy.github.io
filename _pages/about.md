@@ -14,7 +14,7 @@ Xiangxiang Chu（初祥祥）
 Senior Director & Head of AMAP-ML, Alibaba Group
 
 <div class="vision-statement" markdown="1">
-My research traces an arc from **efficient neural architecture design** to **multimodal large models, generative AI, and intelligent agents**. Starting with neural architecture search at Xiaomi, I moved to Vision Transformer design (Twins, CPVT) and multimodal foundation models (VisionLLaMA, MobileVLM) at Meituan, and now lead a 100+ member team at Alibaba AMAP building **LLM reasoning, world models, generative AI, agent systems, and intelligent mobility** — with research directly powering products serving hundreds of millions of users. The thread that connects all of it: making AI systems more efficient, more intelligent, and more broadly useful.
+I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from efficient neural architecture design to multimodal foundation models, LLM reasoning, world models, agent systems, and large-scale AI products serving hundreds of millions of users. The thread that connects all of it: making AI systems more efficient, more capable, and more broadly useful.
 </div>
 
 <div class="stats-grid">
@@ -63,7 +63,7 @@ Featured Projects
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">Agent</span>
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
-    <div class="project-card__desc">Open-source framework that lets AI agent skills automatically evolve from real interactions across sessions, devices, and users. Compatible with Claude Code, Codex, and more.</div>
+    <div class="project-card__desc">Agentic skill evolution from real interaction traces, turning reusable skills into collective libraries across sessions, devices, and agents.</div>
     <div class="project-card__meta">1,300+ Stars · <a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></div>
   </div>
 </div>
@@ -103,8 +103,8 @@ Research Journey
 <div class="journey-timeline">
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
-    <div class="journey-item__title">LLM Reasoning, Generative AI, World Models, Agent & Intelligent Mobility</div>
-    <div class="journey-item__desc">Leading a 100+ member research team across six core directions: LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), generative AI & world models (DCW, S-Guidance, DreamX-World), AI agents (SkillClaw — 1,300+ Stars), foundation architectures (FASA, EPG, USP), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Research directly ships to production: multimodal technology powers the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent system drives AMAP's AI Companion (AI 伴行) — both serving hundreds of millions of users. Published 45+ papers at top venues; open-sourced 20+ projects with 10,000+ cumulative GitHub stars.</div>
+    <div class="journey-item__title">Spatial Intelligence, Generative Intelligence, Reasoning Agents & World Models</div>
+    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw — 1,300+ Stars), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Research directly ships to production: multimodal technology powers the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent system drives AMAP's AI Companion (AI 伴行) — both serving hundreds of millions of users. Published 45+ papers at top venues; open-sourced 30+ AMAP-ML projects with 10,000+ cumulative GitHub stars.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>
@@ -143,26 +143,26 @@ Recognition
 
 ---
 
-Current Research Directions
+Core Technical Directions
 ------
 
 <div class="two-col">
 <div markdown="1">
 
-**LLM Reasoning** — Reinforcement learning for LLM reasoning (GPG, MathForge), tree search for agent training (Tree-GRPO), agent-data co-evolution (CoEvolve), autonomous driving VLA (AutoDrive-R)
+**Spatial Intelligence** — Route-planning agents (MobilityBench), map-augmented geolocalization (Thinking-with-Map), autonomous-driving VLA reasoning (AutoDrive-R2), urban scene understanding, and industrial mobility systems
 
-**Agent & World Models** — Collective skill evolution for AI agents (SkillClaw), interactive world simulation (DreamX-World), GUI world models (Code2World)
+**Generative Intelligence** — Scene-text editing (FluxText), diffusion-model optimization (DCW, S2-Guidance), video virtual try-on (Eevee), 3D editing (RL3DEdit), and controllable visual effects (Omni-Effects)
 
-**Image & Video Generation** — Diffusion model optimization (DCW, S-Guidance), video virtual try-on (Eevee), long video narrative (NarrLV), motion generation benchmarks (VMBench)
+**Reasoning Agents** — Reinforcement learning for LLM reasoning (GPG, MathForge), tree-search agent training (Tree-GRPO), agent-data co-evolution (CoEvolve), and collective skill evolution (SkillClaw)
 
 </div>
 <div markdown="1">
 
-**Foundation Architectures** — Frequency-aware sparse attention (FASA), unified pretraining for generation and understanding (USP), end-to-end pixel generation without VAE (EPG), diffusion LLMs (AR-MAP)
+**World Models & Interactive AI** — Interactive world simulation (DreamX-World), GUI world models (Code2World), and benchmarks for dynamic 4D response capabilities (Omni-WorldBench)
 
 **Multimodal Understanding** — Vision-language reasoning, visual policy optimization, spatial intelligence evaluation (SpatialGenEval), multimodal in-context learning (STV)
 
-**Intelligent Mobility** — Route-planning agent benchmarks (MobilityBench), generative multi-route navigation (GenMRP), map-augmented geolocalization reasoning, integrated search-recommendation
+**Foundation Architectures** — Frequency-aware sparse attention (FASA), unified pretraining for generation and understanding (USP), end-to-end pixel generation without VAE (EPG), and diffusion LLMs (AR-MAP)
 
 </div>
 </div>
@@ -174,21 +174,21 @@ Team & Opportunities
 
 <div class="team-section" markdown="1">
 
-I lead the AMAP-ML team at Alibaba Group, a 100+ member research team with over half recruited from top AI labs globally, including multiple Google PhD Fellowship recipients.
+I lead the AMAP-ML team at Alibaba Group, a 100+ member product-facing AI team with over half recruited from top AI labs globally, including multiple Google PhD Fellowship recipients.
 
-**Our philosophy**: We believe in the tight coupling of academic research and industrial impact. Every core paper ships with reproducible open-source code, and our research directly powers products serving hundreds of millions of users.
+**Our philosophy**: We build systems where research quality, engineering discipline, open-source reproducibility, and product deployment reinforce each other. Every core paper ships with reproducible code, and our work directly powers products serving hundreds of millions of users.
 
 <div class="team-section__grid">
 <div class="team-section__item" markdown="1">
 
 #### Open Source
-We maintain [20+ projects on GitHub](https://github.com/AMAP-ML) spanning LLM reasoning, generative models, and intelligent mobility, with 10,000+ cumulative stars.
+We maintain [30+ projects on GitHub](https://github.com/AMAP-ML) spanning spatial intelligence, generative intelligence, reasoning agents, world models, and multimodal AI, with 10,000+ cumulative stars.
 
 </div>
 <div class="team-section__item" markdown="1">
 
 #### Hiring
-We are always looking for talented **interns and full-time researchers** in LLM reasoning, multimodal models, generative AI, and intelligent mobility. Drop me an [email](mailto:cxxgtxy@gmail.com) if interested.
+We are always looking for talented **interns, full-time researchers, and AI engineers** in LLM agents, reinforcement learning, world models, multimodal learning, spatial intelligence, and generative AI. Drop me an [email](mailto:cxxgtxy@gmail.com) if interested.
 
 </div>
 </div>
