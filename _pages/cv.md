@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+description: "Curriculum Vitae of Xiangxiang Chu — Senior Director at Alibaba AMAP, Tsinghua M.S., 110+ publications, National Science and Technology Progress First Prize."
 redirect_from:
   - /resume
 ---

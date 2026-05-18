@@ -3,6 +3,7 @@ layout: archive
 title: "Media Coverage"
 permalink: /media/
 author_profile: true
+description: "Media coverage and press articles about Xiangxiang Chu's research on YOLOv6, MobileVLM, Twins, FairNAS, and Alibaba AMAP AI systems."
 ---
 
 {% include base_path %}

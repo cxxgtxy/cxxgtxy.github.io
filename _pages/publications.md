@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+description: "Publication list of Xiangxiang Chu — 110+ papers at NeurIPS, ICLR, ECCV, ICCV, CVPR on vision transformers, LLM reasoning, generative AI, and neural architecture search."
 ---
 
 {% include base_path %}

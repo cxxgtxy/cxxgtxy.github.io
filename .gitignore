@@ -1,2 +1,8 @@
 _site/
 .sass-cache/
+
+# Personal files - do not push
+*.pptx
+*.pdf
+generate_ppt.py
+generate_pdf.py

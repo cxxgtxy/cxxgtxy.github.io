@@ -3,6 +3,7 @@ layout: archive
 title: "Team"
 permalink: /team/
 author_profile: true
+description: "AMAP-ML team at Alibaba Group — 100+ members working on spatial intelligence, generative AI, world models, LLM reasoning agents, and multimodal AI."
 ---
 
 {% include base_path %}
