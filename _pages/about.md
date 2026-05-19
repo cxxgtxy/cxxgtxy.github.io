@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiangxiang Chu - AI Leader | Spatial & Generative Intelligence"
+title: "About me"
 excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP. Leading a 100+ member AI team building foundation systems for spatial intelligence, generative AI, and reasoning agents. 14,000+ citations, 110+ publications."
 description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP. Leading a 100+ member AI team building foundation systems for spatial intelligence, generative AI, and reasoning agents. 14,000+ citations, 110+ publications."
 author_profile: true
