@@ -45,6 +45,9 @@
       {% elsif author.twitter %}
         <li><a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> X</a></li>
       {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="{{ author.xiaohongshu }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> Xiaohongshu</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
