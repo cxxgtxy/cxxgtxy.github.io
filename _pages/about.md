@@ -21,11 +21,11 @@ I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team buildin
 <div class="stats-grid">
   <div class="stat-item">
     <span class="stat-number">14,000+</span>
-    <span class="stat-label">Citations</span>
+    <span class="stat-label">Total Citations</span>
   </div>
   <div class="stat-item">
     <span class="stat-number">6,000+</span>
-    <span class="stat-label">First-Author Citations</span>
+    <span class="stat-label">As First Author</span>
   </div>
   <div class="stat-item">
     <span class="stat-number">110+</span>
@@ -53,7 +53,7 @@ Featured Projects
     <span class="project-card__tag project-card__tag--gen">World Model</span>
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
     <div class="project-card__desc">A general-purpose interactive world model that creates diverse, high-fidelity virtual environments with camera-controlled navigation and prompt-driven world events.</div>
-    <div class="project-card__meta"><a href="https://github.com/AMAP-ML/DreamX-World"><img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__meta">AMAP-ML · 2026 · <a href="https://github.com/AMAP-ML/DreamX-World"><img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"></a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--gen">Generation</span>
@@ -65,7 +65,7 @@ Featured Projects
     <span class="project-card__tag project-card__tag--llm">Agent</span>
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
     <div class="project-card__desc">Agentic skill evolution from real interaction traces, turning reusable skills into collective libraries across sessions, devices, and agents.</div>
-    <div class="project-card__meta">1,300+ Stars · <a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__meta"><a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></div>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ Featured Projects
     <span class="project-card__tag project-card__tag--detection">Detection</span>
     <div class="project-card__title"><a href="https://github.com/meituan/YOLOv6">YOLOv6</a></div>
     <div class="project-card__desc">Industrial-grade real-time object detection framework. Widely deployed in production across the industry, with a full training-to-deployment toolchain.</div>
-    <div class="project-card__meta">5,700+ Stars · <a href="https://github.com/meituan/YOLOv6"><img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__meta"><a href="https://github.com/meituan/YOLOv6"><img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social" alt="GitHub stars"></a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--vlm">Vision-Language</span>
@@ -105,12 +105,12 @@ Research Journey
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
     <div class="journey-item__title">Spatial Intelligence, Generative Intelligence, Reasoning Agents & World Models</div>
-    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw — 1,300+ Stars), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Research directly ships to production: multimodal technology powers the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent system drives AMAP's AI Companion (AI 伴行) — both serving hundreds of millions of users. Published 45+ papers at top venues; open-sourced 30+ AMAP-ML projects with 10,000+ cumulative GitHub stars.</div>
+    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Research directly ships to production: multimodal technology powers the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent system drives AMAP's AI Companion (AI 伴行) — both serving hundreds of millions of users. Published 45+ papers at top venues; open-sourced 30+ AMAP-ML projects.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>
     <div class="journey-item__title">Vision Transformers, Multimodal Models & Industrial AI</div>
-    <div class="journey-item__desc">Built the Visual Intelligence team from scratch. Created Twins (NeurIPS'21), CPVT (ICLR'23), VisionLLaMA (ECCV'24); reproduced LLaMA 7B and built MobileVLM for on-device deployment; open-sourced YOLOv6 (5,700+ Stars); shipped autonomous delivery and drone perception systems.</div>
+    <div class="journey-item__desc">Built the Visual Intelligence team from scratch. Created Twins (NeurIPS'21), CPVT (ICLR'23), VisionLLaMA (ECCV'24); reproduced LLaMA 7B and built MobileVLM for on-device deployment; open-sourced YOLOv6; shipped autonomous delivery and drone perception systems.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2017 – 2020 · Xiaomi</div>
@@ -183,7 +183,7 @@ I lead the AMAP-ML team at Alibaba Group, a 100+ member product-facing AI team w
 <div class="team-section__item" markdown="1">
 
 #### Open Source
-We maintain [30+ projects on GitHub](https://github.com/AMAP-ML) spanning spatial intelligence, generative intelligence, reasoning agents, world models, and multimodal AI, with 10,000+ cumulative stars.
+We maintain [30+ projects on GitHub](https://github.com/AMAP-ML) spanning spatial intelligence, generative intelligence, reasoning agents, world models, and multimodal AI.
 
 </div>
 <div class="team-section__item" markdown="1">

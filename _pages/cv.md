@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="vision-statement" markdown="1">
-I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AI products that ship to hundreds of millions of users. I have published **110+ papers** at top venues, with **14,000+ citations (6,000+ from first-authored works)** and **10,000+ GitHub stars** across open-source projects.
+I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AI products that ship to hundreds of millions of users. I have published **110+ papers** at top venues, with **14,000+ citations (6,000+ from first-authored works)** across open-source projects.
 </div>
 
 <div class="stats-grid">
@@ -60,8 +60,8 @@ Professional Experience
 
 Leading a 100+ member product-facing AI team with over 50% recruited from top AI labs worldwide, across spatial intelligence, generative intelligence, reasoning agents, world models, foundation architectures, and multimodal understanding.
 
-- Published **45+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP) and open-sourced **30+ AMAP-ML projects** with **10,000+ cumulative GitHub stars**
-- Key first-author works: GPG (ICLR'26, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV'25); key team works: SkillClaw (1,300+ Stars), DreamX-World, Tree-GRPO, FASA, CoEvolve
+- Published **45+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP) and open-sourced **30+ AMAP-ML projects**
+- Key first-author works: GPG (ICLR'26, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV'25); key team works: SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
 - Multimodal technology powers AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent system drives **AI Companion (AI 伴行)** — both serving hundreds of millions of users
 
 </div>
@@ -77,7 +77,7 @@ Built the Visual Intelligence team from scratch. Directed research in Vision Tra
 
 - Created **Twins** (NeurIPS'21), **CPVT** (ICLR'23), **VisionLLaMA** (ECCV'24) — widely adopted Vision Transformer architectures; VisionLLaMA pioneered auto-scaling 2D RoPE, later adopted by Qwen-VL and others
 - Built **MobileVLM**, the first real-time mobile VLM; reproduced LLaMA 7B from scratch
-- Open-sourced **YOLOv6** (5,700+ Stars), an industry-standard detection framework deployed across the industry
+- Open-sourced **YOLOv6**, an industry-standard detection framework deployed across the industry
 - Shipped 3D perception for autonomous delivery vehicles and drones; saved millions in annotation and serving costs annually
 
 </div>
@@ -145,7 +145,7 @@ Selected Publications
 - [DreamX-World](https://github.com/AMAP-ML/DreamX-World): Interactive World Model
 
 **AI Agents & Intelligent Mobility**
-- [SkillClaw](https://github.com/AMAP-ML/SkillClaw): Collective Skill Evolution — 1,300+ Stars
+- [SkillClaw](https://github.com/AMAP-ML/SkillClaw): Collective Skill Evolution
 - [Code2World](https://arxiv.org/abs/2602.09856): GUI World Model via Renderable Code
 - [MobilityBench](https://arxiv.org/abs/2602.22638): Route-Planning Agent Benchmark
 
@@ -161,7 +161,7 @@ Selected Publications
 
 **Vision-Language & Detection**
 - [MobileVLM](https://arxiv.org/abs/2312.16886): First Real-Time Mobile VLM · 1st Author
-- [YOLOv6](https://arxiv.org/abs/2209.02976): Industrial Object Detection — 5,700+ Stars
+- [YOLOv6](https://arxiv.org/abs/2209.02976): Industrial Object Detection
 - [SpatialGenEval](https://arxiv.org/abs/2601.20354): Spatial Intelligence Benchmark — **ICLR'26**
 - [PromptDet](https://arxiv.org/abs/2203.16513): Open-Vocabulary Detection — **ECCV'22**
 
