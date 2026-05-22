@@ -21,6 +21,8 @@ I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team buildin
 <div class="profile-actions">
   <a class="profile-action" href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>
   <a class="profile-action" href="https://github.com/AMAP-ML">AMAP-ML GitHub</a>
+  <a class="profile-action" href="https://x.com/cxx1353574">X / Twitter</a>
+  <a class="profile-action" href="https://xhslink.com/m/3GsP5VoeLzC">Xiaohongshu</a>
   <a class="profile-action" href="/publications/">Publications</a>
   <a class="profile-action profile-action--primary" href="/team/#join-us">Join AMAP-ML</a>
 </div>
@@ -53,16 +55,20 @@ Recent Updates
 
 <div class="updates-list">
   <div class="update-item">
-    <span class="update-item__date">May 2026</span>
-    <span class="update-item__text">GPG accepted to ICLR 2026 and adopted by ByteDance's VERL framework as an official reasoning RL algorithm.</span>
+    <span class="update-item__date">2026.05.18</span>
+    <span class="update-item__text"><a href="https://github.com/AMAP-ML/MobilityBench">MobilityBench</a> accepted to KDD 2026, benchmarking route-planning agents in real-world mobility scenarios.</span>
   </div>
   <div class="update-item">
-    <span class="update-item__date">2026</span>
-    <span class="update-item__text">AMAP-ML expanded open-source work across spatial intelligence, generative AI, reasoning agents, and world models.</span>
+    <span class="update-item__date">2026.05.12</span>
+    <span class="update-item__text"><a href="https://github.com/AMAP-ML/CoEvolve">CoEvolve</a> and <a href="https://github.com/AMAP-ML/Thinking-with-Map">Thinking-with-Map</a> added new ACL 2026 work on agent-data evolution and map-augmented reasoning.</span>
   </div>
   <div class="update-item">
-    <span class="update-item__date">2025</span>
-    <span class="update-item__text">USP accepted to ICCV 2025, bridging image generation and understanding through unified self-supervised pretraining.</span>
+    <span class="update-item__date">2026.05.11</span>
+    <span class="update-item__text"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a> released the 5B-Cam model and inference code for interactive world simulation.</span>
+  </div>
+  <div class="update-item">
+    <span class="update-item__date">2026.04.10</span>
+    <span class="update-item__text"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a> released an agentic evolver that turns real interaction traces into reusable skill libraries.</span>
   </div>
 </div>
 

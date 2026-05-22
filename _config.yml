@@ -70,8 +70,9 @@ social:
   name                   : "Xiangxiang Chu"
   links:
     - "https://scholar.google.com/citations?user=jn21pUsAAAAJ"
-    - "https://github.com/cxxgtxy"
+    - "https://github.com/AMAP-ML"
     - "https://x.com/cxx1353574"
+    - "https://xhslink.com/m/3GsP5VoeLzC"
 
 
 # Analytics
@@ -86,7 +87,7 @@ author:
   name             : "Xiangxiang Chu（初祥祥）"
   avatar           : "profile.png"
   bio              : "Foundation AI · Spatial & Generative Intelligence · 14K citations (6K first-author)"
-  location         : "Beijing"
+  location         :
   employer         : "AMAP, Alibaba Group"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN"
@@ -99,7 +100,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cxxgtxy"
+  github           : "AMAP-ML"
+  github_label     : "AMAP-ML GitHub"
   google_plus      :
   keybase          :
   instagram        :
