@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP. Leading a 100+ member AI team building foundation systems for spatial intelligence, generative AI, and reasoning agents. 14,000+ citations, 110+ publications."
-description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP. Leading a 100+ member AI team building foundation systems for spatial intelligence, generative AI, and reasoning agents. 14,000+ citations, 110+ publications."
+excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP. Leading a 100+ member AI team building foundation systems for spatial intelligence, generative AI, and reasoning agents. 14,000+ citations (6,000+ from first-authored works), 110+ publications."
+description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP. Leading a 100+ member AI team building foundation systems for spatial intelligence, generative AI, and reasoning agents. 14,000+ citations (6,000+ from first-authored works), 110+ publications."
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,20 +20,20 @@ I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team buildin
 
 <div class="stats-grid">
   <div class="stat-item">
-    <span class="stat-number">110+</span>
-    <span class="stat-label">Publications</span>
-  </div>
-  <div class="stat-item">
     <span class="stat-number">14,000+</span>
     <span class="stat-label">Citations</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">100+</span>
-    <span class="stat-label">Team Members</span>
+    <span class="stat-number">6,000+</span>
+    <span class="stat-label">First-Author Citations</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">10,000+</span>
-    <span class="stat-label">GitHub Stars</span>
+    <span class="stat-number">110+</span>
+    <span class="stat-label">Publications</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">100+</span>
+    <span class="stat-label">Team Members</span>
   </div>
 </div>
 

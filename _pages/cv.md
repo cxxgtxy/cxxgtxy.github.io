@@ -11,25 +11,25 @@ redirect_from:
 {% include base_path %}
 
 <div class="vision-statement" markdown="1">
-I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AI products that ship to hundreds of millions of users. I have published **110+ papers** at top venues, with **14,000+ citations** and **10,000+ GitHub stars** across open-source projects.
+I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AI products that ship to hundreds of millions of users. I have published **110+ papers** at top venues, with **14,000+ citations (6,000+ from first-authored works)** and **10,000+ GitHub stars** across open-source projects.
 </div>
 
 <div class="stats-grid">
-  <div class="stat-item">
-    <span class="stat-number">110+</span>
-    <span class="stat-label">Publications</span>
-  </div>
   <div class="stat-item">
     <span class="stat-number">14,000+</span>
     <span class="stat-label">Citations</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">100+</span>
-    <span class="stat-label">Team Members</span>
+    <span class="stat-number">6,000+</span>
+    <span class="stat-label">First-Author Citations</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">10,000+</span>
-    <span class="stat-label">GitHub Stars</span>
+    <span class="stat-number">110+</span>
+    <span class="stat-label">Publications</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-number">100+</span>
+    <span class="stat-label">Team Members</span>
   </div>
 </div>
 
