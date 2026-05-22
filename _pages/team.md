@@ -17,6 +17,25 @@ I lead AMAP-ML at Alibaba Group, a 100+ member product-facing AI team building f
 **Our mission:** Build foundation AI for spatial intelligence and generative intelligence. We connect academic rigor, open-source reproducibility, engineering discipline, and real-world product deployment.
 </div>
 
+<div class="proof-grid">
+  <div class="proof-item">
+    <span class="proof-item__number">100+</span>
+    <span class="proof-item__label">product-facing AI team members</span>
+  </div>
+  <div class="proof-item">
+    <span class="proof-item__number">30+</span>
+    <span class="proof-item__label">open-source AMAP-ML projects</span>
+  </div>
+  <div class="proof-item">
+    <span class="proof-item__number">45+</span>
+    <span class="proof-item__label">recent top-venue papers from AMAP-ML</span>
+  </div>
+  <div class="proof-item">
+    <span class="proof-item__number">300M+</span>
+    <span class="proof-item__label">users served by AMAP products every day</span>
+  </div>
+</div>
+
 ---
 
 Product Anchors
@@ -84,12 +103,25 @@ Our work is available on GitHub at [**AMAP-ML**](https://github.com/AMAP-ML), wi
 
 ---
 
-Join Us
+<span id="join-us"></span>
+
+Join AMAP-ML
 ======
 
 <div class="team-section" markdown="1">
 
-We are always looking for talented **interns, full-time researchers, and AI engineers** to join our team. We offer:
+We are looking for talented **interns, full-time researchers, and AI engineers** who want to build research-grade systems that also ship into real products.
+
+<div class="direction-tags">
+  <span>LLM agents</span>
+  <span>Reinforcement learning</span>
+  <span>World models</span>
+  <span>Multimodal reasoning</span>
+  <span>Spatial intelligence</span>
+  <span>Generative AI</span>
+  <span>Foundation architectures</span>
+  <span>Efficient deployment</span>
+</div>
 
 <div class="team-section__grid">
 <div class="team-section__item" markdown="1">
@@ -114,6 +146,12 @@ We are always looking for talented **interns, full-time researchers, and AI engi
 </div>
 </div>
 
-**Interested?** Please send your CV and representative publications to [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com). We review all applications and respond promptly.
+<div class="contact-card" markdown="1">
+
+**Interested?** Send your CV, representative publications or projects, and the direction you want to work on to [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com?subject=AMAP-ML%20Application).
+
+Recommended subject: **AMAP-ML Application - Your Name - Direction**.
+
+</div>
 
 </div>

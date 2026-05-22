@@ -13,6 +13,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "csv"
 gem "base64"
 gem "bigdecimal"
+gem "webrick", "~> 1.9"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

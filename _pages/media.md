@@ -8,7 +8,16 @@ description: "Media coverage and press articles about Xiangxiang Chu's research 
 
 {% include base_path %}
 
-Selected media reports and articles about my research work.
+<div class="news-lead">
+  <p>Selected media reports and articles about my research work. These pieces provide external signals around the same research trajectory highlighted across this site: efficient AI systems, vision and multimodal foundation models, open-source industrial frameworks, and AMAP-ML's current work on product-facing intelligence.</p>
+</div>
+
+<div class="research-map">
+  <a href="#agent-systems">Agent Systems</a>
+  <a href="#foundation-models--vision">Foundation Models & Vision</a>
+  <a href="#object-detection">Object Detection</a>
+  <a href="#automl--neural-architecture-search">AutoML & NAS</a>
+</div>
 
 ---
 

@@ -18,6 +18,13 @@ See more info at https://academicpages.github.io/
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
+On this Mac, use the project wrapper so the old GitHub Pages/Jekyll stack runs with Homebrew Ruby:
+
+```bash
+bin/jekyll-local build --config _config.yml,_config.dev.yml
+bin/jekyll-local serve --host 127.0.0.1 --port 4000 --config _config.yml,_config.dev.yml
+```
+
 1. Clone the repository and made updates as detailed above
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)

@@ -8,6 +8,38 @@ description: "Publication list of Xiangxiang Chu — 110+ papers at NeurIPS, ICL
 
 {% include base_path %}
 
+<div class="pub-lead">
+  <p>My publications follow a long arc from <strong>neural architecture search</strong> and <strong>efficient vision backbones</strong> to <strong>multimodal foundation models</strong>, <strong>LLM reasoning</strong>, <strong>world models</strong>, and <strong>spatial intelligence</strong>. Recent AMAP-ML work is designed to connect top-tier research, reproducible open source, and AMAP products serving <strong>300M+ users every day</strong>.</p>
+</div>
+
+<div class="proof-grid proof-grid--compact">
+  <div class="proof-item">
+    <span class="proof-item__number">110+</span>
+    <span class="proof-item__label">papers across top AI venues and journals</span>
+  </div>
+  <div class="proof-item">
+    <span class="proof-item__number">14K+</span>
+    <span class="proof-item__label">Google Scholar citations</span>
+  </div>
+  <div class="proof-item">
+    <span class="proof-item__number">6K+</span>
+    <span class="proof-item__label">citations from first-authored works</span>
+  </div>
+  <div class="proof-item">
+    <span class="proof-item__number">30+</span>
+    <span class="proof-item__label">open-source AMAP-ML projects</span>
+  </div>
+</div>
+
+<div class="research-map">
+  <a href="#first-author-papers">First-author papers</a>
+  <a href="#llm-reasoning--agents">LLM reasoning & agents</a>
+  <a href="#maps-mobility--recommendation">Maps & mobility</a>
+  <a href="#image-generation--editing">Generative AI</a>
+  <a href="#multimodal--vision-language">Multimodal</a>
+  <a href="#foundation-model-architectures">Architectures</a>
+</div>
+
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">my Google Scholar profile</a></u>.
 
 ---

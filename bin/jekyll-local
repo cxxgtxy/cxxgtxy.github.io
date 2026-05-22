@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+export PATH="/usr/local/opt/ruby/bin:${PATH}"
+export LANG="en_US.UTF-8"
+export LC_ALL="en_US.UTF-8"
+
+exec bundle exec ruby -e '
+class Object
+  def tainted?
+    false
+  end unless method_defined?(:tainted?)
+end
+
+load Gem.bin_path("jekyll", "jekyll")
+' "$@"

@@ -1,5 +1,9 @@
 {
-	"name": "Minimal Mistakes",
+	"name": "Xiangxiang Chu",
+	"short_name": "Xiangxiang Chu",
+	"theme_color": "#4f9db5",
+	"background_color": "#ffffff",
+	"display": "standalone",
 	"icons": [
 		{
 			"src": "\/images\/android-chrome-36x36.png?v=M44lzPylqQ",

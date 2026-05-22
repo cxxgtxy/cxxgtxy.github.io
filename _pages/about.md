@@ -1,21 +1,28 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP. Leading a 100+ member AI team building foundation systems for spatial intelligence, generative AI, and reasoning agents. 14,000+ citations (6,000+ from first-authored works), 110+ publications."
-description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP. Leading a 100+ member AI team building foundation systems for spatial intelligence, generative AI, and reasoning agents. 14,000+ citations (6,000+ from first-authored works), 110+ publications."
+title: "Xiangxiang Chu (初祥祥)"
+seo_title: "Xiangxiang Chu (初祥祥) - AMAP-ML, Spatial & Generative Intelligence"
+og_title: "Xiangxiang Chu (初祥祥) - AMAP-ML"
+excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 14,000+ citations, 110+ publications, and AMAP products serving 300M+ users every day."
+description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 14,000+ citations, 110+ publications, and AMAP products serving 300M+ users every day."
+og_image: "og-card.png"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Xiangxiang Chu（初祥祥）
-======
-
-Senior Director & Head of AMAP-ML, Alibaba Group
+<p class="profile-subtitle">Senior Director & Head of AMAP-ML, Alibaba Group</p>
 
 <div class="vision-statement" markdown="1">
-I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from efficient neural architecture design to multimodal foundation models, LLM reasoning, world models, agent systems, and large-scale AI products serving hundreds of millions of users. The thread that connects all of it: making AI systems more efficient, more capable, and more broadly useful.
+I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team building foundation systems for **spatial intelligence**, **generative intelligence**, **reasoning agents**, and **world models**. My work connects academic research, open-source systems, and large-scale AMAP products serving **300M+ users every day**.
+</div>
+
+<div class="profile-actions">
+  <a class="profile-action" href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>
+  <a class="profile-action" href="https://github.com/AMAP-ML">AMAP-ML GitHub</a>
+  <a class="profile-action" href="/publications/">Publications</a>
+  <a class="profile-action profile-action--primary" href="/team/#join-us">Join AMAP-ML</a>
 </div>
 
 <div class="stats-grid">
@@ -32,15 +39,41 @@ I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team buildin
     <span class="stat-label">Publications</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">100+</span>
-    <span class="stat-label">Team Members</span>
+    <span class="stat-number">300M+</span>
+    <span class="stat-label">Daily Users</span>
   </div>
 </div>
+
+<p class="profile-proof">Updated May 2026 · Citation metrics from <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
+
+---
+
+Recent Updates
+------
+
+<div class="updates-list">
+  <div class="update-item">
+    <span class="update-item__date">May 2026</span>
+    <span class="update-item__text">GPG accepted to ICLR 2026 and adopted by ByteDance's VERL framework as an official reasoning RL algorithm.</span>
+  </div>
+  <div class="update-item">
+    <span class="update-item__date">2026</span>
+    <span class="update-item__text">AMAP-ML expanded open-source work across spatial intelligence, generative AI, reasoning agents, and world models.</span>
+  </div>
+  <div class="update-item">
+    <span class="update-item__date">2025</span>
+    <span class="update-item__text">USP accepted to ICCV 2025, bridging image generation and understanding through unified self-supervised pretraining.</span>
+  </div>
+</div>
+
+[View all updates](/news/){: .profile-inline-link}
 
 ---
 
 Featured Projects
 ------
+
+### Current Focus
 
 <div class="project-grid project-grid--4col">
   <div class="project-card">
@@ -48,26 +81,32 @@ Featured Projects
     <div class="project-card__title"><a href="https://arxiv.org/abs/2504.02546">GPG</a></div>
     <div class="project-card__desc">A simple and strong reinforcement learning baseline for model reasoning — no critic, no reference model, no KL penalty. Adopted by ByteDance's <a href="https://verl.readthedocs.io/en/latest/algo/gpg.html">VERL</a> framework as an official algorithm.</div>
     <div class="project-card__meta">ICLR 2026 · First Author · <a href="https://github.com/AMAP-ML/GPG"><img src="https://img.shields.io/github/stars/AMAP-ML/GPG?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__links"><a href="https://arxiv.org/abs/2504.02546">paper</a><a href="https://github.com/AMAP-ML/GPG">code</a><a href="https://verl.readthedocs.io/en/latest/algo/gpg.html">VERL</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--gen">World Model</span>
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
     <div class="project-card__desc">A general-purpose interactive world model that creates diverse, high-fidelity virtual environments with camera-controlled navigation and prompt-driven world events.</div>
     <div class="project-card__meta">AMAP-ML · 2026 · <a href="https://github.com/AMAP-ML/DreamX-World"><img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__links"><a href="https://github.com/AMAP-ML/DreamX-World">code</a><a href="https://github.com/AMAP-ML">AMAP-ML</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--gen">Generation</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2503.06132">USP</a></div>
     <div class="project-card__desc">Unified self-supervised pretraining that bridges image generation and understanding within a single framework.</div>
     <div class="project-card__meta">ICCV 2025 · First Author · <a href="https://github.com/AMAP-ML/USP"><img src="https://img.shields.io/github/stars/AMAP-ML/USP?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__links"><a href="https://arxiv.org/abs/2503.06132">paper</a><a href="https://github.com/AMAP-ML/USP">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">Agent</span>
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
     <div class="project-card__desc">Agentic skill evolution from real interaction traces, turning reusable skills into collective libraries across sessions, devices, and agents.</div>
     <div class="project-card__meta"><a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__links"><a href="https://github.com/AMAP-ML/SkillClaw">code</a><a href="https://github.com/AMAP-ML">AMAP-ML</a></div>
   </div>
 </div>
+
+### Earlier Impact
 
 <div class="project-grid project-grid--4col">
   <div class="project-card">
@@ -105,7 +144,7 @@ Research Journey
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
     <div class="journey-item__title">Spatial Intelligence, Generative Intelligence, Reasoning Agents & World Models</div>
-    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Research directly ships to production: multimodal technology powers the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent system drives AMAP's AI Companion (AI 伴行) — both serving hundreds of millions of users. Published 45+ papers at top venues; open-sourced 30+ AMAP-ML projects.</div>
+    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Research directly ships to production: multimodal technology powers the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent system drives AMAP's AI Companion (AI 伴行) — contributing to AMAP products serving 300M+ users every day. Published 45+ papers at top venues; open-sourced 30+ AMAP-ML projects.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>
@@ -177,7 +216,7 @@ Team & Opportunities
 
 I lead the AMAP-ML team at Alibaba Group, a 100+ member product-facing AI team with over half recruited from top AI labs globally, including multiple Google PhD Fellowship recipients.
 
-**Our philosophy**: We build systems where research quality, engineering discipline, open-source reproducibility, and product deployment reinforce each other. Every core paper ships with reproducible code, and our work directly powers products serving hundreds of millions of users.
+**Our philosophy**: We build systems where research quality, engineering discipline, open-source reproducibility, and product deployment reinforce each other. Every core paper ships with reproducible code, and our work directly powers AMAP products serving 300M+ users every day.
 
 <div class="team-section__grid">
 <div class="team-section__item" markdown="1">

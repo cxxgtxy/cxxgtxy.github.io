@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="vision-statement" markdown="1">
-I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AI products that ship to hundreds of millions of users. I have published **110+ papers** at top venues, with **14,000+ citations (6,000+ from first-authored works)** across open-source projects.
+I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AMAP products serving **300M+ users every day**. I have published **110+ papers** at top venues, with **14,000+ citations (6,000+ from first-authored works)** across open-source projects.
 </div>
 
 <div class="stats-grid">
@@ -62,7 +62,7 @@ Leading a 100+ member product-facing AI team with over 50% recruited from top AI
 
 - Published **45+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP) and open-sourced **30+ AMAP-ML projects**
 - Key first-author works: GPG (ICLR'26, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV'25); key team works: SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
-- Multimodal technology powers AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent system drives **AI Companion (AI 伴行)** — both serving hundreds of millions of users
+- Multimodal technology powers AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent system drives **AI Companion (AI 伴行)** — contributing to AMAP products serving 300M+ users every day
 
 </div>
 
