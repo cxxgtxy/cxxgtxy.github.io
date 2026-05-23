@@ -80,6 +80,9 @@ Collaborative Papers
 ### Image Generation & Editing
 
 <ol>
+  <li>Embedding-perturbed Exploration Preference Optimization for Flow Models, <strong>ICML26</strong></li>
+  <li>MAR-GRPO: Stabilized GRPO for AR-Diffusion Hybrid Image Generation</li>
+  <li>ConceptWeaver: Weaving Disentangled Concepts with Flow</li>
   <li><a href="https://arxiv.org/abs/2604.16044">Elucidating the SNR-t Bias of Diffusion Probabilistic Models</a>, <strong>CVPR26</strong> <a href="https://github.com/AMAP-ML/DCW"><img src="https://img.shields.io/github/stars/AMAP-ML/DCW?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2603.05769">Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers</a>, <strong>CVPR26</strong></li>
   <li><a href="https://arxiv.org/abs/2603.03143">Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</a> <a href="https://github.com/AMAP-ML/RL3DEdit"><img src="https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social" alt="GitHub stars"></a></li>
@@ -99,6 +102,8 @@ Collaborative Papers
 ### Video Generation & Understanding
 
 <ol>
+  <li>Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos, <strong>ICML26</strong></li>
+  <li>Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models</li>
   <li><a href="https://arxiv.org/abs/2603.14935">Video-CoE: Reinforcing Video Event Prediction via Chain of Events</a>, <strong>CVPR26</strong></li>
   <li><a href="https://arxiv.org/abs/2512.24271">Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation</a></li>
   <li><a href="https://arxiv.org/abs/2511.18957">Eevee: Towards Close-up High-resolution Video-based Virtual Try-on</a>, <strong>CVPR26 Findings</strong> <a href="https://github.com/AMAP-ML/Eevee"><img src="https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social" alt="GitHub stars"></a></li>
@@ -116,6 +121,10 @@ Collaborative Papers
 ### LLM Reasoning & Agents
 
 <ol>
+  <li>D Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning, <strong>ICML26</strong></li>
+  <li>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver <a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></li>
+  <li>Ace-Skill: Bootstrapping Multimodal Agents with Prioritized and Clustered Evolution</li>
+  <li>Learning Agentic Policy from Action Guidance</li>
   <li><a href="https://arxiv.org/abs/2604.15840">CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution</a>, <strong>ACL26</strong></li>
   <li><a href="https://arxiv.org/abs/2602.09856">Code2World: A GUI World Model via Renderable Code Generation</a> <a href="https://github.com/AMAP-ML/Code2World"><img src="https://img.shields.io/github/stars/AMAP-ML/Code2World?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.01884">Entropy-Guided Data-Efficient Training for Multimodal Reasoning Reward Models</a></li>
@@ -131,6 +140,8 @@ Collaborative Papers
 ### Multimodal & Vision-Language
 
 <ol>
+  <li>Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation, <strong>ICML26</strong></li>
+  <li>Visual Enhanced Depth Scaling for Multimodal Latent Reasoning</li>
   <li><a href="https://arxiv.org/abs/2604.17295">LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics</a>, <strong>ACL26</strong></li>
   <li><a href="https://arxiv.org/abs/2602.11499">What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation</a></li>
   <li><a href="https://arxiv.org/abs/2604.09349">Visually-Guided Policy Optimization for Multimodal Reasoning</a>, <strong>ACL26</strong></li>
@@ -180,6 +191,7 @@ Collaborative Papers
 ### Model Compression & AutoML
 
 <ol>
+  <li>Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation, <strong>ICASSP26</strong></li>
   <li><a href="https://arxiv.org/abs/2401.15865">LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection</a>, <strong>ICLR24</strong></li>
   <li><a href="https://arxiv.org/abs/2311.12086">Masked Autoencoders Are Robust Neural Architecture Search Learners</a></li>
   <li><a href="https://arxiv.org/abs/2311.09550">A Speed Odyssey for Deployable Quantization of LLMs</a></li>
@@ -194,7 +206,7 @@ Collaborative Papers
 ### Maps, Mobility & Recommendation
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a> <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a>, <strong>KDD26</strong> <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR"><img src="https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel"><img src="https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social" alt="GitHub stars"></a></li>
   <li><a href="https://arxiv.org/abs/2602.04174">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></li>
