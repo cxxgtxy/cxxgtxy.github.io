@@ -118,7 +118,7 @@ Featured Projects
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Detection</span>
     <div class="project-card__title"><a href="https://github.com/meituan/YOLOv6">YOLOv6</a></div>
-    <div class="project-card__desc">Industrial-grade real-time object detection framework. Widely deployed in production across the industry, with a full training-to-deployment toolchain.</div>
+    <div class="project-card__desc">Industrial-grade real-time object detection framework with a full training-to-deployment toolchain and broad open-source adoption.</div>
     <div class="project-card__meta"><a href="https://github.com/meituan/YOLOv6"><img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social" alt="GitHub stars"></a></div>
   </div>
   <div class="project-card">
@@ -136,7 +136,7 @@ Featured Projects
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Foundation</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA</a></div>
-    <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks. Pioneered auto-scaling 2D RoPE for multimodal Transformers — the approach was later adopted by Qwen-VL and others. Surpasses ViT across generation, classification, segmentation, and detection.</div>
+    <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks. Pioneered auto-scaling 2D RoPE for multimodal Transformers — an approach later adopted by Qwen-VL and others — with strong results across generation, classification, segmentation, and detection.</div>
     <div class="project-card__meta">ECCV 2024 · First Author · <a href="https://github.com/Meituan-AutoML/VisionLLaMA"><img src="https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA?style=social" alt="GitHub stars"></a></div>
   </div>
 </div>
@@ -155,12 +155,12 @@ Research Journey
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>
     <div class="journey-item__title">Vision Transformers, Multimodal Models & Industrial AI</div>
-    <div class="journey-item__desc">Built the Visual Intelligence team from scratch. Created Twins (NeurIPS'21), CPVT (ICLR'23), VisionLLaMA (ECCV'24); reproduced LLaMA 7B and built MobileVLM for on-device deployment; open-sourced YOLOv6; shipped autonomous delivery and drone perception systems.</div>
+    <div class="journey-item__desc">Built the Visual Intelligence team from scratch. Created Twins (NeurIPS 2021), CPVT (ICLR 2023), VisionLLaMA (ECCV 2024); reproduced LLaMA 7B and built MobileVLM for on-device deployment; open-sourced YOLOv6; shipped autonomous delivery and drone perception systems.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2017 – 2020 · Xiaomi</div>
     <div class="journey-item__title">Neural Architecture Search & AutoML</div>
-    <div class="journey-item__desc">Founded Xiaomi's AutoML team. Produced a series of influential NAS works — FairNAS (ICCV'21), FairDARTS (ECCV'20), DARTS- (ICLR'21), FALSR — establishing new standards for fair and robust architecture search. Featured by Lei Jun and major AI media.</div>
+    <div class="journey-item__desc">Founded Xiaomi's AutoML team. Produced a series of influential NAS works — FairNAS (ICCV 2021), FairDARTS (ECCV 2020), DARTS- (ICLR 2021), FALSR — establishing new standards for fair and robust architecture search. Featured by Lei Jun and major AI media.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2013 – 2017 · KingStar</div>
@@ -220,9 +220,9 @@ Team & Opportunities
 
 <div class="team-section" markdown="1">
 
-I lead the AMAP-ML team at Alibaba Group, a 100+ member product-facing AI team with over half recruited from top AI labs globally, including multiple Google PhD Fellowship recipients.
+I lead the AMAP-ML team at Alibaba Group, a 100+ member product-facing AI team with strong research and engineering backgrounds across foundation models, agents, multimodal learning, spatial intelligence, and generative AI.
 
-**Our philosophy**: We build systems where research quality, engineering discipline, open-source reproducibility, and product deployment reinforce each other. Every core paper ships with reproducible code, and our work directly powers AMAP products serving 300M+ users every day.
+**Our philosophy**: We build systems where research quality, engineering discipline, open-source reproducibility, and product deployment reinforce each other. Many core projects ship with reproducible code, and our work contributes to AMAP products serving 300M+ users every day.
 
 <div class="team-section__grid">
 <div class="team-section__item" markdown="1">

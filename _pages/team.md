@@ -98,8 +98,8 @@ Our work is available on GitHub at [**AMAP-ML**](https://github.com/AMAP-ML), wi
 | [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | <img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"> | Interactive world model for virtual environments |
 | [GPG](https://github.com/AMAP-ML/GPG) | <img src="https://img.shields.io/github/stars/AMAP-ML/GPG?style=social" alt="GitHub stars"> | Simple and strong RL baseline for reasoning |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | <img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"> | Route-planning agent benchmark for real-world mobility |
-| [YOLOv6](https://github.com/meituan/YOLOv6) | 5,700+ | Industrial-grade real-time object detection |
-| [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) | 1,500+ | First real-time mobile vision language model |
+| [YOLOv6](https://github.com/meituan/YOLOv6) | <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social" alt="GitHub stars"> | Industrial-grade real-time object detection |
+| [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) | <img src="https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social" alt="GitHub stars"> | First real-time mobile vision language model |
 
 ---
 
@@ -129,8 +129,8 @@ We are looking for talented **interns, full-time researchers, and AI engineers**
 #### What We Offer
 - Competitive compensation and benefits
 - Publish at top venues (CVPR, NeurIPS, ICLR, ACL, etc.)
-- Work with state-of-the-art GPU clusters
-- Collaborate with researchers from top global AI labs
+- Work on large-scale training, evaluation, and product deployment
+- Collaborate across research, engineering, and product teams
 - Open-source culture: your work will be seen by the community
 
 </div>

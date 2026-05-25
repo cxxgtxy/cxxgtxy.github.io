@@ -58,10 +58,10 @@ Professional Experience
 </div>
 <div class="cv-entry__role">Senior Director & Head of AMAP-ML</div>
 
-Leading a 100+ member product-facing AI team with over 50% recruited from top AI labs worldwide, across spatial intelligence, generative intelligence, reasoning agents, world models, foundation architectures, and multimodal understanding.
+Leading a 100+ member product-facing AI team across spatial intelligence, generative intelligence, reasoning agents, world models, foundation architectures, and multimodal understanding.
 
 - Published **45+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP) and open-sourced **30+ AMAP-ML projects**
-- Key first-author works: GPG (ICLR'26, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV'25); key team works: SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
+- Key first-author works: GPG (ICLR 2026, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV 2025); key team works: SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
 - Multimodal technology powers AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent system drives **AI Companion (AI 伴行)** — contributing to AMAP products serving 300M+ users every day
 
 </div>
@@ -75,10 +75,10 @@ Leading a 100+ member product-facing AI team with over 50% recruited from top AI
 
 Built the Visual Intelligence team from scratch. Directed research in Vision Transformers, multimodal large models, and industrial AI systems.
 
-- Created **Twins** (NeurIPS'21), **CPVT** (ICLR'23), **VisionLLaMA** (ECCV'24) — widely adopted Vision Transformer architectures; VisionLLaMA pioneered auto-scaling 2D RoPE, later adopted by Qwen-VL and others
+- Created **Twins** (NeurIPS 2021), **CPVT** (ICLR 2023), **VisionLLaMA** (ECCV 2024) — widely adopted Vision Transformer architectures; VisionLLaMA pioneered auto-scaling 2D RoPE, later adopted by Qwen-VL and others
 - Built **MobileVLM**, the first real-time mobile VLM; reproduced LLaMA 7B from scratch
-- Open-sourced **YOLOv6**, an industry-standard detection framework deployed across the industry
-- Shipped 3D perception for autonomous delivery vehicles and drones; saved millions in annotation and serving costs annually
+- Open-sourced **YOLOv6**, a widely used industrial object detection framework
+- Shipped 3D perception for autonomous delivery vehicles and drones, reducing annotation and serving costs
 
 </div>
 
@@ -91,7 +91,7 @@ Built the Visual Intelligence team from scratch. Directed research in Vision Tra
 
 Founded Xiaomi's AutoML team and produced a series of influential neural architecture search works.
 
-- **FairNAS** (ICCV'21), **FairDARTS** (ECCV'20), **DARTS-** (ICLR'21), **FALSR** — establishing new standards for fair and robust architecture search
+- **FairNAS** (ICCV 2021), **FairDARTS** (ECCV 2020), **DARTS-** (ICLR 2021), **FALSR** — establishing new standards for fair and robust architecture search
 - Won **2nd place** in Xiaomi's first "Million Dollar Prize" (Automated Neural Network Design)
 - FALSR super-resolution algorithm personally endorsed by CEO Lei Jun
 
@@ -131,17 +131,17 @@ Selected Publications
 <div markdown="1">
 
 **LLM Reasoning**
-- [GPG](https://arxiv.org/abs/2504.02546): Simple & Strong RL for Reasoning — **ICLR'26** · 1st Author
-- [Tree-GRPO](https://arxiv.org/abs/2509.21240): Tree Search for Agent RL — **ICLR'26**
-- [CoEvolve](https://arxiv.org/abs/2604.15840): Agent-Data Co-Evolution — **ACL'26**
-- [MathForge](https://arxiv.org/abs/2601.20614): Difficulty-Aware GRPO — **ICLR'26**
-- [AutoDrive-R2](https://arxiv.org/abs/2509.01944): Reasoning VLA for Driving — **ICLR'26**
+- [GPG](https://arxiv.org/abs/2504.02546): Simple & Strong RL for Reasoning — **ICLR 2026** · 1st Author
+- [Tree-GRPO](https://arxiv.org/abs/2509.21240): Tree Search for Agent RL — **ICLR 2026**
+- [CoEvolve](https://arxiv.org/abs/2604.15840): Agent-Data Co-Evolution — **ACL 2026**
+- [MathForge](https://arxiv.org/abs/2601.20614): Difficulty-Aware GRPO — **ICLR 2026**
+- [AutoDrive-R2](https://arxiv.org/abs/2509.01944): Reasoning VLA for Driving — **ICLR 2026**
 
 **Generative AI & World Models**
-- [USP](https://arxiv.org/abs/2503.06132): Unified Pretraining for Gen & Understanding — **ICCV'25** · 1st Author
-- [DCW](https://arxiv.org/abs/2604.16044): SNR-t Bias of Diffusion Models — **CVPR'26**
-- [S2-Guidance](https://arxiv.org/abs/2508.12880): Training-Free Diffusion Enhancement — **ICLR'26**
-- [EPG](https://arxiv.org/abs/2510.12586): End-to-End Pixel Generation without VAE — **ICLR'26**
+- [USP](https://arxiv.org/abs/2503.06132): Unified Pretraining for Gen & Understanding — **ICCV 2025** · 1st Author
+- [DCW](https://arxiv.org/abs/2604.16044): SNR-t Bias of Diffusion Models — **CVPR 2026**
+- [S2-Guidance](https://arxiv.org/abs/2508.12880): Training-Free Diffusion Enhancement — **ICLR 2026**
+- [EPG](https://arxiv.org/abs/2510.12586): End-to-End Pixel Generation without VAE — **ICLR 2026**
 - [DreamX-World](https://github.com/AMAP-ML/DreamX-World): Interactive World Model
 
 **AI Agents & Intelligent Mobility**
@@ -153,22 +153,22 @@ Selected Publications
 <div markdown="1">
 
 **Foundation Architectures**
-- [VisionLLaMA](https://arxiv.org/abs/2403.00522): Unified LLaMA for Vision — **ECCV'24** · 1st Author
-- [Twins](https://arxiv.org/abs/2104.13840): Spatial Attention in ViTs — **NeurIPS'21** · 1st Author · Most Influential
-- [CPVT](https://arxiv.org/abs/2102.10882): Conditional Positional Encodings — **ICLR'23** · 1st Author · Most Influential
-- [FASA](https://arxiv.org/abs/2602.03152): Frequency-Aware Sparse Attention — **ICLR'26**
-- [QARepVGG](https://arxiv.org/abs/2212.01593): Quantization-Aware RepVGG — **AAAI'24** · 1st Author
+- [VisionLLaMA](https://arxiv.org/abs/2403.00522): Unified LLaMA for Vision — **ECCV 2024** · 1st Author
+- [Twins](https://arxiv.org/abs/2104.13840): Spatial Attention in ViTs — **NeurIPS 2021** · 1st Author · Most Influential
+- [CPVT](https://arxiv.org/abs/2102.10882): Conditional Positional Encodings — **ICLR 2023** · 1st Author · Most Influential
+- [FASA](https://arxiv.org/abs/2602.03152): Frequency-Aware Sparse Attention — **ICLR 2026**
+- [QARepVGG](https://arxiv.org/abs/2212.01593): Quantization-Aware RepVGG — **AAAI 2024** · 1st Author
 
 **Vision-Language & Detection**
 - [MobileVLM](https://arxiv.org/abs/2312.16886): First Real-Time Mobile VLM · 1st Author
 - [YOLOv6](https://arxiv.org/abs/2209.02976): Industrial Object Detection
-- [SpatialGenEval](https://arxiv.org/abs/2601.20354): Spatial Intelligence Benchmark — **ICLR'26**
-- [PromptDet](https://arxiv.org/abs/2203.16513): Open-Vocabulary Detection — **ECCV'22**
+- [SpatialGenEval](https://arxiv.org/abs/2601.20354): Spatial Intelligence Benchmark — **ICLR 2026**
+- [PromptDet](https://arxiv.org/abs/2203.16513): Open-Vocabulary Detection — **ECCV 2022**
 
 **AutoML & Neural Architecture Search**
-- [FairNAS](https://arxiv.org/abs/1907.01845): Rethinking NAS Fairness — **ICCV'21** · 1st Author · Most Influential
-- [FairDARTS](https://arxiv.org/abs/1911.12126): Fair Differentiable NAS — **ECCV'20** · 1st Author
-- [DARTS-](https://arxiv.org/abs/2009.01027): Robustly Out of Collapse — **ICLR'21** · 1st Author
+- [FairNAS](https://arxiv.org/abs/1907.01845): Rethinking NAS Fairness — **ICCV 2021** · 1st Author · Most Influential
+- [FairDARTS](https://arxiv.org/abs/1911.12126): Fair Differentiable NAS — **ECCV 2020** · 1st Author
+- [DARTS-](https://arxiv.org/abs/2009.01027): Robustly Out of Collapse — **ICLR 2021** · 1st Author
 
 </div>
 </div>
