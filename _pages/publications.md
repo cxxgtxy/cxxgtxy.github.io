@@ -32,6 +32,7 @@ description: "Publication list of Xiangxiang Chu — 120+ papers at NeurIPS, ICL
 </div>
 
 <div class="research-map">
+  <a href="#representative-works">Representative works</a>
   <a href="#first-author-papers">First-author papers</a>
   <a href="#llm-reasoning--agents">LLM reasoning & agents</a>
   <a href="#maps-mobility--recommendation">Maps & mobility</a>
@@ -41,6 +42,100 @@ description: "Publication list of Xiangxiang Chu — 120+ papers at NeurIPS, ICL
 </div>
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">my Google Scholar profile</a></u>.
+
+---
+
+Representative Works
+======
+
+<div class="pub-lead">
+  <p>Representative works are intentionally weighted toward <strong>first-author contributions</strong>, because they best show my own research taste, technical judgment, and long-term arc. A smaller set of team-led and open-source systems is included to show how that arc scales through engineering leadership, released code, and product-facing AI.</p>
+</div>
+
+### First-Author Representative Works
+
+<div class="project-grid project-grid--4col">
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--llm">Reasoning RL</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2504.02546">GPG</a></div>
+    <div class="project-card__desc">A minimal reinforcement-learning baseline for model reasoning: no critic, no reference model, no KL penalty. Adopted by ByteDance's VERL as an official algorithm.</div>
+    <div class="project-card__meta">ICLR 2026 · First Author · <a href="https://github.com/AMAP-ML/GPG">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--gen">Generation</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2503.06132">USP</a></div>
+    <div class="project-card__desc">Unified self-supervised pretraining that bridges image generation and understanding, continuing the first-author line from efficient architectures to foundation models.</div>
+    <div class="project-card__meta">ICCV 2025 · First Author · <a href="https://github.com/AMAP-ML/USP">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--arch">Architecture</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA</a></div>
+    <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks, introducing auto-scaling 2D RoPE for multimodal Transformers across generation, classification, segmentation, and detection.</div>
+    <div class="project-card__meta">ECCV 2024 · First Author · <a href="https://github.com/Meituan-AutoML/VisionLLaMA">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--vlm">Mobile VLM</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2312.16886">MobileVLM</a></div>
+    <div class="project-card__desc">A compact open vision-language assistant designed for real-time on-device deployment, with follow-up V2 work improving the mobile VLM baseline.</div>
+    <div class="project-card__meta">First Author · <a href="https://github.com/Meituan-AutoML/MobileVLM">code</a></div>
+  </div>
+</div>
+
+<div class="project-grid project-grid--4col">
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--arch">Vision Transformer</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2104.13840">Twins</a></div>
+    <div class="project-card__desc">Revisited spatial attention design in Vision Transformers, pairing strong accuracy with a simpler architecture and practical deployment properties.</div>
+    <div class="project-card__meta">NeurIPS 2021 · First Author · Most Influential · <a href="https://github.com/Meituan-AutoML/Twins">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--arch">Position Encoding</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2102.10882">CPVT</a></div>
+    <div class="project-card__desc">Conditional positional encodings for Vision Transformers, a clean architectural contribution later recognized on PaperDigest's Most Influential list.</div>
+    <div class="project-card__meta">ICLR 2023 · First Author · Most Influential · <a href="https://github.com/Meituan-AutoML/CPVT">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--arch">AutoML</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/1907.01845">FairNAS</a></div>
+    <div class="project-card__desc">A fairness-centered rethink of weight-sharing NAS evaluation, representing the earlier AutoML line that shaped the transition into efficient vision backbones.</div>
+    <div class="project-card__meta">ICCV 2021 · First Author · Most Influential · <a href="https://github.com/xiaomi-automl/FairNAS">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--detection">Quantization</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2212.01593">QARepVGG</a></div>
+    <div class="project-card__desc">A quantization-aware RepVGG method that connects architecture design with deployment constraints in efficient visual backbones.</div>
+    <div class="project-card__meta">AAAI 2024 · First Author · <a href="https://github.com/cxxgtxy/QARepVGG">code</a></div>
+  </div>
+</div>
+
+### Team-Led & Open-Source Systems
+
+<div class="project-grid project-grid--4col">
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--detection">Industrial Vision</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2209.02976">YOLOv6</a></div>
+    <div class="project-card__desc">An industrial object-detection framework with a full training-to-deployment toolchain and broad open-source adoption.</div>
+    <div class="project-card__meta">Open Source · <a href="https://github.com/meituan/YOLOv6">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--detection">Spatial AI</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2602.22638">MobilityBench</a></div>
+    <div class="project-card__desc">A real-world benchmark for evaluating route-planning agents in mobility scenarios, anchoring AMAP-ML's spatial-intelligence research direction.</div>
+    <div class="project-card__meta">KDD 2026 · <a href="https://github.com/AMAP-ML/MobilityBench">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--llm">World Models</span>
+    <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
+    <div class="project-card__desc">A general-purpose interactive world model release with controllable camera navigation, prompt-driven world events, model weights, and inference code.</div>
+    <div class="project-card__meta">AMAP-ML · 2026 · <a href="https://github.com/AMAP-ML/DreamX-World">code</a></div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--llm">Agents</span>
+    <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
+    <div class="project-card__desc">An agentic skill-evolution system that turns real interaction traces into reusable skill libraries across sessions, devices, and agents.</div>
+    <div class="project-card__meta">AMAP-ML · <a href="https://github.com/AMAP-ML/SkillClaw">code</a></div>
+  </div>
+</div>
 
 ---
 
