@@ -48,25 +48,25 @@ First-Author Papers
 ======
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2504.02546">GPG: A simple and strong reinforcement learning baseline for model reasoning</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/GPG"><img src="https://img.shields.io/github/stars/AMAP-ML/GPG?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2503.06132">USP: Unified self-supervised pretraining for image generation and understanding</a>, <strong>ICCV25</strong> <a href="https://github.com/AMAP-ML/USP"><img src="https://img.shields.io/github/stars/AMAP-ML/USP?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks</a>, <strong>ECCV24</strong> <a href="https://github.com/Meituan-AutoML/VisionLLaMA"><img src="https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2402.03766">MobileVLM V2: Faster and Stronger Baseline for Vision Language Model</a> <a href="https://github.com/Meituan-AutoML/MobileVLM"><img src="https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2312.16886">MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices</a> <a href="https://github.com/Meituan-AutoML/MobileVLM"><img src="https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2212.01593">Make RepVGG Greater Again: A Quantization-aware Approach</a>, <strong>AAAI24</strong> <a href="https://github.com/cxxgtxy/QARepVGG"><img src="https://img.shields.io/github/stars/cxxgtxy/QARepVGG?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2102.10882">Conditional Positional Encodings for Vision Transformers</a>, <strong>ICLR23</strong> <a href="https://github.com/Meituan-AutoML/CPVT"><img src="https://img.shields.io/github/stars/Meituan-AutoML/CPVT?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2011.11233">ROME: Robustifying memory-efficient NAS via topology disentanglement and gradients accumulation</a>, <strong>ICCV23</strong></li>
-  <li><a href="https://arxiv.org/abs/2001.05887">MixPATH: A unified approach for one-shot neural architecture search</a>, <strong>ICCV23</strong> <a href="https://github.com/xiaomi-automl/MixPath"><img src="https://img.shields.io/github/stars/xiaomi-automl/MixPath?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2011.13356">A Unified Mixture-View Framework for Unsupervised Representation Learning</a>, <strong>BMVC22</strong></li>
-  <li><a href="https://arxiv.org/abs/2104.13840">Twins: Revisiting the design of spatial attention in vision transformers</a>, <strong>NeurIPS21</strong> <a href="https://github.com/Meituan-AutoML/Twins"><img src="https://img.shields.io/github/stars/Meituan-AutoML/Twins?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2009.01027">DARTS-: Robustly stepping out of performance collapse without indicators</a>, <strong>ICLR21</strong> <a href="https://github.com/Meituan-AutoML/DARTS-"><img src="https://img.shields.io/github/stars/Meituan-AutoML/DARTS-?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/1907.01845">FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search</a>, <strong>ICCV21</strong> <a href="https://github.com/xiaomi-automl/FairNAS"><img src="https://img.shields.io/github/stars/xiaomi-automl/FairNAS?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2005.03566">Noisy differentiable architecture search</a>, <strong>BMVC21</strong> <a href="https://github.com/xiaomi-automl/NoisyDARTS"><img src="https://img.shields.io/github/stars/xiaomi-automl/NoisyDARTS?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/1908.06022">Scarlet-NAS: Bridging the gap between stability and scalability in weight-sharing NAS</a>, <strong>ICCVW21</strong> <a href="https://github.com/xiaomi-automl/SCARLET-NAS"><img src="https://img.shields.io/github/stars/xiaomi-automl/SCARLET-NAS?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/1911.12126">Fair DARTS: Eliminating unfair advantages in differentiable architecture search</a>, <strong>ECCV20</strong> <a href="https://github.com/xiaomi-automl/FairDARTS"><img src="https://img.shields.io/github/stars/xiaomi-automl/FairDARTS?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://ieeexplore.ieee.org/document/9054428">MoGA: Searching beyond MobileNetV3</a>, <strong>ICASSP2020</strong> <a href="https://github.com/xiaomi-automl/MoGA"><img src="https://img.shields.io/github/stars/xiaomi-automl/MoGA?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/1901.07261">Fast, accurate and lightweight super-resolution with neural architecture search</a>, <strong>ICPR20</strong> <a href="https://github.com/xiaomi-automl/FALSR"><img src="https://img.shields.io/github/stars/xiaomi-automl/FALSR?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/1901.01074">Multi-objective reinforced evolution in mobile neural architecture search</a>, <strong>ECCVW2020</strong></li>
+  <li><a href="https://arxiv.org/abs/2504.02546">GPG: A simple and strong reinforcement learning baseline for model reasoning</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/GPG)]</li>
+  <li><a href="https://arxiv.org/abs/2503.06132">USP: Unified self-supervised pretraining for image generation and understanding</a>, <strong>ICCV 2025</strong> [[code](https://github.com/AMAP-ML/USP)]</li>
+  <li><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks</a>, <strong>ECCV 2024</strong> [[code](https://github.com/Meituan-AutoML/VisionLLaMA)]</li>
+  <li><a href="https://arxiv.org/abs/2402.03766">MobileVLM V2: Faster and Stronger Baseline for Vision Language Model</a> [[code](https://github.com/Meituan-AutoML/MobileVLM)]</li>
+  <li><a href="https://arxiv.org/abs/2312.16886">MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices</a> [[code](https://github.com/Meituan-AutoML/MobileVLM)]</li>
+  <li><a href="https://arxiv.org/abs/2212.01593">Make RepVGG Greater Again: A Quantization-aware Approach</a>, <strong>AAAI 2024</strong> [[code](https://github.com/cxxgtxy/QARepVGG)]</li>
+  <li><a href="https://arxiv.org/abs/2102.10882">Conditional Positional Encodings for Vision Transformers</a>, <strong>ICLR 2023</strong> [[code](https://github.com/Meituan-AutoML/CPVT)]</li>
+  <li><a href="https://arxiv.org/abs/2011.11233">ROME: Robustifying memory-efficient NAS via topology disentanglement and gradients accumulation</a>, <strong>ICCV 2023</strong></li>
+  <li><a href="https://arxiv.org/abs/2001.05887">MixPATH: A unified approach for one-shot neural architecture search</a>, <strong>ICCV 2023</strong> [[code](https://github.com/xiaomi-automl/MixPath)]</li>
+  <li><a href="https://arxiv.org/abs/2011.13356">A Unified Mixture-View Framework for Unsupervised Representation Learning</a>, <strong>BMVC 2022</strong></li>
+  <li><a href="https://arxiv.org/abs/2104.13840">Twins: Revisiting the design of spatial attention in vision transformers</a>, <strong>NeurIPS 2021</strong> [[code](https://github.com/Meituan-AutoML/Twins)]</li>
+  <li><a href="https://arxiv.org/abs/2009.01027">DARTS-: Robustly stepping out of performance collapse without indicators</a>, <strong>ICLR 2021</strong> [[code](https://github.com/Meituan-AutoML/DARTS-)]</li>
+  <li><a href="https://arxiv.org/abs/1907.01845">FairNAS: Rethinking evaluation fairness of weight sharing neural architecture search</a>, <strong>ICCV 2021</strong> [[code](https://github.com/xiaomi-automl/FairNAS)]</li>
+  <li><a href="https://arxiv.org/abs/2005.03566">Noisy differentiable architecture search</a>, <strong>BMVC 2021</strong> [[code](https://github.com/xiaomi-automl/NoisyDARTS)]</li>
+  <li><a href="https://arxiv.org/abs/1908.06022">Scarlet-NAS: Bridging the gap between stability and scalability in weight-sharing NAS</a>, <strong>ICCV Workshops 2021</strong> [[code](https://github.com/xiaomi-automl/SCARLET-NAS)]</li>
+  <li><a href="https://arxiv.org/abs/1911.12126">Fair DARTS: Eliminating unfair advantages in differentiable architecture search</a>, <strong>ECCV 2020</strong> [[code](https://github.com/xiaomi-automl/FairDARTS)]</li>
+  <li><a href="https://ieeexplore.ieee.org/document/9054428">MoGA: Searching beyond MobileNetV3</a>, <strong>ICASSP 2020</strong> [[code](https://github.com/xiaomi-automl/MoGA)]</li>
+  <li><a href="https://arxiv.org/abs/1901.07261">Fast, accurate and lightweight super-resolution with neural architecture search</a>, <strong>ICPR 2020</strong> [[code](https://github.com/xiaomi-automl/FALSR)]</li>
+  <li><a href="https://arxiv.org/abs/1901.01074">Multi-objective reinforced evolution in mobile neural architecture search</a>, <strong>ECCV Workshops 2020</strong></li>
   <li><a href="https://arxiv.org/abs/1807.00442">Policy optimization with penalized point probability distance: An alternative to PPO</a></li>
   <li><a href="https://arxiv.org/abs/1811.12667">Improved crowding distance for NSGA-II</a></li>
   <li><a href="https://arxiv.org/abs/1710.00336">Parameter sharing deep deterministic policy gradient for cooperative multi-agent reinforcement learning</a></li>
@@ -80,140 +80,140 @@ Collaborative Papers
 ### Image Generation & Editing
 
 <ol>
-  <li>Embedding-perturbed Exploration Preference Optimization for Flow Models, <strong>ICML26</strong></li>
+  <li>Embedding-perturbed Exploration Preference Optimization for Flow Models, <strong>ICML 2026</strong></li>
   <li>MAR-GRPO: Stabilized GRPO for AR-Diffusion Hybrid Image Generation</li>
   <li>ConceptWeaver: Weaving Disentangled Concepts with Flow</li>
-  <li><a href="https://arxiv.org/abs/2604.16044">Elucidating the SNR-t Bias of Diffusion Probabilistic Models</a>, <strong>CVPR26</strong> <a href="https://github.com/AMAP-ML/DCW"><img src="https://img.shields.io/github/stars/AMAP-ML/DCW?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2603.05769">Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers</a>, <strong>CVPR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2603.03143">Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</a> <a href="https://github.com/AMAP-ML/RL3DEdit"><img src="https://img.shields.io/github/stars/AMAP-ML/RL3DEdit?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2603.00141">From Scale to Speed: Adaptive Test-Time Scaling for Image Editing</a>, <strong>CVPR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2512.24146">Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning</a>, <strong>CVPR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2509.04338">From editor to dense geometry estimator</a>, <strong>CVPR26</strong> <a href="https://github.com/AMAP-ML/FE2E"><img src="https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2604.16044">Elucidating the SNR-t Bias of Diffusion Probabilistic Models</a>, <strong>CVPR 2026</strong> [[code](https://github.com/AMAP-ML/DCW)]</li>
+  <li><a href="https://arxiv.org/abs/2603.05769">Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers</a>, <strong>CVPR 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2603.03143">Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</a> [[code](https://github.com/AMAP-ML/RL3DEdit)]</li>
+  <li><a href="https://arxiv.org/abs/2603.00141">From Scale to Speed: Adaptive Test-Time Scaling for Image Editing</a>, <strong>CVPR 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2512.24146">Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning</a>, <strong>CVPR 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2509.04338">From editor to dense geometry estimator</a>, <strong>CVPR 2026</strong> [[code](https://github.com/AMAP-ML/FE2E)]</li>
   <li><a href="https://arxiv.org/abs/2508.16158">Ragsr: Regional attention guided diffusion for image super-resolution</a></li>
-  <li><a href="https://arxiv.org/abs/2508.12880">S2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/S2-Guidance"><img src="https://img.shields.io/github/stars/AMAP-ML/S2-Guidance?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2507.00790">LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling</a>, <strong>ICCV25</strong> <a href="https://github.com/AMAP-ML/LD-RPS"><img src="https://img.shields.io/github/stars/AMAP-ML/LD-RPS?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2508.12880">S2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/S2-Guidance)]</li>
+  <li><a href="https://arxiv.org/abs/2507.00790">LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling</a>, <strong>ICCV 2025</strong> [[code](https://github.com/AMAP-ML/LD-RPS)]</li>
   <li><a href="https://arxiv.org/abs/2505.03329">Flux-text: A simple and advanced diffusion transformer baseline for scene text editing</a></li>
   <li><a href="https://arxiv.org/abs/2411.14871">Preference Alignment for Diffusion Model via Explicit Denoised Distribution Estimation</a></li>
   <li><a href="https://arxiv.org/abs/2408.05008">FlowDreamer: exploring high fidelity text-to-3D generation via rectified flow</a></li>
-  <li>TEXTS-Diff: TEXTS-Aware Diffusion Model for Real-World Text Image Super-Resolution, <strong>ICASSP26</strong></li>
-  <li><a href="https://openaccess.thecvf.com/content/ACCV2020/html/Ma_Accurate_and_Efficient_Single_Image_Super-Resolution_with_Matrix_Channel_Attention_ACCV_2020_paper.html">Accurate and efficient single image super-resolution with matrix channel attention network</a>, <strong>ACCV20</strong></li>
+  <li>TEXTS-Diff: TEXTS-Aware Diffusion Model for Real-World Text Image Super-Resolution, <strong>ICASSP 2026</strong></li>
+  <li><a href="https://openaccess.thecvf.com/content/ACCV2020/html/Ma_Accurate_and_Efficient_Single_Image_Super-Resolution_with_Matrix_Channel_Attention_ACCV_2020_paper.html">Accurate and efficient single image super-resolution with matrix channel attention network</a>, <strong>ACCV 2020</strong></li>
 </ol>
 
 ### Video Generation & Understanding
 
 <ol>
-  <li>Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos, <strong>ICML26</strong></li>
+  <li>Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos, <strong>ICML 2026</strong></li>
   <li>Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models</li>
-  <li><a href="https://arxiv.org/abs/2603.14935">Video-CoE: Reinforcing Video Event Prediction via Chain of Events</a>, <strong>CVPR26</strong></li>
+  <li><a href="https://arxiv.org/abs/2603.14935">Video-CoE: Reinforcing Video Event Prediction via Chain of Events</a>, <strong>CVPR 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2512.24271">Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation</a></li>
-  <li><a href="https://arxiv.org/abs/2511.18957">Eevee: Towards Close-up High-resolution Video-based Virtual Try-on</a>, <strong>CVPR26 Findings</strong> <a href="https://github.com/AMAP-ML/Eevee"><img src="https://img.shields.io/github/stars/AMAP-ML/Eevee?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2510.14847">ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/ImagerySearch"><img src="https://img.shields.io/github/stars/AMAP-ML/ImagerySearch?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2510.08480">Video-star: Reinforcing open-vocabulary action recognition with tools</a>, <strong>ICLR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2508.07981">Omni-effects: Unified and spatially-controllable visual effects generation</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/Omni-Effects"><img src="https://img.shields.io/github/stars/AMAP-ML/Omni-Effects?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2507.11245">Narrlv: Towards a comprehensive narrative-centric evaluation for long video generation models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/NarrLV"><img src="https://img.shields.io/github/stars/AMAP-ML/NarrLV?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2503.10076">VMBench: A Benchmark for Perception-Aligned Video Motion Generation</a>, <strong>ICCV25</strong> <a href="https://github.com/AMAP-ML/VMBench"><img src="https://img.shields.io/github/stars/AMAP-ML/VMBench?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2504.10358">FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos</a>, <strong>ACM MM25</strong> <a href="https://github.com/AMAP-ML/FingER"><img src="https://img.shields.io/github/stars/AMAP-ML/FingER?style=social" alt="GitHub stars"></a></li>
-  <li>Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V, <strong>ICASSP26</strong></li>
-  <li>Artifact-Aware Evaluation for High-Quality Video Generation, <strong>ICASSP26</strong></li>
-  <li><a href="https://arxiv.org/abs/2204.02547">Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation</a>, <strong>CVPR22</strong></li>
+  <li><a href="https://arxiv.org/abs/2511.18957">Eevee: Towards Close-up High-resolution Video-based Virtual Try-on</a>, <strong>CVPR 2026 Findings</strong> [[code](https://github.com/AMAP-ML/Eevee)]</li>
+  <li><a href="https://arxiv.org/abs/2510.14847">ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints</a>, <strong>AAAI 2026</strong> [[code](https://github.com/AMAP-ML/ImagerySearch)]</li>
+  <li><a href="https://arxiv.org/abs/2510.08480">Video-star: Reinforcing open-vocabulary action recognition with tools</a>, <strong>ICLR 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2508.07981">Omni-effects: Unified and spatially-controllable visual effects generation</a>, <strong>AAAI 2026</strong> [[code](https://github.com/AMAP-ML/Omni-Effects)]</li>
+  <li><a href="https://arxiv.org/abs/2507.11245">Narrlv: Towards a comprehensive narrative-centric evaluation for long video generation models</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/NarrLV)]</li>
+  <li><a href="https://arxiv.org/abs/2503.10076">VMBench: A Benchmark for Perception-Aligned Video Motion Generation</a>, <strong>ICCV 2025</strong> [[code](https://github.com/AMAP-ML/VMBench)]</li>
+  <li><a href="https://arxiv.org/abs/2504.10358">FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos</a>, <strong>ACM MM 2025</strong> [[code](https://github.com/AMAP-ML/FingER)]</li>
+  <li>Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V, <strong>ICASSP 2026</strong></li>
+  <li>Artifact-Aware Evaluation for High-Quality Video Generation, <strong>ICASSP 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2204.02547">Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation</a>, <strong>CVPR 2022</strong></li>
 </ol>
 
 ### LLM Reasoning & Agents
 
 <ol>
-  <li>D Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning, <strong>ICML26</strong></li>
-  <li>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver <a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></li>
+  <li>D Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning, <strong>ICML 2026</strong></li>
+  <li>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver [[code](https://github.com/AMAP-ML/SkillClaw)]</li>
   <li>Ace-Skill: Bootstrapping Multimodal Agents with Prioritized and Clustered Evolution</li>
   <li>Learning Agentic Policy from Action Guidance</li>
-  <li><a href="https://arxiv.org/abs/2604.15840">CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution</a>, <strong>ACL26</strong></li>
-  <li><a href="https://arxiv.org/abs/2602.09856">Code2World: A GUI World Model via Renderable Code Generation</a> <a href="https://github.com/AMAP-ML/Code2World"><img src="https://img.shields.io/github/stars/AMAP-ML/Code2World?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2604.15840">CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution</a>, <strong>ACL 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2602.09856">Code2World: A GUI World Model via Renderable Code Generation</a> [[code](https://github.com/AMAP-ML/Code2World)]</li>
   <li><a href="https://arxiv.org/abs/2602.01884">Entropy-Guided Data-Efficient Training for Multimodal Reasoning Reward Models</a></li>
-  <li><a href="https://arxiv.org/abs/2601.20614">Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/MathForge"><img src="https://img.shields.io/github/stars/AMAP-ML/MathForge?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2511.09478">AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting</a>, <strong>AAAI26</strong></li>
-  <li><a href="https://arxiv.org/abs/2509.21240">Tree search for LLM agent reinforcement learning</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/Tree-GRPO"><img src="https://img.shields.io/github/stars/AMAP-ML/Tree-GRPO?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2509.01944">AutoDrive-R2: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving</a>, <strong>ICLR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2508.15709">Position bias mitigates position bias: Mitigate position bias through inter-position knowledge distillation</a>, <strong>EMNLP25 oral</strong> <a href="https://github.com/AMAP-ML/Pos2Distill"><img src="https://img.shields.io/github/stars/AMAP-ML/Pos2Distill?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2505.19866">HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation</a>, <strong>EMNLP25 oral</strong> <a href="https://github.com/AMAP-ML/HS-STaR"><img src="https://img.shields.io/github/stars/AMAP-ML/HS-STaR?style=social" alt="GitHub stars"></a></li>
-  <li>Ranking-aware Reinforcement Learning for Ordinal Ranking, <strong>ICASSP26</strong></li>
+  <li><a href="https://arxiv.org/abs/2601.20614">Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/MathForge)]</li>
+  <li><a href="https://arxiv.org/abs/2511.09478">AdaCuRL: Adaptive Curriculum Reinforcement Learning with Invalid Sample Mitigation and Historical Revisiting</a>, <strong>AAAI 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2509.21240">Tree search for LLM agent reinforcement learning</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/Tree-GRPO)]</li>
+  <li><a href="https://arxiv.org/abs/2509.01944">AutoDrive-R2: Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving</a>, <strong>ICLR 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2508.15709">Position bias mitigates position bias: Mitigate position bias through inter-position knowledge distillation</a>, <strong>EMNLP 2025 oral</strong> [[code](https://github.com/AMAP-ML/Pos2Distill)]</li>
+  <li><a href="https://arxiv.org/abs/2505.19866">HS-STAR: Hierarchical Sampling for Self-Taught Reasoners via Difficulty Estimation and Budget Reallocation</a>, <strong>EMNLP 2025 oral</strong> [[code](https://github.com/AMAP-ML/HS-STaR)]</li>
+  <li>Ranking-aware Reinforcement Learning for Ordinal Ranking, <strong>ICASSP 2026</strong></li>
 </ol>
 
 ### Multimodal & Vision-Language
 
 <ol>
-  <li>Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation, <strong>ICML26</strong></li>
+  <li>Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation, <strong>ICML 2026</strong></li>
   <li>Visual Enhanced Depth Scaling for Multimodal Latent Reasoning</li>
-  <li><a href="https://arxiv.org/abs/2604.17295">LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics</a>, <strong>ACL26</strong></li>
+  <li><a href="https://arxiv.org/abs/2604.17295">LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics</a>, <strong>ACL 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2602.11499">What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation</a></li>
-  <li><a href="https://arxiv.org/abs/2604.09349">Visually-Guided Policy Optimization for Multimodal Reasoning</a>, <strong>ACL26</strong></li>
-  <li><a href="https://arxiv.org/abs/2403.04343">Adaptive Task Balancing for Visual Instruction Tuning via Inter-Task Contribution and Intra-Task Difficulty</a>, <strong>WWW26</strong></li>
-  <li><a href="https://arxiv.org/abs/2601.22920">Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment</a> <a href="https://github.com/AMAP-ML/Q-Hawkeye"><img src="https://img.shields.io/github/stars/AMAP-ML/Q-Hawkeye?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SpatialGenEval"><img src="https://img.shields.io/github/stars/AMAP-ML/SpatialGenEval?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2601.10477">Urban Socio-Semantic Segmentation with Vision-Language Reasoning</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/SocioReasoner"><img src="https://img.shields.io/github/stars/AMAP-ML/SocioReasoner?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2511.08246">Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/STV"><img src="https://img.shields.io/github/stars/AMAP-ML/STV?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2604.09349">Visually-Guided Policy Optimization for Multimodal Reasoning</a>, <strong>ACL 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2403.04343">Adaptive Task Balancing for Visual Instruction Tuning via Inter-Task Contribution and Intra-Task Difficulty</a>, <strong>WWW 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2601.22920">Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment</a> [[code](https://github.com/AMAP-ML/Q-Hawkeye)]</li>
+  <li><a href="https://arxiv.org/abs/2601.20354">Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/SpatialGenEval)]</li>
+  <li><a href="https://arxiv.org/abs/2601.10477">Urban Socio-Semantic Segmentation with Vision-Language Reasoning</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/SocioReasoner)]</li>
+  <li><a href="https://arxiv.org/abs/2511.08246">Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning</a>, <strong>AAAI 2026</strong> [[code](https://github.com/AMAP-ML/STV)]</li>
   <li><a href="https://arxiv.org/abs/2505.14231">Univg-r1: Reasoning guided universal visual grounding with reinforcement learning</a></li>
   <li><a href="https://arxiv.org/abs/2503.06141">Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model</a></li>
   <li><a href="https://arxiv.org/abs/2411.14062">Mmgenbench: Evaluating the limits of LMMs from the text-to-image generation perspective</a></li>
-  <li><a href="https://arxiv.org/abs/2312.02433">Lenna: Language Enhanced Reasoning Detection Assistant</a>, <strong>ICASSP25</strong> <a href="https://github.com/Meituan-AutoML/Lenna"><img src="https://img.shields.io/github/stars/Meituan-AutoML/Lenna?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2312.02433">Lenna: Language Enhanced Reasoning Detection Assistant</a>, <strong>ICASSP 2025</strong> [[code](https://github.com/Meituan-AutoML/Lenna)]</li>
 </ol>
 
 ### Detection, Segmentation & 3D Perception
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2507.00721">UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement</a>, <strong>ICCV25</strong> <a href="https://github.com/AMAP-ML/UPRE"><img src="https://img.shields.io/github/stars/AMAP-ML/UPRE?style=social" alt="GitHub stars"></a></li>
-  <li>PLUG: Revisiting Amodal Segmentation with Foundation Model and Hierarchical Focus, <strong>CVPR25</strong></li>
-  <li><a href="https://arxiv.org/abs/2312.17071">SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation</a>, <strong>AAAI24</strong></li>
+  <li><a href="https://arxiv.org/abs/2507.00721">UPRE: Zero-Shot Domain Adaptation for Object Detection via Unified Prompt and Representation Enhancement</a>, <strong>ICCV 2025</strong> [[code](https://github.com/AMAP-ML/UPRE)]</li>
+  <li>PLUG: Revisiting Amodal Segmentation with Foundation Model and Hierarchical Focus, <strong>CVPR 2025</strong></li>
+  <li><a href="https://arxiv.org/abs/2312.17071">SCTNet: Single Branch CNN with Transformer Semantic Information for Real-time Segmentation</a>, <strong>AAAI 2024</strong></li>
   <li><a href="https://arxiv.org/abs/2302.02367">FastPillars: A Deployment-friendly Pillar-based 3D Detector</a>, <strong>IEEE TCSVT</strong></li>
   <li><a href="https://arxiv.org/abs/2301.05586">Yolov6 v3.0: A full-scale reloading</a></li>
-  <li><a href="https://arxiv.org/abs/2211.12501">AeDet: Azimuth-invariant multi-view 3D object detection</a>, <strong>CVPR23</strong></li>
-  <li><a href="https://arxiv.org/abs/2210.05844">SegViT: Semantic segmentation with plain vision transformers</a>, <strong>NeurIPS22</strong></li>
-  <li><a href="https://arxiv.org/abs/2209.02976">YOLOv6: A single-stage object detection framework for industrial applications</a>, <strong>arXiv</strong> <a href="https://github.com/meituan/YOLOv6"><img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2205.13764">Fully convolutional one-stage 3D object detection on LiDAR range images</a>, <strong>NeurIPS22</strong></li>
-  <li><a href="https://arxiv.org/abs/2203.16513">PromptDet: Towards open-vocabulary detection using uncurated images</a>, <strong>ECCV22</strong></li>
+  <li><a href="https://arxiv.org/abs/2211.12501">AeDet: Azimuth-invariant multi-view 3D object detection</a>, <strong>CVPR 2023</strong></li>
+  <li><a href="https://arxiv.org/abs/2210.05844">SegViT: Semantic segmentation with plain vision transformers</a>, <strong>NeurIPS 2022</strong></li>
+  <li><a href="https://arxiv.org/abs/2209.02976">YOLOv6: A single-stage object detection framework for industrial applications</a>, <strong>arXiv</strong> [[code](https://github.com/meituan/YOLOv6)]</li>
+  <li><a href="https://arxiv.org/abs/2205.13764">Fully convolutional one-stage 3D object detection on LiDAR range images</a>, <strong>NeurIPS 2022</strong></li>
+  <li><a href="https://arxiv.org/abs/2203.16513">PromptDet: Towards open-vocabulary detection using uncurated images</a>, <strong>ECCV 2022</strong></li>
   <li><a href="https://arxiv.org/abs/2109.14483">Cctrans: Simplifying and improving crowd counting with transformer</a></li>
 </ol>
 
 ### Foundation Model Architectures
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2602.03152">FASA: Frequency-Aware Sparse Attention</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/FASA-ICLR2026"><img src="https://img.shields.io/github/stars/AMAP-ML/FASA-ICLR2026?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2604.08964">Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models</a>, <strong>ACL26</strong></li>
-  <li><a href="https://arxiv.org/abs/2602.02178">AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?</a> <a href="https://github.com/AMAP-ML/AR-MAP"><img src="https://img.shields.io/github/stars/AMAP-ML/AR-MAP?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2511.14063">Semantic Context Matters: Improving Conditioning for Autoregressive Models</a>, <strong>CVPR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2604.18168">Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation</a>, <strong>CVPR26</strong></li>
-  <li><a href="https://arxiv.org/abs/2510.12586">There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training</a>, <strong>ICLR26</strong> <a href="https://github.com/AMAP-ML/EPG"><img src="https://img.shields.io/github/stars/AMAP-ML/EPG?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI26</strong> <a href="https://github.com/AMAP-ML/SCALAR"><img src="https://img.shields.io/github/stars/AMAP-ML/SCALAR?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2407.14302">Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition</a>, <strong>ECCV24</strong></li>
-  <li><a href="https://arxiv.org/abs/2407.08972">Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness</a>, <strong>ICML24</strong></li>
-  <li><a href="https://arxiv.org/abs/2403.07589">PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution</a>, <strong>CVPR24</strong></li>
+  <li><a href="https://arxiv.org/abs/2602.03152">FASA: Frequency-Aware Sparse Attention</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/FASA-ICLR2026)]</li>
+  <li><a href="https://arxiv.org/abs/2604.08964">Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models</a>, <strong>ACL 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2602.02178">AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?</a> [[code](https://github.com/AMAP-ML/AR-MAP)]</li>
+  <li><a href="https://arxiv.org/abs/2511.14063">Semantic Context Matters: Improving Conditioning for Autoregressive Models</a>, <strong>CVPR 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2604.18168">Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation</a>, <strong>CVPR 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2510.12586">There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training</a>, <strong>ICLR 2026</strong> [[code](https://github.com/AMAP-ML/EPG)]</li>
+  <li><a href="https://arxiv.org/abs/2507.19946">Scalar: Scale-wise controllable visual autoregressive learning</a>, <strong>AAAI 2026</strong> [[code](https://github.com/AMAP-ML/SCALAR)]</li>
+  <li><a href="https://arxiv.org/abs/2407.14302">Dyn-Adapter: Towards Disentangled Representation for Efficient Visual Recognition</a>, <strong>ECCV 2024</strong></li>
+  <li><a href="https://arxiv.org/abs/2407.08972">Revealing the Dark Secrets of Extremely Large Kernel ConvNets on Robustness</a>, <strong>ICML 2024</strong></li>
+  <li><a href="https://arxiv.org/abs/2403.07589">PeLK: Parameter-efficient Large Kernel ConvNets with Peripheral Convolution</a>, <strong>CVPR 2024</strong></li>
   <li><a href="https://arxiv.org/abs/2302.00386">Efficientrep: an efficient repvgg-style convnets with hardware-aware neural network design</a></li>
 </ol>
 
 ### Model Compression & AutoML
 
 <ol>
-  <li>Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation, <strong>ICASSP26</strong></li>
-  <li><a href="https://arxiv.org/abs/2401.15865">LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection</a>, <strong>ICLR24</strong></li>
+  <li>Robust MAE-Driven NAS: From Mask Reconstruction to Architecture Innovation, <strong>ICASSP 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2401.15865">LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection</a>, <strong>ICLR 2024</strong></li>
   <li><a href="https://arxiv.org/abs/2311.12086">Masked Autoencoders Are Robust Neural Architecture Search Learners</a></li>
   <li><a href="https://arxiv.org/abs/2311.09550">A Speed Odyssey for Deployable Quantization of LLMs</a></li>
-  <li><a href="https://arxiv.org/abs/2309.02784">Norm Tweaking: High-performance Low-bit Quantization of Large Language Models</a>, <strong>AAAI24</strong></li>
+  <li><a href="https://arxiv.org/abs/2309.02784">Norm Tweaking: High-performance Low-bit Quantization of Large Language Models</a>, <strong>AAAI 2024</strong></li>
   <li><a href="https://arxiv.org/abs/2308.15987">FPTQ: Fine-grained Post-Training Quantization for Large Language Models</a></li>
-  <li><a href="https://arxiv.org/abs/2210.00181">EAPruning: Evolutionary Pruning for Vision Transformers and CNNs</a>, <strong>BMVC22</strong></li>
+  <li><a href="https://arxiv.org/abs/2210.00181">EAPruning: Evolutionary Pruning for Vision Transformers and CNNs</a>, <strong>BMVC 2022</strong></li>
   <li><a href="https://arxiv.org/abs/2109.15273">DAAS: Differentiable architecture and augmentation policy search</a></li>
-  <li><a href="https://arxiv.org/abs/2009.03658">AutoKWS: Keyword Spotting with Differentiable Architecture Search</a>, <strong>ICASSP21</strong></li>
-  <li>Neural Architecture Search on Acoustic Scene Classification, <strong>InterSpeech20</strong></li>
+  <li><a href="https://arxiv.org/abs/2009.03658">AutoKWS: Keyword Spotting with Differentiable Architecture Search</a>, <strong>ICASSP 2021</strong></li>
+  <li>Neural Architecture Search on Acoustic Scene Classification, <strong>InterSpeech 2020</strong></li>
 </ol>
 
 ### Maps, Mobility & Recommendation
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Scalable Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a>, <strong>KDD26</strong> <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR"><img src="https://img.shields.io/github/stars/AMAP-ML/IntRR?style=social" alt="GitHub stars"></a></li>
-  <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel"><img src="https://img.shields.io/github/stars/AMAP-ML/IntTravel?style=social" alt="GitHub stars"></a></li>
+  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a>, <strong>KDD 2026</strong> [[code](https://github.com/AMAP-ML/MobilityBench)]</li>
+  <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> [[code](https://github.com/AMAP-ML/IntRR)]</li>
+  <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> [[code](https://github.com/AMAP-ML/IntTravel)]</li>
   <li><a href="https://arxiv.org/abs/2602.04174">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></li>
   <li><a href="https://arxiv.org/abs/2602.03324">SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation</a></li>
-  <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a>, <strong>ACL26 Findings</strong></li>
+  <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a>, <strong>ACL 2026 Findings</strong></li>
   <li><a href="https://arxiv.org/abs/2509.21179">Intsr: An integrated generative framework for search and recommendation</a></li>
   <li><a href="https://arxiv.org/abs/2508.08745">Comprehensive Comparison Network: a framework for locality-aware, routes-comparable and interpretable route recommendation</a></li>
   <li><a href="https://arxiv.org/abs/2505.11306">Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion</a></li>
-  <li>DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking, <strong>WWW25</strong> <a href="https://github.com/AMAP-ML/DSFNet"><img src="https://img.shields.io/github/stars/AMAP-ML/DSFNet?style=social" alt="GitHub stars"></a></li>
+  <li>DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking, <strong>WWW 2025</strong> [[code](https://github.com/AMAP-ML/DSFNet)]</li>
 </ol>
