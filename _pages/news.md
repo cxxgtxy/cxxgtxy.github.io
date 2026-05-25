@@ -96,15 +96,15 @@ The AMAP-ML GitHub organization is the best place to follow the full project por
 2025
 ------
 
-- **USP accepted to ICCV 2025**, proposing unified self-supervised pretraining for image generation and understanding. [[paper](https://arxiv.org/abs/2503.06132)] [[code](https://github.com/AMAP-ML/USP)]
-- **AMAP-ML continued hiring** for interns, full-time researchers, and AI engineers in LLM agents, reinforcement learning, world models, multimodal learning, spatial intelligence, and generative AI. [[team](/team/#join-us)]
+- **USP accepted to ICCV 2025**, proposing unified self-supervised pretraining for image generation and understanding. [paper](https://arxiv.org/abs/2503.06132) · [code](https://github.com/AMAP-ML/USP)
+- **AMAP-ML continued hiring** for interns, full-time researchers, and AI engineers in LLM agents, reinforcement learning, world models, multimodal learning, spatial intelligence, and generative AI. [team](/team/#join-us)
 
 ---
 
 Earlier Highlights
 ------
 
-- **VisionLLaMA accepted to ECCV 2024**, a unified LLaMA-style backbone for vision tasks. [[paper](https://arxiv.org/abs/2403.00522)] [[code](https://github.com/Meituan-AutoML/VisionLLaMA)]
-- **MobileVLM released**, bringing real-time vision-language models to mobile devices. [[paper](https://arxiv.org/abs/2312.16886)] [[code](https://github.com/Meituan-AutoML/MobileVLM)]
-- **YOLOv6 open-sourced**, an industrial-grade real-time object detection framework. [[code](https://github.com/meituan/YOLOv6)]
-- **Twins accepted to NeurIPS 2021**, revisiting spatial attention design in Vision Transformers. [[paper](https://arxiv.org/abs/2104.13840)] [[code](https://github.com/Meituan-AutoML/Twins)]
+- **VisionLLaMA accepted to ECCV 2024**, a unified LLaMA-style backbone for vision tasks. [paper](https://arxiv.org/abs/2403.00522) · [code](https://github.com/Meituan-AutoML/VisionLLaMA)
+- **MobileVLM released**, bringing real-time vision-language models to mobile devices. [paper](https://arxiv.org/abs/2312.16886) · [code](https://github.com/Meituan-AutoML/MobileVLM)
+- **YOLOv6 open-sourced**, an industrial-grade real-time object detection framework. [code](https://github.com/meituan/YOLOv6)
+- **Twins accepted to NeurIPS 2021**, revisiting spatial attention design in Vision Transformers. [paper](https://arxiv.org/abs/2104.13840) · [code](https://github.com/Meituan-AutoML/Twins)
