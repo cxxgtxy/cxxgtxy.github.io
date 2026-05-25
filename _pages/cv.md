@@ -62,7 +62,7 @@ Leading a 100+ member product-facing AI team across spatial intelligence, genera
 
 - Published **45+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP) and open-sourced **30+ AMAP-ML projects**
 - Key first-author works: GPG (ICLR 2026, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV 2025); key team works: SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
-- Multimodal technology powers AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent system drives **AI Companion (AI 伴行)** — contributing to AMAP products serving 300M+ users every day
+- Multimodal technology supports AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent work contributes to **AI Companion (AI 伴行)** — alongside AMAP products serving 300M+ users every day
 
 </div>
 
@@ -75,8 +75,8 @@ Leading a 100+ member product-facing AI team across spatial intelligence, genera
 
 Built the Visual Intelligence team from scratch. Directed research in Vision Transformers, multimodal large models, and industrial AI systems.
 
-- Created **Twins** (NeurIPS 2021), **CPVT** (ICLR 2023), **VisionLLaMA** (ECCV 2024) — widely adopted Vision Transformer architectures; VisionLLaMA pioneered auto-scaling 2D RoPE, later adopted by Qwen-VL and others
-- Built **MobileVLM**, the first real-time mobile VLM; reproduced LLaMA 7B from scratch
+- Created **Twins** (NeurIPS 2021), **CPVT** (ICLR 2023), **VisionLLaMA** (ECCV 2024) — influential Vision Transformer architectures; VisionLLaMA introduced auto-scaling 2D RoPE for LLaMA-style vision backbones
+- Built **MobileVLM**, a compact VLM designed for real-time on-device deployment; reproduced LLaMA 7B from scratch
 - Open-sourced **YOLOv6**, a widely used industrial object detection framework
 - Shipped 3D perception for autonomous delivery vehicles and drones, reducing annotation and serving costs
 
@@ -160,7 +160,7 @@ Selected Publications
 - [QARepVGG](https://arxiv.org/abs/2212.01593): Quantization-Aware RepVGG — **AAAI 2024** · 1st Author
 
 **Vision-Language & Detection**
-- [MobileVLM](https://arxiv.org/abs/2312.16886): First Real-Time Mobile VLM · 1st Author
+- [MobileVLM](https://arxiv.org/abs/2312.16886): Real-Time Mobile Vision-Language Model · 1st Author
 - [YOLOv6](https://arxiv.org/abs/2209.02976): Industrial Object Detection
 - [SpatialGenEval](https://arxiv.org/abs/2601.20354): Spatial Intelligence Benchmark — **ICLR 2026**
 - [PromptDet](https://arxiv.org/abs/2203.16513): Open-Vocabulary Detection — **ECCV 2022**

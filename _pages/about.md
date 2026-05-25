@@ -124,7 +124,7 @@ Featured Projects
   <div class="project-card">
     <span class="project-card__tag project-card__tag--vlm">Vision-Language</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2312.16886">MobileVLM</a></div>
-    <div class="project-card__desc">The first vision language assistant that runs in real-time on mobile devices (Snapdragon 888). The 1B/3B models benchmark against Gemini Nano.</div>
+    <div class="project-card__desc">A compact vision-language assistant designed for real-time on-device deployment, with 1B/3B models evaluated on mobile hardware such as Snapdragon 888.</div>
     <div class="project-card__meta">First Author · <a href="https://github.com/Meituan-AutoML/MobileVLM"><img src="https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social" alt="GitHub stars"></a></div>
   </div>
   <div class="project-card">
@@ -136,7 +136,7 @@ Featured Projects
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Foundation</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA</a></div>
-    <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks. Pioneered auto-scaling 2D RoPE for multimodal Transformers — an approach later adopted by Qwen-VL and others — with strong results across generation, classification, segmentation, and detection.</div>
+    <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks, introducing auto-scaling 2D RoPE for multimodal Transformers and reporting strong results across generation, classification, segmentation, and detection.</div>
     <div class="project-card__meta">ECCV 2024 · First Author · <a href="https://github.com/Meituan-AutoML/VisionLLaMA"><img src="https://img.shields.io/github/stars/Meituan-AutoML/VisionLLaMA?style=social" alt="GitHub stars"></a></div>
   </div>
 </div>
@@ -150,7 +150,7 @@ Research Journey
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
     <div class="journey-item__title">Spatial Intelligence, Generative Intelligence, Reasoning Agents & World Models</div>
-    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Research directly ships to production: multimodal technology powers the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent system drives AMAP's AI Companion (AI 伴行) — contributing to AMAP products serving 300M+ users every day. Published 45+ papers at top venues; open-sourced 30+ AMAP-ML projects.</div>
+    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Several research lines connect to production systems: multimodal technology supports the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent work contributes to AMAP's AI Companion (AI 伴行) — alongside AMAP products serving 300M+ users every day. Published 45+ papers at top venues; open-sourced 30+ AMAP-ML projects.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>

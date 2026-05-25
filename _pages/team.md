@@ -99,7 +99,7 @@ Our work is available on GitHub at [**AMAP-ML**](https://github.com/AMAP-ML), wi
 | [GPG](https://github.com/AMAP-ML/GPG) | <img src="https://img.shields.io/github/stars/AMAP-ML/GPG?style=social" alt="GitHub stars"> | Simple and strong RL baseline for reasoning |
 | [MobilityBench](https://github.com/AMAP-ML/MobilityBench) | <img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"> | Route-planning agent benchmark for real-world mobility |
 | [YOLOv6](https://github.com/meituan/YOLOv6) | <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social" alt="GitHub stars"> | Industrial-grade real-time object detection |
-| [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) | <img src="https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social" alt="GitHub stars"> | First real-time mobile vision language model |
+| [MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) | <img src="https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM?style=social" alt="GitHub stars"> | Real-time mobile vision-language model |
 
 ---
 
