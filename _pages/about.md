@@ -15,7 +15,7 @@ redirect_from:
 <p class="profile-subtitle">Senior Director & Head of AMAP-ML, Alibaba Group</p>
 
 <div class="vision-statement" markdown="1">
-I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team building foundation systems for **spatial intelligence**, **generative intelligence**, **reasoning agents**, and **world models**. My work connects academic research, open-source systems, and large-scale AMAP products serving **300M+ users every day**.
+I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team working on **spatial intelligence**, **generative intelligence**, **reasoning agents**, and **world models** for AMAP products serving **300M+ users every day**.
 </div>
 
 <div class="profile-actions">
@@ -118,7 +118,7 @@ Featured Projects
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Detection</span>
     <div class="project-card__title"><a href="https://github.com/meituan/YOLOv6">YOLOv6</a></div>
-    <div class="project-card__desc">Industrial-grade real-time object detection framework with a full training-to-deployment toolchain and broad open-source adoption.</div>
+    <div class="project-card__desc">Industrial-grade real-time object detection framework with a full training-to-deployment toolchain, broad open-source adoption, and follow-up deployment work on RepVGG-style quantization.</div>
     <div class="project-card__meta"><a href="https://github.com/meituan/YOLOv6"><img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social" alt="GitHub stars"></a></div>
   </div>
   <div class="project-card">

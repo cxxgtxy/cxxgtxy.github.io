@@ -110,7 +110,7 @@ Join AMAP-ML
 
 <div class="team-section" markdown="1">
 
-We are looking for talented **interns, full-time researchers, and AI engineers** who want to build research-grade systems that also ship into real products.
+We are looking for talented **interns, full-time researchers, and AI engineers** who want to build research-grade AI systems grounded in real map, mobility, local-service, and interactive AI scenarios.
 
 <div class="direction-tags">
   <span>LLM agents</span>
@@ -128,10 +128,10 @@ We are looking for talented **interns, full-time researchers, and AI engineers**
 
 #### What We Offer
 - Competitive compensation and benefits
-- Publish at top venues (CVPR, NeurIPS, ICLR, ACL, etc.)
-- Work on large-scale training, evaluation, and product deployment
+- Publish at top venues while building systems with real product paths
+- Work on large-scale training, evaluation, open-source releases, and deployment
+- Access to AMAP scenarios in maps, mobility, local services, and interactive AI
 - Collaborate across research, engineering, and product teams
-- Open-source culture: your work will be seen by the community
 
 </div>
 <div class="team-section__item" markdown="1">
@@ -140,8 +140,8 @@ We are looking for talented **interns, full-time researchers, and AI engineers**
 - Strong background in ML, CV, NLP, RL, agents, multimodal learning, or generative AI
 - Publications at top venues (preferred but not required for interns)
 - Solid coding skills and engineering mindset
-- Self-motivated with strong research taste
-- Passion for building AI systems that ship
+- Strong research taste and the ability to turn ideas into reproducible systems
+- Interest in AI systems that are evaluated by both academic rigor and real users
 
 </div>
 </div>
