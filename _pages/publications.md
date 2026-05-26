@@ -103,7 +103,7 @@ Representative Works
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Quantization</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2212.01593">QARepVGG</a></div>
-    <div class="project-card__desc">A quantization-aware RepVGG method that connects architecture design with deployment constraints in efficient visual backbones.</div>
+    <div class="project-card__desc">A quantization-aware solution for RepVGG-style re-parameterized networks, addressing the structural quantization challenge behind YOLOv6-like industrial detectors.</div>
     <div class="project-card__meta">AAAI 2024 · First Author · <a href="https://github.com/cxxgtxy/QARepVGG">code</a></div>
   </div>
 </div>
