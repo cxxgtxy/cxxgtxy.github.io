@@ -36,6 +36,10 @@ These items are curated from recent AMAP-ML releases and paper/project updates, 
 - **2026.05.12** — [CoEvolve](https://github.com/AMAP-ML/CoEvolve) accepted to **ACL 2026**, training LLM agents through agent-data mutual evolution.
 - **2026.05.12** — [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) accepted to **ACL 2026 Findings**, strengthening geolocalization with map-augmented reasoning.
 - **2026.05.11** — [DreamX-World](https://github.com/AMAP-ML/DreamX-World) released the **5B-Cam model and inference code** for interactive world simulation.
+- **2026.05.01** — **UniMRG** accepted to **ICML 2026**, showing that multi-representation generation strengthens unified multimodal understanding.
+- **2026.05.01** — **Train-Free Infinite-Frame Generation** accepted to **ICML 2026**, extending pretrained video diffusion to arbitrarily long, temporally consistent videos without retraining.
+- **2026.05.01** — **D-Evo** accepted to **ICML 2026**, improving data efficiency in reinforcement learning through dual difficulty-aware self-evolution.
+- **2026.05.01** — **EEPO** accepted to **ICML 2026**, introducing embedding-perturbed exploration for preference optimization in flow models.
 - **2026.04.22** — [DCW](https://github.com/AMAP-ML/DCW) accepted to **CVPR 2026**, mitigating SNR-t bias in diffusion probabilistic models.
 - **2026.04.10** — [SkillClaw](https://github.com/AMAP-ML/SkillClaw) released an agentic evolver that turns real interaction traces into reusable skill libraries.
 - **2026.04.01** — [MACE-Dance](https://github.com/AMAP-ML/MACE-Dance) accepted to **SIGGRAPH 2026**, decoupling motion generation and appearance synthesis for music-driven dance video.

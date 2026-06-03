@@ -46,7 +46,7 @@ I build foundation AI systems that move from original research to reproducible o
   </div>
 </div>
 
-<p class="profile-proof">Updated May 2026 · Citation metrics from <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
+<p class="profile-proof">Updated June 2026 · Citation metrics from <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
 
 ---
 
@@ -67,8 +67,8 @@ Recent Updates
     <span class="update-item__text"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a> released the 5B-Cam model and inference code for interactive world simulation.</span>
   </div>
   <div class="update-item">
-    <span class="update-item__date">2026.04.10</span>
-    <span class="update-item__text"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a> released an agentic evolver that turns real interaction traces into reusable skill libraries.</span>
+    <span class="update-item__date">2026.05.01</span>
+    <span class="update-item__text">AMAP-ML added four ICML 2026 papers across unified multimodal generation, data-efficient RL, long-video generation, and preference optimization.</span>
   </div>
 </div>
 
@@ -97,11 +97,11 @@ Featured Projects
     <div class="project-card__links"><a href="https://github.com/AMAP-ML/DreamX-World">code</a><a href="https://github.com/AMAP-ML">AMAP-ML</a></div>
   </div>
   <div class="project-card">
-    <span class="project-card__tag project-card__tag--gen">Generation</span>
-    <div class="project-card__title"><a href="https://arxiv.org/abs/2503.06132">USP</a></div>
-    <div class="project-card__desc">Unified self-supervised pretraining that bridges image generation and understanding within a single framework.</div>
-    <div class="project-card__meta">ICCV 2025 · First Author · <a href="https://github.com/AMAP-ML/USP"><img src="https://img.shields.io/github/stars/AMAP-ML/USP?style=social" alt="GitHub stars"></a></div>
-    <div class="project-card__links"><a href="https://arxiv.org/abs/2503.06132">paper</a><a href="https://github.com/AMAP-ML/USP">code</a></div>
+    <span class="project-card__tag project-card__tag--detection">Spatial AI</span>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2602.22638">MobilityBench</a></div>
+    <div class="project-card__desc">A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios, connecting agent research with AMAP's spatial intelligence anchor.</div>
+    <div class="project-card__meta">KDD 2026 · AMAP-ML · <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__links"><a href="https://arxiv.org/abs/2602.22638">paper</a><a href="https://github.com/AMAP-ML/MobilityBench">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">Agent</span>
