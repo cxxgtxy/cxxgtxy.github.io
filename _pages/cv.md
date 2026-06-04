@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-description: "Curriculum Vitae of Xiangxiang Chu — Senior Director at Alibaba AMAP, Tsinghua M.S., 120+ publications, National Science and Technology Progress First Prize."
+description: "Curriculum Vitae of Xiangxiang Chu — Senior Director at Alibaba AMAP, Tsinghua M.S., and author of 120+ research papers and preprints."
 redirect_from:
   - /resume
 ---
@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="vision-statement" markdown="1">
-I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AMAP products serving **300M+ users every day**. I have published **120+ papers** at top venues, with **14,000+ citations (6,000+ from first-authored works)** across open-source projects.
+I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AMAP products serving **300M+ users every day**. I have authored **120+ research papers and preprints**, including publications at top venues, with **14,000+ citations (6,000+ from first-authored works)** across open-source projects.
 </div>
 
 <div class="stats-grid">

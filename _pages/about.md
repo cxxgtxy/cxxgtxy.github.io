@@ -181,7 +181,6 @@ Recognition
 
 <ul class="awards-list">
   <li><strong>Top 100 AI Scholars</strong>, AMiner 2023 — selected from hundreds of thousands of AI researchers worldwide</li>
-  <li><strong>National Science and Technology Progress First Prize</strong>, 2018 — contributed 20 invention patents</li>
   <li><strong>3 first-authored papers</strong> on PaperDigest's Most Influential Paper List: <em>FairNAS</em>, <em>Twins</em>, <em>CPVT</em></li>
   <li><strong>Area Chair</strong>: ICLR, NeurIPS &nbsp;|&nbsp; <strong>Senior Program Committee</strong>: AAAI, IJCAI</li>
   <li><strong>40+ domestic</strong> and <strong>7 international</strong> invention patents</li>
