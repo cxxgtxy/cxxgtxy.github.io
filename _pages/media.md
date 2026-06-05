@@ -13,11 +13,29 @@ description: "Media coverage and press articles about Xiangxiang Chu's research 
 </div>
 
 <div class="research-map">
+  <a href="#recent-amap-ml-signals">Recent AMAP-ML Signals</a>
   <a href="#agent-systems">Agent Systems</a>
   <a href="#foundation-models--vision">Foundation Models & Vision</a>
   <a href="#object-detection">Object Detection</a>
   <a href="#automl--neural-architecture-search">AutoML & NAS</a>
 </div>
+
+---
+
+Recent AMAP-ML Signals
+======
+
+1. [AMAP-ML GitHub Organization](https://github.com/AMAP-ML)
+   > Open-source portfolio across spatial intelligence, generative AI, reasoning agents, world models, multimodal AI, and foundation architectures
+
+2. [GPG in ByteDance VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html)
+   > GPG adopted as an official reasoning reinforcement-learning algorithm in the VERL framework
+
+3. [MobilityBench](https://github.com/AMAP-ML/MobilityBench)
+   > Real-world route-planning agent benchmark accepted to KDD 2026
+
+4. [DreamX-World](https://github.com/AMAP-ML/DreamX-World)
+   > Interactive world model release with model weights and inference code
 
 ---
 

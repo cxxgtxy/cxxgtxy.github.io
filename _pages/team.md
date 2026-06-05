@@ -132,6 +132,7 @@ We are looking for talented **interns, full-time researchers, and AI engineers**
 - Work on large-scale training, evaluation, open-source releases, and deployment
 - Access to AMAP scenarios in maps, mobility, local services, and interactive AI
 - Collaborate across research, engineering, and product teams
+- Grow in a team where strong first-author work, system ownership, and real product impact are all valued
 
 </div>
 <div class="team-section__item" markdown="1">
