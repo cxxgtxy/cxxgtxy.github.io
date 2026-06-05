@@ -175,7 +175,7 @@ Collaborative Papers
 ### Image Generation & Editing
 
 <ol>
-  <li>Embedding-perturbed Exploration Preference Optimization for Flow Models, <strong>ICML 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2605.15803">E<sup>2</sup>PO: Embedding-perturbed Exploration Preference Optimization for Flow Models</a>, <strong>ICML 2026</strong></li>
   <li>MAR-GRPO: Stabilized GRPO for AR-Diffusion Hybrid Image Generation</li>
   <li>ConceptWeaver: Weaving Disentangled Concepts with Flow</li>
   <li><a href="https://arxiv.org/abs/2604.16044">Elucidating the SNR-t Bias of Diffusion Probabilistic Models</a>, <strong>CVPR 2026</strong> <a href="https://github.com/AMAP-ML/DCW">[code]</a></li>
@@ -197,7 +197,7 @@ Collaborative Papers
 ### Video Generation & Understanding
 
 <ol>
-  <li>Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos, <strong>ICML 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2605.18233">MIGA: Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos</a>, <strong>ICML 2026</strong></li>
   <li>Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models</li>
   <li><a href="https://arxiv.org/abs/2603.14935">Video-CoE: Reinforcing Video Event Prediction via Chain of Events</a>, <strong>CVPR 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2512.24271">Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation</a></li>
@@ -216,7 +216,7 @@ Collaborative Papers
 ### LLM Reasoning & Agents
 
 <ol>
-  <li>D Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning, <strong>ICML 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2605.17037">D<sup>2</sup>Evo: Dual Difficulty-Aware Self-Evolution for Data-Efficient Reinforcement Learning</a>, <strong>ICML 2026</strong></li>
   <li>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver <a href="https://github.com/AMAP-ML/SkillClaw">[code]</a></li>
   <li>Ace-Skill: Bootstrapping Multimodal Agents with Prioritized and Clustered Evolution</li>
   <li>Learning Agentic Policy from Action Guidance</li>
@@ -235,7 +235,7 @@ Collaborative Papers
 ### Multimodal & Vision-Language
 
 <ol>
-  <li>Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation, <strong>ICML 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2601.21406">UniMRG: Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation</a>, <strong>ICML 2026</strong></li>
   <li>Visual Enhanced Depth Scaling for Multimodal Latent Reasoning</li>
   <li><a href="https://arxiv.org/abs/2604.17295">LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics</a>, <strong>ACL 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2602.11499">What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation</a></li>
