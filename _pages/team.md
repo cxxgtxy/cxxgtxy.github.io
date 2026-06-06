@@ -88,7 +88,7 @@ Product Anchors
 Open Source
 ======
 
-Our work is available on GitHub at [**AMAP-ML**](https://github.com/AMAP-ML), with 30+ active projects and 10,000+ cumulative stars across all organizations we've contributed to.
+Our work is available on GitHub at [**AMAP-ML**](https://github.com/AMAP-ML), with 30+ active projects and 10,000+ cumulative stars across AMAP-ML and earlier open-source releases including YOLOv6 and MobileVLM.
 
 | Project | Stars | Description |
 |---------|-------|-------------|

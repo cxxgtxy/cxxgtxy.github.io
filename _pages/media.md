@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Media Coverage"
+title: "Signals & Media Coverage"
 permalink: /media/
 author_profile: true
-description: "Media coverage and press articles about Xiangxiang Chu's research on YOLOv6, MobileVLM, Twins, FairNAS, and Alibaba AMAP AI systems."
+description: "External signals, open-source releases, and media coverage around Xiangxiang Chu's research on AMAP-ML, YOLOv6, MobileVLM, Twins, FairNAS, and product-facing AI systems."
 ---
 
 {% include base_path %}
 
 <div class="news-lead">
-  <p>Selected media reports and articles about my research work. These pieces provide external signals around the same research trajectory highlighted across this site: efficient AI systems, vision and multimodal foundation models, open-source industrial frameworks, and AMAP-ML's current work on product-facing intelligence.</p>
+  <p>Selected external signals, open-source releases, and media reports around my research work. These items follow the same research trajectory highlighted across this site: efficient AI systems, vision and multimodal foundation models, open-source industrial frameworks, and AMAP-ML's current work on product-facing intelligence.</p>
 </div>
 
 <div class="research-map">
