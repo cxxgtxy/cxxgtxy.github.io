@@ -32,7 +32,7 @@ Latest AMAP-ML Updates
 
 These items are curated from recent AMAP-ML releases and paper/project updates, with the newest and most product-relevant signals first.
 
-- **2026.05.18** — [MobilityBench](https://github.com/AMAP-ML/MobilityBench) accepted to **KDD 2026**, providing a scalable benchmark for route-planning agents in real-world mobility scenarios.
+- **2026.05.18** — [MobilityBench](https://github.com/AMAP-ML/MobilityBench) accepted as an **oral paper at KDD 2026**, providing a scalable benchmark for route-planning agents in real-world mobility scenarios.
 - **2026.05.12** — [CoEvolve](https://github.com/AMAP-ML/CoEvolve) accepted to **ACL 2026**, training LLM agents through agent-data mutual evolution.
 - **2026.05.12** — [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) accepted to **ACL 2026 Findings**, strengthening geolocalization with map-augmented reasoning.
 - **2026.05.11** — [DreamX-World](https://github.com/AMAP-ML/DreamX-World) released the **5B-Cam model and inference code** for interactive world simulation.

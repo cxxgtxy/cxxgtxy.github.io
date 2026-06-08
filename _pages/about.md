@@ -56,7 +56,7 @@ Recent Updates
 <div class="updates-list">
   <div class="update-item">
     <span class="update-item__date">2026.05.18</span>
-    <span class="update-item__text"><a href="https://github.com/AMAP-ML/MobilityBench">MobilityBench</a> accepted to KDD 2026, benchmarking route-planning agents in real-world mobility scenarios.</span>
+    <span class="update-item__text"><a href="https://github.com/AMAP-ML/MobilityBench">MobilityBench</a> accepted as an oral paper at KDD 2026, benchmarking route-planning agents in real-world mobility scenarios.</span>
   </div>
   <div class="update-item">
     <span class="update-item__date">2026.05.12</span>
@@ -100,7 +100,7 @@ Featured Projects
     <span class="project-card__tag project-card__tag--detection">Spatial AI</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2602.22638">MobilityBench</a></div>
     <div class="project-card__desc">A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios, connecting agent research with AMAP's spatial intelligence anchor.</div>
-    <div class="project-card__meta">KDD 2026 · AMAP-ML · <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__meta">KDD 2026 Oral · AMAP-ML · <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></div>
     <div class="project-card__links"><a href="https://arxiv.org/abs/2602.22638">paper</a><a href="https://github.com/AMAP-ML/MobilityBench">code</a></div>
   </div>
   <div class="project-card">

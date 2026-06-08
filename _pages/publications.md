@@ -121,7 +121,7 @@ Representative Works
     <span class="project-card__tag project-card__tag--detection">Spatial AI</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2602.22638">MobilityBench</a></div>
     <div class="project-card__desc">A real-world benchmark for evaluating route-planning agents in mobility scenarios, anchoring AMAP-ML's spatial-intelligence research direction.</div>
-    <div class="project-card__meta">KDD 2026 · <a href="https://github.com/AMAP-ML/MobilityBench">code</a></div>
+    <div class="project-card__meta">KDD 2026 Oral · <a href="https://github.com/AMAP-ML/MobilityBench">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">World Models</span>
@@ -301,7 +301,7 @@ Collaborative Papers
 ### Maps, Mobility & Recommendation
 
 <ol>
-  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a>, <strong>KDD 2026</strong> <a href="https://github.com/AMAP-ML/MobilityBench">[code]</a></li>
+  <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a>, <strong>KDD 2026 Oral</strong> <a href="https://github.com/AMAP-ML/MobilityBench">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2602.04174">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></li>

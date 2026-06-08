@@ -147,7 +147,7 @@ Selected Publications
 **AI Agents & Intelligent Mobility**
 - [SkillClaw](https://github.com/AMAP-ML/SkillClaw): Collective Skill Evolution
 - [Code2World](https://arxiv.org/abs/2602.09856): GUI World Model via Renderable Code
-- [MobilityBench](https://arxiv.org/abs/2602.22638): Route-Planning Agent Benchmark
+- [MobilityBench](https://arxiv.org/abs/2602.22638): Route-Planning Agent Benchmark — **KDD 2026 Oral**
 
 </div>
 <div markdown="1">

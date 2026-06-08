@@ -32,7 +32,7 @@ Recent AMAP-ML Signals
    > GPG adopted as an official reasoning reinforcement-learning algorithm in the VERL framework
 
 3. [MobilityBench](https://github.com/AMAP-ML/MobilityBench)
-   > Real-world route-planning agent benchmark accepted to KDD 2026
+   > Real-world route-planning agent benchmark accepted as an oral paper at KDD 2026
 
 4. [DreamX-World](https://github.com/AMAP-ML/DreamX-World)
    > Interactive world model release with model weights and inference code
