@@ -25,16 +25,19 @@ description: "External signals, open-source releases, and media coverage around 
 Recent AMAP-ML Signals
 ======
 
-1. [AMAP-ML GitHub Organization](https://github.com/AMAP-ML)
+1. AMAP-ML ECCV 2026 acceptance wave
+   > Seven papers accepted to ECCV 2026, strengthening the team's recent top-venue portfolio across spatial, generative, and multimodal AI
+
+2. [AMAP-ML GitHub Organization](https://github.com/AMAP-ML)
    > Open-source portfolio across spatial intelligence, generative AI, reasoning agents, world models, multimodal AI, and foundation architectures
 
-2. [GPG in ByteDance VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html)
+3. [GPG in ByteDance VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html)
    > GPG adopted as an official reasoning reinforcement-learning algorithm in the VERL framework
 
-3. [MobilityBench](https://github.com/AMAP-ML/MobilityBench)
+4. [MobilityBench](https://github.com/AMAP-ML/MobilityBench)
    > Real-world route-planning agent benchmark accepted as an oral paper at KDD 2026
 
-4. [DreamX-World](https://github.com/AMAP-ML/DreamX-World)
+5. [DreamX-World](https://github.com/AMAP-ML/DreamX-World)
    > Interactive world model release with model weights and inference code
 
 ---

@@ -60,7 +60,7 @@ Professional Experience
 
 Leading a 100+ member product-facing AI team across spatial intelligence, generative intelligence, reasoning agents, world models, foundation architectures, and multimodal understanding.
 
-- Published **50+ papers** at top venues (ICLR, CVPR, ACL, ICCV, NeurIPS, AAAI, EMNLP, ECCV) and open-sourced **30+ AMAP-ML projects**
+- Published **50+ papers** at top venues (ICLR, CVPR, ICML, ACL, KDD, ICCV, ECCV, NeurIPS, AAAI, EMNLP, SIGGRAPH) and open-sourced **30+ AMAP-ML projects**
 - Key first-author works: GPG (ICLR 2026, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV 2025); key team works: SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
 - Multimodal technology supports AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent work contributes to **AI Companion (AI 伴行)** — alongside AMAP products serving 300M+ users every day
 
