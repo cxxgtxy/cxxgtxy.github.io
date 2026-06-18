@@ -55,6 +55,10 @@ Recent Updates
 
 <div class="updates-list">
   <div class="update-item">
+    <span class="update-item__date">2026.06.18</span>
+    <span class="update-item__text">AMAP-ML added seven papers accepted by ECCV 2026, expanding the team's recent top-venue research portfolio.</span>
+  </div>
+  <div class="update-item">
     <span class="update-item__date">2026.05.18</span>
     <span class="update-item__text"><a href="https://github.com/AMAP-ML/MobilityBench">MobilityBench</a> accepted as an oral paper at KDD 2026, benchmarking route-planning agents in real-world mobility scenarios.</span>
   </div>
