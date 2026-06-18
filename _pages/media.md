@@ -70,7 +70,7 @@ Foundation Models & Vision
 Object Detection
 ======
 
-6. [更准更快的YOLOv6来了，美团出品并开源](https://www.jiqizhixin.com/articles/2022-06-26-2)
+1. [更准更快的YOLOv6来了，美团出品并开源](https://www.jiqizhixin.com/articles/2022-06-26-2)
    > YOLOv6: Faster and more accurate, open-sourced by Meituan
 
 ---
@@ -78,14 +78,14 @@ Object Detection
 AutoML & Neural Architecture Search
 ======
 
-7. [小米AI实验室成果速递](https://weibo.com/1771925961/I3RJIzzj0)
+1. [小米AI实验室成果速递](https://weibo.com/1771925961/I3RJIzzj0)
    > Xiaomi AI Lab research highlights
 
-8. [雷军强推:小米造最强超分辨率算法，现已开源](https://www.jiqizhixin.com/articles/2019-02-20-14)
+2. [雷军强推:小米造最强超分辨率算法，现已开源](https://www.jiqizhixin.com/articles/2019-02-20-14)
    > Lei Jun recommends: Xiaomi's strongest super-resolution algorithm, now open-sourced
 
-9. [超越MnasNet、Proxyless：小米提出全新神经架构搜索算法FairNAS](https://www.jiqizhixin.com/articles/2019-07-05-6)
+3. [超越MnasNet、Proxyless：小米提出全新神经架构搜索算法FairNAS](https://www.jiqizhixin.com/articles/2019-07-05-6)
    > FairNAS: A new NAS algorithm surpassing MnasNet and Proxyless
 
-10. [两个月三项成果，对标谷歌！独家对话小米AutoML团队，如何让模型搜索更公平](https://mp.weixin.qq.com/s/lMLAd2sTZdRjbMa38HS3vg)
+4. [两个月三项成果，对标谷歌！独家对话小米AutoML团队，如何让模型搜索更公平](https://mp.weixin.qq.com/s/lMLAd2sTZdRjbMa38HS3vg)
     > Exclusive interview with Xiaomi AutoML team: Making model search fairer
