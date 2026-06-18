@@ -56,7 +56,7 @@ Recent Updates
 <div class="updates-list">
   <div class="update-item">
     <span class="update-item__date">2026.06.18</span>
-    <span class="update-item__text">AMAP-ML added seven papers accepted by ECCV 2026, expanding the team's recent top-venue research portfolio.</span>
+    <span class="update-item__text">AMAP-ML had seven papers accepted to ECCV 2026, adding another strong top-venue signal to the team's recent research portfolio.</span>
   </div>
   <div class="update-item">
     <span class="update-item__date">2026.05.18</span>
@@ -154,7 +154,7 @@ Research Journey
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
     <div class="journey-item__title">Spatial Intelligence, Generative Intelligence, Reasoning Agents & World Models</div>
-    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Several research lines connect to production systems: multimodal technology supports the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent work contributes to AMAP's AI Companion (AI 伴行) — alongside AMAP products serving 300M+ users every day. Published 45+ papers at top venues; open-sourced 30+ AMAP-ML projects.</div>
+    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Several research lines connect to production systems: multimodal technology supports the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent work contributes to AMAP's AI Companion (AI 伴行) — alongside AMAP products serving 300M+ users every day. Published 50+ papers at top venues; open-sourced 30+ AMAP-ML projects.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>

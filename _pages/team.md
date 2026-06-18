@@ -27,7 +27,7 @@ I lead AMAP-ML at Alibaba Group, a 100+ member product-facing AI team building f
     <span class="proof-item__label">open-source AMAP-ML projects</span>
   </div>
   <div class="proof-item">
-    <span class="proof-item__number">45+</span>
+    <span class="proof-item__number">50+</span>
     <span class="proof-item__label">recent top-venue papers from AMAP-ML</span>
   </div>
   <div class="proof-item">
