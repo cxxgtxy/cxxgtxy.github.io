@@ -3,8 +3,8 @@ permalink: /
 title: "Xiangxiang Chu (初祥祥)"
 seo_title: "Xiangxiang Chu (初祥祥) - AMAP-ML, Spatial & Generative Intelligence"
 og_title: "Xiangxiang Chu (初祥祥) - AMAP-ML"
-excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 14,000+ citations, 120+ publications, and AMAP products serving 300M+ users every day."
-description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 14,000+ citations, 120+ publications, and AMAP products serving 300M+ users every day."
+excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 15,000+ citations, 120+ publications, and AMAP products serving 300M+ users every day."
+description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 15,000+ citations, 120+ publications, and AMAP products serving 300M+ users every day."
 og_image: "og-card.png"
 author_profile: true
 redirect_from: 
@@ -29,7 +29,7 @@ I build foundation AI systems that move from original research to reproducible o
 
 <div class="stats-grid">
   <div class="stat-item">
-    <span class="stat-number">14,000+</span>
+    <span class="stat-number">15,000+</span>
     <span class="stat-label">Total Citations</span>
   </div>
   <div class="stat-item">
