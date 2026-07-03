@@ -26,7 +26,7 @@ Recent AMAP-ML Signals
 ======
 
 1. AMAP-ML ECCV 2026 acceptance wave
-   > Seven papers accepted to ECCV 2026, strengthening the team's recent top-venue portfolio across spatial, generative, and multimodal AI
+   > Five papers accepted to ECCV 2026, strengthening the team's recent top-venue portfolio across spatial, generative, and multimodal AI
 
 2. [AMAP-ML GitHub Organization](https://github.com/AMAP-ML)
    > Open-source portfolio across spatial intelligence, generative AI, reasoning agents, world models, multimodal AI, and foundation architectures

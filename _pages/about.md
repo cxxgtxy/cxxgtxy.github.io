@@ -56,7 +56,7 @@ Recent Updates
 <div class="updates-list">
   <div class="update-item">
     <span class="update-item__date">2026.06.18</span>
-    <span class="update-item__text">AMAP-ML had seven papers accepted to ECCV 2026, adding another strong top-venue signal to the team's recent research portfolio.</span>
+    <span class="update-item__text">AMAP-ML had five papers accepted to ECCV 2026, adding another strong top-venue signal to the team's recent research portfolio.</span>
   </div>
   <div class="update-item">
     <span class="update-item__date">2026.05.18</span>
