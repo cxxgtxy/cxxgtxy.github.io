@@ -40,7 +40,7 @@ Awards & Recognition
 
 <ul class="awards-list">
   <li><strong>Top 100 AI Scholars</strong>, AMiner 2023 — selected from hundreds of thousands of AI researchers worldwide</li>
-  <li><strong>3 first-authored papers</strong> on PaperDigest's Most Influential Paper List: <em>FairNAS</em>, <em>Twins</em>, <em>CPVT</em></li>
+  <li><strong>3 first-authored papers</strong> on PaperDigest's Most Influential lists: <a href="https://resources.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/"><em>FairNAS</em></a>, <a href="https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/"><em>Twins</em></a>, <a href="https://resources.paperdigest.org/2024/09/most-influential-iclr-papers-2024-09/"><em>CPVT</em></a></li>
   <li><strong>2nd Place</strong>, Xiaomi "Million Dollar Prize" — Automated Neural Network Design</li>
 </ul>
 
@@ -154,8 +154,8 @@ Selected Publications
 
 **Foundation Architectures**
 - [VisionLLaMA](https://arxiv.org/abs/2403.00522): Unified LLaMA for Vision — **ECCV 2024** · 1st Author
-- [Twins](https://arxiv.org/abs/2104.13840): Spatial Attention in ViTs — **NeurIPS 2021** · 1st Author · Most Influential
-- [CPVT](https://arxiv.org/abs/2102.10882): Conditional Positional Encodings — **ICLR 2023** · 1st Author · Most Influential
+- [Twins](https://arxiv.org/abs/2104.13840): Spatial Attention in ViTs — **NeurIPS 2021** · 1st Author · [PaperDigest Most Influential](https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/)
+- [CPVT](https://arxiv.org/abs/2102.10882): Conditional Positional Encodings — **ICLR 2023** · 1st Author · [PaperDigest Most Influential](https://resources.paperdigest.org/2024/09/most-influential-iclr-papers-2024-09/)
 - [FASA](https://arxiv.org/abs/2602.03152): Frequency-Aware Sparse Attention — **ICLR 2026**
 - [QARepVGG](https://arxiv.org/abs/2212.01593): Quantization-Aware RepVGG — **AAAI 2024** · 1st Author
 
@@ -166,7 +166,7 @@ Selected Publications
 - [PromptDet](https://arxiv.org/abs/2203.16513): Open-Vocabulary Detection — **ECCV 2022**
 
 **AutoML & Neural Architecture Search**
-- [FairNAS](https://arxiv.org/abs/1907.01845): Rethinking NAS Fairness — **ICCV 2021** · 1st Author · Most Influential
+- [FairNAS](https://arxiv.org/abs/1907.01845): Rethinking NAS Fairness — **ICCV 2021** · 1st Author · [PaperDigest Most Influential](https://resources.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/)
 - [FairDARTS](https://arxiv.org/abs/1911.12126): Fair Differentiable NAS — **ECCV 2020** · 1st Author
 - [DARTS-](https://arxiv.org/abs/2009.01027): Robustly Out of Collapse — **ICLR 2021** · 1st Author
 

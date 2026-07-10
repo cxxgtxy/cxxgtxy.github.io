@@ -86,19 +86,19 @@ Representative Works
     <span class="project-card__tag project-card__tag--arch">Vision Transformer</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2104.13840">Twins</a></div>
     <div class="project-card__desc">Revisited spatial attention design in Vision Transformers, pairing strong accuracy with a simpler architecture and practical deployment properties.</div>
-    <div class="project-card__meta">NeurIPS 2021 · First Author · Most Influential · <a href="https://github.com/Meituan-AutoML/Twins">code</a></div>
+    <div class="project-card__meta">NeurIPS 2021 · First Author · <a href="https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/">PaperDigest Most Influential</a> · <a href="https://github.com/Meituan-AutoML/Twins">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Position Encoding</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2102.10882">CPVT</a></div>
     <div class="project-card__desc">Conditional positional encodings for Vision Transformers, a clean architectural contribution later recognized on PaperDigest's Most Influential list.</div>
-    <div class="project-card__meta">ICLR 2023 · First Author · Most Influential · <a href="https://github.com/Meituan-AutoML/CPVT">code</a></div>
+    <div class="project-card__meta">ICLR 2023 · First Author · <a href="https://resources.paperdigest.org/2024/09/most-influential-iclr-papers-2024-09/">PaperDigest Most Influential</a> · <a href="https://github.com/Meituan-AutoML/CPVT">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">AutoML</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/1907.01845">FairNAS</a></div>
     <div class="project-card__desc">A fairness-centered rethink of weight-sharing NAS evaluation, representing the earlier AutoML line that shaped the transition into efficient vision backbones.</div>
-    <div class="project-card__meta">ICCV 2021 · First Author · Most Influential · <a href="https://github.com/xiaomi-automl/FairNAS">code</a></div>
+    <div class="project-card__meta">ICCV 2021 · First Author · <a href="https://resources.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/">PaperDigest Most Influential</a> · <a href="https://github.com/xiaomi-automl/FairNAS">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Quantization</span>
