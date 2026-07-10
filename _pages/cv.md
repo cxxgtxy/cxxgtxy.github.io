@@ -142,7 +142,7 @@ Selected Publications
 - [DCW](https://arxiv.org/abs/2604.16044): SNR-t Bias of Diffusion Models — **CVPR 2026**
 - [S2-Guidance](https://arxiv.org/abs/2508.12880): Training-Free Diffusion Enhancement — **ICLR 2026**
 - [EPG](https://arxiv.org/abs/2510.12586): End-to-End Pixel Generation without VAE — **ICLR 2026**
-- [DreamX-World](https://github.com/AMAP-ML/DreamX-World): Interactive World Model
+- [DreamX-World](https://arxiv.org/abs/2606.16993): Interactive World Model · 2026 Technical Report · [code](https://github.com/AMAP-ML/DreamX-World)
 
 **AI Agents & Intelligent Mobility**
 - [SkillClaw](https://github.com/AMAP-ML/SkillClaw): Collective Skill Evolution

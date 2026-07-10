@@ -46,7 +46,7 @@ I build foundation AI systems that move from original research to reproducible o
   </div>
 </div>
 
-<p class="profile-proof">Updated June 2026 · Citation metrics from <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
+<p class="profile-proof">Citation metrics verified July 2026 · Source: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
 
 ---
 
@@ -59,16 +59,16 @@ Recent Updates
     <span class="update-item__text">AMAP-ML had five papers accepted to ECCV 2026, adding another strong top-venue signal to the team's recent research portfolio.</span>
   </div>
   <div class="update-item">
+    <span class="update-item__date">2026.06.15</span>
+    <span class="update-item__text"><a href="https://arxiv.org/abs/2606.16993">DreamX-World 1.0</a> released its technical report and open-sourced a 5B model supporting one-minute interactive world generation.</span>
+  </div>
+  <div class="update-item">
     <span class="update-item__date">2026.05.18</span>
     <span class="update-item__text"><a href="https://github.com/AMAP-ML/MobilityBench">MobilityBench</a> accepted as an oral paper at KDD 2026, benchmarking route-planning agents in real-world mobility scenarios.</span>
   </div>
   <div class="update-item">
     <span class="update-item__date">2026.05.12</span>
     <span class="update-item__text"><a href="https://github.com/AMAP-ML/CoEvolve">CoEvolve</a> and <a href="https://github.com/AMAP-ML/Thinking-with-Map">Thinking-with-Map</a> added new ACL 2026 work on agent-data evolution and map-augmented reasoning.</span>
-  </div>
-  <div class="update-item">
-    <span class="update-item__date">2026.05.11</span>
-    <span class="update-item__text"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a> released the 5B-Cam model and inference code for interactive world simulation.</span>
   </div>
   <div class="update-item">
     <span class="update-item__date">2026.05.01</span>
@@ -98,7 +98,7 @@ Featured Projects
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
     <div class="project-card__desc">A general-purpose interactive world model that creates diverse, high-fidelity virtual environments with camera-controlled navigation and prompt-driven world events.</div>
     <div class="project-card__meta">AMAP-ML · 2026 · <a href="https://github.com/AMAP-ML/DreamX-World"><img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"></a></div>
-    <div class="project-card__links"><a href="https://github.com/AMAP-ML/DreamX-World">code</a><a href="https://github.com/AMAP-ML">AMAP-ML</a></div>
+    <div class="project-card__links"><a href="https://arxiv.org/abs/2606.16993">tech report</a><a href="https://github.com/AMAP-ML/DreamX-World">code</a><a href="https://github.com/AMAP-ML">AMAP-ML</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Spatial AI</span>

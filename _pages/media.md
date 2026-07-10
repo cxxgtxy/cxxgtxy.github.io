@@ -1,19 +1,19 @@
 ---
 layout: archive
-title: "Signals & Media Coverage"
+title: "Public Signals & Selected Coverage"
 permalink: /media/
 author_profile: true
-description: "External signals, open-source releases, and media coverage around Xiangxiang Chu's research on AMAP-ML, YOLOv6, MobileVLM, Twins, FairNAS, and product-facing AI systems."
+description: "Public research and open-source signals, plus selected media coverage around Xiangxiang Chu's work on AMAP-ML, YOLOv6, MobileVLM, Twins, FairNAS, and product-facing AI systems."
 ---
 
 {% include base_path %}
 
 <div class="news-lead">
-  <p>Selected external signals, open-source releases, and media reports around my research work. These items follow the same research trajectory highlighted across this site: efficient AI systems, vision and multimodal foundation models, open-source industrial frameworks, and AMAP-ML's current work on product-facing intelligence.</p>
+  <p>Selected public research and open-source signals, plus media reports around my work. These items follow the same research trajectory highlighted across this site: efficient AI systems, vision and multimodal foundation models, open-source industrial frameworks, and AMAP-ML's current work on product-facing intelligence.</p>
 </div>
 
 <div class="research-map">
-  <a href="#recent-amap-ml-signals">Recent AMAP-ML Signals</a>
+  <a href="#public-amap-ml-signals">Public AMAP-ML Signals</a>
   <a href="#agent-systems">Agent Systems</a>
   <a href="#foundation-models--vision">Foundation Models & Vision</a>
   <a href="#object-detection">Object Detection</a>
@@ -22,7 +22,7 @@ description: "External signals, open-source releases, and media coverage around 
 
 ---
 
-Recent AMAP-ML Signals
+Public AMAP-ML Signals
 ======
 
 1. AMAP-ML ECCV 2026 acceptance wave
@@ -38,7 +38,7 @@ Recent AMAP-ML Signals
    > Real-world route-planning agent benchmark accepted as an oral paper at KDD 2026
 
 5. [DreamX-World](https://github.com/AMAP-ML/DreamX-World)
-   > Interactive world model release with model weights and inference code
+   > DreamX-World 1.0 technical report and an open-source 5B model for one-minute interactive world generation
 
 ---
 

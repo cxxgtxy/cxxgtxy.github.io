@@ -125,9 +125,9 @@ Representative Works
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">World Models</span>
-    <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
-    <div class="project-card__desc">A general-purpose interactive world model release with controllable camera navigation, prompt-driven world events, model weights, and inference code.</div>
-    <div class="project-card__meta">AMAP-ML · 2026 · <a href="https://github.com/AMAP-ML/DreamX-World">code</a></div>
+    <div class="project-card__title"><a href="https://arxiv.org/abs/2606.16993">DreamX-World</a></div>
+    <div class="project-card__desc">A general-purpose interactive world model with controllable camera navigation, prompt-driven world events, an open-source 5B model, and a technical report.</div>
+    <div class="project-card__meta">AMAP-ML · 2026 · <a href="https://arxiv.org/abs/2606.16993">tech report</a> · <a href="https://github.com/AMAP-ML/DreamX-World">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">Agents</span>

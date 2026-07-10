@@ -33,10 +33,10 @@ Latest AMAP-ML Updates
 These items are curated from recent AMAP-ML releases and paper/project updates, with the newest and most product-relevant signals first.
 
 - **2026.06.18** — AMAP-ML had **five papers accepted to ECCV 2026**, adding another strong top-venue signal to the team's recent research portfolio.
+- **2026.06.15** — [DreamX-World 1.0](https://arxiv.org/abs/2606.16993) released its technical report and open-sourced a 5B model supporting **one-minute interactive world generation**. [code](https://github.com/AMAP-ML/DreamX-World)
 - **2026.05.18** — [MobilityBench](https://github.com/AMAP-ML/MobilityBench) accepted as an **oral paper at KDD 2026**, providing a scalable benchmark for route-planning agents in real-world mobility scenarios.
 - **2026.05.12** — [CoEvolve](https://github.com/AMAP-ML/CoEvolve) accepted to **ACL 2026**, training LLM agents through agent-data mutual evolution.
 - **2026.05.12** — [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) accepted to **ACL 2026 Findings**, strengthening geolocalization with map-augmented reasoning.
-- **2026.05.11** — [DreamX-World](https://github.com/AMAP-ML/DreamX-World) released the **5B-Cam model and inference code** for interactive world simulation.
 - **2026.05.01** — [UniMRG](https://arxiv.org/abs/2601.21406) accepted to **ICML 2026**, showing that multi-representation generation strengthens unified multimodal understanding.
 - **2026.05.01** — [MIGA](https://arxiv.org/abs/2605.18233) accepted to **ICML 2026**, extending pretrained video diffusion to arbitrarily long, temporally consistent videos without retraining.
 - **2026.05.01** — [D<sup>2</sup>Evo](https://arxiv.org/abs/2605.17037) accepted to **ICML 2026**, improving data efficiency in reinforcement learning through dual difficulty-aware self-evolution.
