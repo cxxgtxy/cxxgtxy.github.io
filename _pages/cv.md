@@ -131,7 +131,7 @@ Selected Publications
 <div markdown="1">
 
 **LLM Reasoning**
-- [GPG](https://arxiv.org/abs/2504.02546): Simple & Strong RL for Reasoning — **ICLR 2026** · 1st Author
+- [GPG](https://arxiv.org/abs/2504.02546): Simple & Strong RL for Reasoning — **ICLR 2026** · 1st Author · 100+ citations
 - [Tree-GRPO](https://arxiv.org/abs/2509.21240): Tree Search for Agent RL — **ICLR 2026**
 - [CoEvolve](https://arxiv.org/abs/2604.15840): Agent-Data Co-Evolution — **ACL 2026**
 - [MathForge](https://arxiv.org/abs/2601.20614): Difficulty-Aware GRPO — **ICLR 2026**

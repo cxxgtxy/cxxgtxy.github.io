@@ -90,7 +90,7 @@ Featured Projects
     <span class="project-card__tag project-card__tag--llm">LLM Reasoning</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2504.02546">GPG</a></div>
     <div class="project-card__desc">A simple and strong reinforcement learning baseline for model reasoning — no critic, no reference model, no KL penalty. Adopted by ByteDance's <a href="https://verl.readthedocs.io/en/latest/algo/gpg.html">VERL</a> framework as an official algorithm.</div>
-    <div class="project-card__meta">ICLR 2026 · First Author · <a href="https://github.com/AMAP-ML/GPG"><img src="https://img.shields.io/github/stars/AMAP-ML/GPG?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__meta">ICLR 2026 · First Author · 100+ citations · <a href="https://github.com/AMAP-ML/GPG"><img src="https://img.shields.io/github/stars/AMAP-ML/GPG?style=social" alt="GitHub stars"></a></div>
     <div class="project-card__links"><a href="https://arxiv.org/abs/2504.02546">paper</a><a href="https://github.com/AMAP-ML/GPG">code</a><a href="https://verl.readthedocs.io/en/latest/algo/gpg.html">VERL</a></div>
   </div>
   <div class="project-card">

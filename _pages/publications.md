@@ -59,7 +59,7 @@ Representative Works
     <span class="project-card__tag project-card__tag--llm">Reasoning RL</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2504.02546">GPG</a></div>
     <div class="project-card__desc">A minimal reinforcement-learning baseline for model reasoning: no critic, no reference model, no KL penalty. Adopted by ByteDance's VERL as an official algorithm.</div>
-    <div class="project-card__meta">ICLR 2026 · First Author · <a href="https://github.com/AMAP-ML/GPG">code</a></div>
+    <div class="project-card__meta">ICLR 2026 · First Author · 100+ citations · <a href="https://github.com/AMAP-ML/GPG">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--gen">Generation</span>
