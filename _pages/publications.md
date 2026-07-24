@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-description: "Publication list of Xiangxiang Chu — 120+ research papers and preprints, including 70+ main-track papers at top-tier AI conferences."
+description: "Publication list of Xiangxiang Chu — 120+ research papers and preprints, including 70+ papers at top-tier AI conferences."
 ---
 
 {% include base_path %}
@@ -27,7 +27,7 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
   </div>
   <div class="proof-item">
     <span class="proof-item__number">70+</span>
-    <span class="proof-item__label">main-track top-conference papers</span>
+    <span class="proof-item__label">top-conference papers</span>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">my Google Scholar profile</a></u>.
 
-<p class="profile-proof">As of July 2026, the publication record includes <strong>71 main-track papers</strong> across CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ACL, EMNLP, KDD, WWW, and ACM Multimedia. Of these, <strong>50 papers</strong> appeared at the six flagship ML/CV conferences: CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR. Findings and workshops are listed below but excluded from both counts.</p>
+<p class="profile-proof">As of July 2026, the publication record includes <strong>71 main-track papers</strong> across CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ACL, EMNLP, KDD, WWW, and ACM Multimedia. Findings and workshops are listed below but excluded from this count.</p>
 
 ---
 
