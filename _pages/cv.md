@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-description: "Curriculum Vitae of Xiangxiang Chu — Senior Director at Alibaba AMAP, Tsinghua M.S., and author of 120+ research papers and preprints."
+description: "Curriculum Vitae of Xiangxiang Chu — Senior Director at Alibaba AMAP, Tsinghua M.S., and author of 120+ research papers and preprints, including 70+ main-track papers at top-tier AI conferences."
 redirect_from:
   - /resume
 ---
@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="vision-statement" markdown="1">
-I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AMAP products serving **300M+ users every day**. I have authored **120+ research papers and preprints**, including publications at top venues, with **15,000+ citations (6,000+ from first-authored works)** across open-source projects.
+I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AMAP products serving **300M+ users every day**. I have authored **120+ research papers and preprints**, including **70+ main-track papers at top-tier AI conferences** and **50 papers at CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR**, with **15,000+ citations (6,000+ from first-authored works)** across open-source projects.
 </div>
 
 <div class="stats-grid">
@@ -60,7 +60,7 @@ Professional Experience
 
 Leading a 100+ member product-facing AI team across spatial intelligence, generative intelligence, reasoning agents, world models, foundation architectures, and multimodal understanding.
 
-- Published **50+ papers** at top venues (ICLR, CVPR, ICML, ACL, KDD, ICCV, ECCV, NeurIPS, AAAI, EMNLP, SIGGRAPH) and open-sourced **30+ AMAP-ML projects**
+- Led AMAP-ML research resulting in **50+ team papers** at top venues (ICLR, CVPR, ICML, ACL, KDD, ICCV, ECCV, NeurIPS, AAAI, EMNLP, SIGGRAPH) and **30+ open-source projects**
 - Key first-author works: GPG (ICLR 2026, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV 2025); key team works: SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
 - Multimodal technology supports AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent work contributes to **AI Companion (AI 伴行)** — alongside AMAP products serving 300M+ users every day
 

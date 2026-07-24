@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-description: "Publication list of Xiangxiang Chu — 120+ research papers and preprints spanning vision transformers, LLM reasoning, generative AI, spatial intelligence, and neural architecture search."
+description: "Publication list of Xiangxiang Chu — 120+ research papers and preprints, including 70+ main-track papers at top-tier AI conferences."
 ---
 
 {% include base_path %}
@@ -26,8 +26,8 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
     <span class="proof-item__label">citations from first-authored works</span>
   </div>
   <div class="proof-item">
-    <span class="proof-item__number">30+</span>
-    <span class="proof-item__label">open-source AMAP-ML projects</span>
+    <span class="proof-item__number">70+</span>
+    <span class="proof-item__label">main-track top-conference papers</span>
   </div>
 </div>
 
@@ -42,6 +42,8 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
 </div>
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">my Google Scholar profile</a></u>.
+
+<p class="profile-proof">As of July 2026, the publication record includes <strong>71 main-track papers</strong> across CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ACL, EMNLP, KDD, WWW, and ACM Multimedia. Of these, <strong>50 papers</strong> appeared at the six flagship ML/CV conferences: CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR. Findings and workshops are listed below but excluded from both counts.</p>
 
 ---
 
@@ -142,6 +144,8 @@ Representative Works
 First-Author Papers
 ======
 
+This section includes first-author papers and papers formally designated as equal contribution.
+
 <ol>
   <li><a href="https://arxiv.org/abs/2504.02546">GPG: A simple and strong reinforcement learning baseline for model reasoning</a>, <strong>ICLR 2026</strong> <a href="https://github.com/AMAP-ML/GPG">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2503.06132">USP: Unified self-supervised pretraining for image generation and understanding</a>, <strong>ICCV 2025</strong> <a href="https://github.com/AMAP-ML/USP">[code]</a></li>
@@ -150,7 +154,7 @@ First-Author Papers
   <li><a href="https://arxiv.org/abs/2312.16886">MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices</a> <a href="https://github.com/Meituan-AutoML/MobileVLM">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2212.01593">Make RepVGG Greater Again: A Quantization-aware Approach</a>, <strong>AAAI 2024</strong> <a href="https://github.com/cxxgtxy/QARepVGG">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2102.10882">Conditional Positional Encodings for Vision Transformers</a>, <strong>ICLR 2023</strong> <a href="https://github.com/Meituan-AutoML/CPVT">[code]</a></li>
-  <li><a href="https://arxiv.org/abs/2011.11233">ROME: Robustifying memory-efficient NAS via topology disentanglement and gradients accumulation</a>, <strong>ICCV 2023</strong></li>
+  <li><a href="https://arxiv.org/abs/2011.11233">ROME: Robustifying memory-efficient NAS via topology disentanglement and gradients accumulation</a>, <strong>ICCV 2023 · Co-First Author</strong></li>
   <li><a href="https://arxiv.org/abs/2001.05887">MixPATH: A unified approach for one-shot neural architecture search</a>, <strong>ICCV 2023</strong> <a href="https://github.com/xiaomi-automl/MixPath">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2011.13356">A Unified Mixture-View Framework for Unsupervised Representation Learning</a>, <strong>BMVC 2022</strong></li>
   <li><a href="https://arxiv.org/abs/2104.13840">Twins: Revisiting the design of spatial attention in vision transformers</a>, <strong>NeurIPS 2021</strong> <a href="https://github.com/Meituan-AutoML/Twins">[code]</a></li>
@@ -176,11 +180,11 @@ Collaborative Papers
 
 <ol>
   <li><a href="https://arxiv.org/abs/2605.15803">E<sup>2</sup>PO: Embedding-perturbed Exploration Preference Optimization for Flow Models</a>, <strong>ICML 2026</strong></li>
-  <li>MAR-GRPO: Stabilized GRPO for AR-Diffusion Hybrid Image Generation</li>
-  <li>ConceptWeaver: Weaving Disentangled Concepts with Flow</li>
+  <li>MAR-GRPO: Stabilized GRPO for AR-Diffusion Hybrid Image Generation, <strong>ACM MM 2026</strong></li>
+  <li>ConceptWeaver: Weaving Disentangled Concepts with Flow, <strong>ECCV 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2604.16044">Elucidating the SNR-t Bias of Diffusion Probabilistic Models</a>, <strong>CVPR 2026</strong> <a href="https://github.com/AMAP-ML/DCW">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2603.05769">Layer-wise Instance Binding for Regional and Occlusion Control in Text-to-Image Diffusion Transformers</a>, <strong>CVPR 2026</strong></li>
-  <li><a href="https://arxiv.org/abs/2603.03143">Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</a> <a href="https://github.com/AMAP-ML/RL3DEdit">[code]</a></li>
+  <li><a href="https://arxiv.org/abs/2603.03143">Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing</a>, <strong>ECCV 2026</strong> <a href="https://github.com/AMAP-ML/RL3DEdit">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2603.00141">From Scale to Speed: Adaptive Test-Time Scaling for Image Editing</a>, <strong>CVPR 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2512.24146">Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning</a>, <strong>CVPR 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2509.04338">From editor to dense geometry estimator</a>, <strong>CVPR 2026</strong> <a href="https://github.com/AMAP-ML/FE2E">[code]</a></li>
@@ -198,9 +202,12 @@ Collaborative Papers
 
 <ol>
   <li><a href="https://arxiv.org/abs/2605.18233">MIGA: Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos</a>, <strong>ICML 2026</strong></li>
+  <li>Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption, <strong>ECCV 2026</strong></li>
+  <li>OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data, <strong>ECCV 2026</strong></li>
+  <li>Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment, <strong>ACM MM 2026</strong></li>
   <li>Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models</li>
   <li><a href="https://arxiv.org/abs/2603.14935">Video-CoE: Reinforcing Video Event Prediction via Chain of Events</a>, <strong>CVPR 2026</strong></li>
-  <li><a href="https://arxiv.org/abs/2512.24271">Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation</a></li>
+  <li><a href="https://arxiv.org/abs/2512.24271">Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation</a>, <strong>CVPR 2026 Findings</strong></li>
   <li><a href="https://arxiv.org/abs/2511.18957">Eevee: Towards Close-up High-resolution Video-based Virtual Try-on</a>, <strong>CVPR 2026 Findings</strong> <a href="https://github.com/AMAP-ML/Eevee">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2510.14847">ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints</a>, <strong>AAAI 2026</strong> <a href="https://github.com/AMAP-ML/ImagerySearch">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2510.08480">Video-star: Reinforcing open-vocabulary action recognition with tools</a>, <strong>ICLR 2026</strong></li>
@@ -236,8 +243,11 @@ Collaborative Papers
 
 <ol>
   <li><a href="https://arxiv.org/abs/2601.21406">UniMRG: Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation</a>, <strong>ICML 2026</strong></li>
+  <li>Towards High-Resolution Visual Perception via Hierarchical Entity Exploration, <strong>ECCV 2026</strong></li>
   <li>Visual Enhanced Depth Scaling for Multimodal Latent Reasoning</li>
   <li><a href="https://arxiv.org/abs/2604.17295">LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics</a>, <strong>ACL 2026</strong></li>
+  <li>L2Dir: Integrating L2-Norm and Directional Alignment for Unsupervised Contrastive Representation Learning in Multimodal Retrieval, <strong>ACL 2026</strong></li>
+  <li>Beyond Query Bias: Candidate-Aware Iterative Refinement for Zero-Shot Composed Image Retrieval, <strong>ACL 2026 Findings</strong></li>
   <li><a href="https://arxiv.org/abs/2602.11499">What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation</a></li>
   <li><a href="https://arxiv.org/abs/2604.09349">Visually-Guided Policy Optimization for Multimodal Reasoning</a>, <strong>ACL 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2403.04343">Adaptive Task Balancing for Visual Instruction Tuning via Inter-Task Contribution and Intra-Task Difficulty</a>, <strong>WWW 2026</strong></li>

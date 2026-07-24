@@ -3,8 +3,8 @@ permalink: /
 title: "Xiangxiang Chu (初祥祥)"
 seo_title: "Xiangxiang Chu (初祥祥) - AMAP-ML, Spatial & Generative Intelligence"
 og_title: "Xiangxiang Chu (初祥祥) - AMAP-ML"
-excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 15,000+ citations, 120+ publications, and AMAP products serving 300M+ users every day."
-description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 15,000+ citations, 120+ publications, and AMAP products serving 300M+ users every day."
+excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 15,000+ citations, 120+ publications, including 70+ main-track papers at top-tier AI conferences."
+description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 15,000+ citations, 120+ publications, including 70+ main-track papers at top-tier AI conferences."
 og_image: "og-card.png"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ redirect_from:
 <p class="profile-subtitle">Senior Director & Head of AMAP-ML, Alibaba Group</p>
 
 <div class="vision-statement" markdown="1">
-I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team working on **spatial intelligence**, **generative intelligence**, **reasoning agents**, and **world models** for AMAP products serving **300M+ users every day**.
+I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team working on **spatial intelligence**, **generative intelligence**, **reasoning agents**, and **world models** for AMAP products serving **300M+ users every day**. Across my research career, I have published **70+ main-track papers at top-tier AI conferences**, including **50 papers at CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR**.
 </div>
 
 <div class="profile-actions">
@@ -37,8 +37,8 @@ I build foundation AI systems that move from original research to reproducible o
     <span class="stat-label">As First Author</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">120+</span>
-    <span class="stat-label">Publications</span>
+    <span class="stat-number">70+</span>
+    <span class="stat-label">Top-Conference Papers</span>
   </div>
   <div class="stat-item">
     <span class="stat-number">300M+</span>
@@ -46,7 +46,7 @@ I build foundation AI systems that move from original research to reproducible o
   </div>
 </div>
 
-<p class="profile-proof">Citation metrics verified July 2026 · Source: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
+<p class="profile-proof">Citation and publication metrics verified July 2026 · Source: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>. Top-conference count covers main-track papers and excludes Findings and workshops.</p>
 
 ---
 
