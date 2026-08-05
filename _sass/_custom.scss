@@ -7,6 +7,11 @@
   animation-delay: 0s;
 }
 
+.masthead .greedy-nav a {
+  margin-left: 0.75rem;
+  margin-right: 0.75rem;
+}
+
 .profile-subtitle {
   margin: -0.4em 0 1em;
   font-size: 1.08em;
@@ -166,6 +171,14 @@
     @include breakpoint(max-width $large) {
       grid-template-columns: repeat(2, 1fr);
     }
+
+    @include breakpoint(max-width $medium) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &--2col {
+    grid-template-columns: repeat(2, 1fr);
 
     @include breakpoint(max-width $medium) {
       grid-template-columns: 1fr;

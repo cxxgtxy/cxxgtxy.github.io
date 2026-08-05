@@ -3,13 +3,13 @@ layout: archive
 title: "News"
 permalink: /news/
 author_profile: true
-description: "Recent updates from Xiangxiang Chu and AMAP-ML, including papers, open-source releases, media coverage, and team opportunities."
+description: "Recent updates from Xiangxiang Chu and DreamX, including papers, open-source releases, product-facing AI systems, and team opportunities."
 ---
 
 {% include base_path %}
 
 <div class="news-lead">
-  <p>Recent updates from my research, open-source work, and AMAP-ML team. I use this page as a lightweight activity log that connects papers, released code, product-facing AI systems, and hiring signals back to the broader <a href="https://github.com/AMAP-ML">AMAP-ML GitHub organization</a>.</p>
+  <p>Recent updates from my research, open-source work, and the DreamX team. This activity log connects papers, released code, product-facing AI systems, and hiring signals to DreamX's broader spatial-intelligence mission. Public releases remain available through the <a href="https://github.com/AMAP-ML">AMAP-ML GitHub organization</a>.</p>
 </div>
 
 <div class="impact-strip">
@@ -19,7 +19,7 @@ description: "Recent updates from Xiangxiang Chu and AMAP-ML, including papers, 
   </div>
   <div>
     <span class="impact-strip__label">Open releases</span>
-    <strong>30+ reproducible AMAP-ML projects</strong>
+    <strong>30+ reproducible DreamX projects</strong>
   </div>
   <div>
     <span class="impact-strip__label">Product reach</span>
@@ -27,12 +27,12 @@ description: "Recent updates from Xiangxiang Chu and AMAP-ML, including papers, 
   </div>
 </div>
 
-Latest AMAP-ML Updates
+Latest DreamX Updates
 ------
 
-These items are curated from recent AMAP-ML releases and paper/project updates, with the newest and most product-relevant signals first.
+These items are curated from recent DreamX releases and paper/project updates, with the newest and most product-relevant signals first.
 
-- **2026.06.18** — AMAP-ML had **five papers accepted to ECCV 2026**, adding another strong top-venue signal to the team's recent research portfolio.
+- **2026.06.18** — DreamX had **five papers accepted to ECCV 2026**, adding another strong top-venue signal to the team's recent research portfolio.
 - **2026.06.15** — [DreamX-World 1.0](https://arxiv.org/abs/2606.16993) released its technical report and open-sourced a 5B model supporting **one-minute interactive world generation**. [code](https://github.com/AMAP-ML/DreamX-World)
 - **2026.05.18** — [MobilityBench](https://github.com/AMAP-ML/MobilityBench) accepted as an **oral paper at KDD 2026**, providing a scalable benchmark for route-planning agents in real-world mobility scenarios.
 - **2026.05.12** — [CoEvolve](https://github.com/AMAP-ML/CoEvolve) accepted to **ACL 2026**, training LLM agents through agent-data mutual evolution.
@@ -51,7 +51,7 @@ These items are curated from recent AMAP-ML releases and paper/project updates, 
 Selected GitHub Portfolio
 ------
 
-The AMAP-ML GitHub organization is the best place to follow the full project portfolio. It organizes our work around **spatial intelligence**, **generative intelligence**, **reasoning agents**, **world models**, **multimodal AI**, and **foundation architectures**. Selected flagship releases:
+The [AMAP-ML GitHub organization](https://github.com/AMAP-ML) hosts the DreamX open-source portfolio. The work is organized around three core problems — **understand and predict**, **generate and simulate**, and **plan and act** — supported by a shared foundation of spatial data, multimodal models, reinforcement learning, infrastructure, and evaluation. Selected flagship releases:
 
 <div class="project-grid">
   <div class="project-card">
@@ -102,7 +102,7 @@ The AMAP-ML GitHub organization is the best place to follow the full project por
 ------
 
 - **USP accepted to ICCV 2025**, proposing unified self-supervised pretraining for image generation and understanding. [paper](https://arxiv.org/abs/2503.06132) · [code](https://github.com/AMAP-ML/USP)
-- **AMAP-ML continued hiring** for interns, full-time researchers, and AI engineers in LLM agents, reinforcement learning, world models, multimodal learning, spatial intelligence, and generative AI. [team](/team/#join-us)
+- **DreamX continued hiring** for interns, full-time researchers, and AI engineers in spatial intelligence, LLM agents, reinforcement learning, world models, multimodal learning, embodied AI, recommendation, and generative AI. [team](/team/#join-us)
 
 ---
 

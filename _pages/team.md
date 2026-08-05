@@ -1,20 +1,20 @@
 ---
 layout: archive
-title: "Team"
+title: "DreamX"
 permalink: /team/
 author_profile: true
-description: "AMAP-ML team at Alibaba Group — 100+ members working on spatial intelligence, generative AI, world models, LLM reasoning agents, and multimodal AI."
+description: "DreamX at Alibaba AMAP — a 100+ member AI team building spatial intelligence models and systems."
 ---
 
 {% include base_path %}
 
-AMAP-ML: Foundation AI for Spatial and Generative Intelligence
+DreamX: AMAP Spatial Intelligence Models and Systems
 ======
 
-I lead AMAP-ML at Alibaba Group, a 100+ member product-facing AI team building foundation systems for Alibaba AMAP's mapping, mobility, local-service, content, and interactive AI scenarios.
+I lead **DreamX** at Alibaba Group, a 100+ member product-facing AI team building spatial intelligence models and systems for AMAP's mapping, mobility, local-service, content, interactive-world, and embodied-AI scenarios.
 
 <div class="vision-statement" markdown="1">
-**Our mission:** Build foundation AI for spatial intelligence and generative intelligence. We connect academic rigor, open-source reproducibility, engineering discipline, and real-world product deployment.
+**One mission: Spatial Intelligence.** We build systems that understand and predict, generate and simulate, plan and act in the real world. DreamX connects academic rigor, open-source reproducibility, engineering discipline, and real-world product deployment.
 </div>
 
 <div class="proof-grid">
@@ -24,11 +24,11 @@ I lead AMAP-ML at Alibaba Group, a 100+ member product-facing AI team building f
   </div>
   <div class="proof-item">
     <span class="proof-item__number">30+</span>
-    <span class="proof-item__label">open-source AMAP-ML projects</span>
+    <span class="proof-item__label">open-source DreamX projects</span>
   </div>
   <div class="proof-item">
     <span class="proof-item__number">50+</span>
-    <span class="proof-item__label">recent top-venue papers from AMAP-ML</span>
+    <span class="proof-item__label">recent top-venue papers from DreamX</span>
   </div>
   <div class="proof-item">
     <span class="proof-item__number">300M+</span>
@@ -38,48 +38,35 @@ I lead AMAP-ML at Alibaba Group, a 100+ member product-facing AI team building f
 
 ---
 
-Product Anchors
+DreamX System Map
 ======
 
-<div class="project-grid">
-  <div class="project-card">
-    <span class="project-card__tag project-card__tag--detection">Spatial AI</span>
-    <div class="project-card__title">Spatial Intelligence</div>
-    <div class="project-card__desc">Agents and models that understand, reason, plan, and act in real-world map, mobility, urban, autonomous-driving, and local-service scenarios.</div>
-    <div class="project-card__meta">MobilityBench · Thinking-with-Map · AutoDrive-R2 · SpatialGenEval · DSFNet</div>
-  </div>
-  <div class="project-card">
-    <span class="project-card__tag project-card__tag--gen">Generative AI</span>
-    <div class="project-card__title">Generative Intelligence</div>
-    <div class="project-card__desc">AIGC systems that create, edit, evaluate, and control visual assets, videos, 3D scenes, media content, and interactive experiences.</div>
-    <div class="project-card__meta">FluxText · DCW · S2-Guidance · Eevee · RL3DEdit · Omni-Effects</div>
-  </div>
-  <div class="project-card">
-    <span class="project-card__tag project-card__tag--llm">Core AI</span>
-    <div class="project-card__title">Reasoning Agents & World Models</div>
-    <div class="project-card__desc">Reinforcement learning, tool use, skill evolution, interactive simulation, GUI world models, and benchmarks for dynamic response capabilities.</div>
-    <div class="project-card__meta">SkillClaw · GPG · Tree-GRPO · CoEvolve · DreamX-World · Code2World</div>
-  </div>
-</div>
+DreamX turns the spatial-intelligence mission into six connected model and system families — **DreamX-Predictor**, **DreamX-World**, **DreamX-Agent**, **DreamX-Phi**, **DreamX-REC**, and **DreamX-Creator** — supported by one shared foundation.
 
-<div class="project-grid">
+<div class="project-grid project-grid--2col">
   <div class="project-card">
-    <span class="project-card__tag project-card__tag--vlm">Multimodal</span>
-    <div class="project-card__title">Multimodal Understanding</div>
-    <div class="project-card__desc">Vision-language reasoning, visual policy optimization, spatial intelligence evaluation, image quality assessment, and multimodal in-context learning.</div>
-    <div class="project-card__meta">UniVG-R1 · RealQA · SpatialGenEval · Q-Hawkeye · STV</div>
+    <span class="project-card__tag project-card__tag--detection">Predictor · REC</span>
+    <div class="project-card__title">Understand & Predict</div>
+    <div class="project-card__desc">Connect maps, vision, language, mobility, urban scenes, user intent, and product signals to understand spatial context and forecast how the world evolves.</div>
+    <div class="project-card__meta">MobilityBench · Thinking-with-Map · DSFNet · IntTravel</div>
   </div>
   <div class="project-card">
-    <span class="project-card__tag project-card__tag--arch">Architecture</span>
-    <div class="project-card__title">Foundation Architectures</div>
-    <div class="project-card__desc">Efficient attention, unified pretraining for generation and understanding, end-to-end pixel generation, and diffusion language models.</div>
-    <div class="project-card__meta">FASA · USP · EPG · SCALAR · AR-MAP</div>
+    <span class="project-card__tag project-card__tag--gen">World · Creator</span>
+    <div class="project-card__title">Generate & Simulate</div>
+    <div class="project-card__desc">Create and simulate map-native assets, media, 3D scenes, digital content, and persistent interactive worlds with control and spatial consistency.</div>
+    <div class="project-card__meta">DreamX-World · Code2World · FluxText · RL3DEdit</div>
   </div>
   <div class="project-card">
-    <span class="project-card__tag project-card__tag--detection">Perception</span>
-    <div class="project-card__title">Perception & Deployment</div>
-    <div class="project-card__desc">Object detection, semantic segmentation, 3D perception, and open-vocabulary perception for real-world AI deployment.</div>
-    <div class="project-card__meta">YOLOv6 · UPRE · PLUG · SCTNet · AeDet</div>
+    <span class="project-card__tag project-card__tag--llm">Agent · Phi</span>
+    <div class="project-card__title">Plan & Act</div>
+    <div class="project-card__desc">Build agents and decision systems that reason, use tools, plan, self-reflect, and turn human goals into digital and physical actions.</div>
+    <div class="project-card__meta">SkillClaw · AutoDrive-R2 · GPG · Tree-GRPO · CoEvolve</div>
+  </div>
+  <div class="project-card">
+    <span class="project-card__tag project-card__tag--arch">Shared Foundation</span>
+    <div class="project-card__title">Models, Data & Evaluation</div>
+    <div class="project-card__desc">Spatial data and knowledge, multimodal models, world modeling, reinforcement learning, generative modeling, infrastructure, and rigorous evaluation.</div>
+    <div class="project-card__meta">SpatialGenEval · Omni-WorldBench · FASA · USP · RealQA</div>
   </div>
 </div>
 
@@ -88,7 +75,7 @@ Product Anchors
 Open Source
 ======
 
-Our work is available on GitHub at [**AMAP-ML**](https://github.com/AMAP-ML), with 30+ active projects and 10,000+ cumulative stars across AMAP-ML and earlier open-source releases including YOLOv6 and MobileVLM.
+DreamX open-source releases are hosted in the [**AMAP-ML GitHub organization**](https://github.com/AMAP-ML). The organization name preserves the established URL, while DreamX is the public team and portfolio brand. Together with earlier releases including YOLOv6 and MobileVLM, the work has accumulated 10,000+ GitHub stars.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
@@ -105,7 +92,7 @@ Our work is available on GitHub at [**AMAP-ML**](https://github.com/AMAP-ML), wi
 
 <span id="join-us"></span>
 
-Join AMAP-ML
+Join DreamX
 ======
 
 <div class="team-section" markdown="1">
@@ -113,14 +100,14 @@ Join AMAP-ML
 We are looking for talented **interns, full-time researchers, and AI engineers** who want to build research-grade AI systems grounded in real map, mobility, local-service, and interactive AI scenarios.
 
 <div class="direction-tags">
+  <span>Spatial intelligence</span>
   <span>LLM agents</span>
   <span>Reinforcement learning</span>
   <span>World models</span>
-  <span>Multimodal reasoning</span>
-  <span>Spatial intelligence</span>
+  <span>Multimodal learning</span>
+  <span>Embodied AI</span>
+  <span>Recommendation</span>
   <span>Generative AI</span>
-  <span>Foundation architectures</span>
-  <span>Efficient deployment</span>
 </div>
 
 <div class="team-section__grid">
@@ -149,9 +136,9 @@ We are looking for talented **interns, full-time researchers, and AI engineers**
 
 <div class="contact-card" markdown="1">
 
-**Interested?** Send your CV, representative publications or projects, and the direction you want to work on to [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com?subject=AMAP-ML%20Application).
+**Interested?** Send your CV, representative publications or projects, and the direction you want to work on to [cxxgtxy@gmail.com](mailto:cxxgtxy@gmail.com?subject=DreamX%20Application).
 
-Recommended subject: **AMAP-ML Application - Your Name - Direction**.
+Recommended subject: **DreamX Application - Your Name - Direction**.
 
 </div>
 

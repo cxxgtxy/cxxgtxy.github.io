@@ -1,30 +1,30 @@
 ---
 permalink: /
 title: "Xiangxiang Chu (初祥祥)"
-seo_title: "Xiangxiang Chu (初祥祥) - AMAP-ML, Spatial & Generative Intelligence"
-og_title: "Xiangxiang Chu (初祥祥) - AMAP-ML"
-excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 15,000+ citations, 120+ publications, including 70+ papers at top-tier AI conferences."
-description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of AMAP-ML. Building foundation AI for spatial intelligence, generative intelligence, reasoning agents, and world models. 15,000+ citations, 120+ publications, including 70+ papers at top-tier AI conferences."
-og_image: "og-card.png"
+seo_title: "Xiangxiang Chu (初祥祥) - DreamX, AMAP Spatial Intelligence"
+og_title: "Xiangxiang Chu (初祥祥) - Head of DreamX"
+excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 15,000+ citations, 120+ publications, including 70+ papers at top-tier AI conferences."
+description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 15,000+ citations, 120+ publications, including 70+ papers at top-tier AI conferences."
+og_image: "og-card-dreamx.png"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p class="profile-subtitle">Senior Director & Head of AMAP-ML, Alibaba Group</p>
+<p class="profile-subtitle">Senior Director & Head of DreamX, Alibaba Group</p>
 
 <div class="vision-statement" markdown="1">
-I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **AMAP-ML** at Alibaba AMAP, a 100+ member product-facing AI team working on **spatial intelligence**, **generative intelligence**, **reasoning agents**, and **world models** for AMAP products serving **300M+ users every day**. Across my research career, I have published **70+ papers at top-tier AI conferences**.
+I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **DreamX** at Alibaba AMAP, a 100+ member product-facing AI team building **spatial intelligence models and systems** that understand and predict, generate and simulate, plan and act in the real world. Our work is grounded in AMAP products serving **300M+ users every day**. Across my research career, I have published **70+ papers at top-tier AI conferences**.
 </div>
 
 <div class="profile-actions">
   <a class="profile-action" href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>
-  <a class="profile-action" href="https://github.com/AMAP-ML">AMAP-ML GitHub</a>
+  <a class="profile-action" href="https://github.com/AMAP-ML">DreamX GitHub</a>
   <a class="profile-action" href="https://x.com/cxx1353574">X / Twitter</a>
   <a class="profile-action" href="https://xhslink.com/m/3GsP5VoeLzC">Xiaohongshu</a>
   <a class="profile-action" href="/publications/">Publications</a>
-  <a class="profile-action profile-action--primary" href="/team/#join-us">Join AMAP-ML</a>
+  <a class="profile-action profile-action--primary" href="/team/#join-us">Join DreamX</a>
 </div>
 
 <div class="stats-grid">
@@ -56,7 +56,7 @@ Recent Updates
 <div class="updates-list">
   <div class="update-item">
     <span class="update-item__date">2026.06.18</span>
-    <span class="update-item__text">AMAP-ML had five papers accepted to ECCV 2026, adding another strong top-venue signal to the team's recent research portfolio.</span>
+    <span class="update-item__text">DreamX had five papers accepted to ECCV 2026, adding another strong top-venue signal to the team's recent research portfolio.</span>
   </div>
   <div class="update-item">
     <span class="update-item__date">2026.06.15</span>
@@ -72,7 +72,7 @@ Recent Updates
   </div>
   <div class="update-item">
     <span class="update-item__date">2026.05.01</span>
-    <span class="update-item__text">AMAP-ML added four ICML 2026 papers across unified multimodal generation, data-efficient RL, long-video generation, and preference optimization.</span>
+    <span class="update-item__text">DreamX added four ICML 2026 papers across unified multimodal generation, data-efficient RL, long-video generation, and preference optimization.</span>
   </div>
 </div>
 
@@ -97,14 +97,14 @@ Featured Projects
     <span class="project-card__tag project-card__tag--gen">World Model</span>
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
     <div class="project-card__desc">A general-purpose interactive world model that creates diverse, high-fidelity virtual environments with camera-controlled navigation and prompt-driven world events.</div>
-    <div class="project-card__meta">AMAP-ML · 2026 · <a href="https://github.com/AMAP-ML/DreamX-World"><img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"></a></div>
-    <div class="project-card__links"><a href="https://arxiv.org/abs/2606.16993">tech report</a><a href="https://github.com/AMAP-ML/DreamX-World">code</a><a href="https://github.com/AMAP-ML">AMAP-ML</a></div>
+    <div class="project-card__meta">DreamX · 2026 · <a href="https://github.com/AMAP-ML/DreamX-World"><img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__links"><a href="https://arxiv.org/abs/2606.16993">tech report</a><a href="https://github.com/AMAP-ML/DreamX-World">code</a><a href="https://github.com/AMAP-ML">DreamX</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Spatial AI</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2602.22638">MobilityBench</a></div>
     <div class="project-card__desc">A scalable benchmark for evaluating route-planning agents in real-world mobility scenarios, connecting agent research with AMAP's spatial intelligence anchor.</div>
-    <div class="project-card__meta">KDD 2026 Oral · AMAP-ML · <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></div>
+    <div class="project-card__meta">KDD 2026 Oral · DreamX · <a href="https://github.com/AMAP-ML/MobilityBench"><img src="https://img.shields.io/github/stars/AMAP-ML/MobilityBench?style=social" alt="GitHub stars"></a></div>
     <div class="project-card__links"><a href="https://arxiv.org/abs/2602.22638">paper</a><a href="https://github.com/AMAP-ML/MobilityBench">code</a></div>
   </div>
   <div class="project-card">
@@ -112,7 +112,7 @@ Featured Projects
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
     <div class="project-card__desc">Agentic skill evolution from real interaction traces, turning reusable skills into collective libraries across sessions, devices, and agents.</div>
     <div class="project-card__meta"><a href="https://github.com/AMAP-ML/SkillClaw"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a></div>
-    <div class="project-card__links"><a href="https://github.com/AMAP-ML/SkillClaw">code</a><a href="https://github.com/AMAP-ML">AMAP-ML</a></div>
+    <div class="project-card__links"><a href="https://github.com/AMAP-ML/SkillClaw">code</a><a href="https://github.com/AMAP-ML">DreamX</a></div>
   </div>
 </div>
 
@@ -153,8 +153,8 @@ Research Journey
 <div class="journey-timeline">
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
-    <div class="journey-item__title">Spatial Intelligence, Generative Intelligence, Reasoning Agents & World Models</div>
-    <div class="journey-item__desc">Leading a 100+ member product-facing AI team across two AMAP product anchors: spatial intelligence and generative intelligence. The technical stack spans LLM reasoning (GPG — adopted by ByteDance's VERL, Tree-GRPO, CoEvolve), world models (DreamX-World, Code2World), AI agents (SkillClaw), generative AI (DCW, S2-Guidance, FluxText), multimodal understanding, and intelligent mobility (MobilityBench, GenMRP). Several research lines connect to production systems: multimodal technology supports the Saojie Bang (扫街榜) pipeline; large-scale industrial Agent work contributes to AMAP's AI Companion (AI 伴行) — alongside AMAP products serving 300M+ users every day. Published 50+ papers at top venues; open-sourced 30+ AMAP-ML projects.</div>
+    <div class="journey-item__title">DreamX: Spatial Intelligence Models & Systems</div>
+    <div class="journey-item__desc">Leading DreamX, a 100+ member product-facing AI team organized around one mission: spatial intelligence. The portfolio connects three core problems — understanding and predicting the world, generating and simulating the world, and planning and acting in the world — with shared foundations in spatial data, multimodal models, reinforcement learning, infrastructure, and evaluation. Representative systems include MobilityBench, DreamX-World, SkillClaw, GPG, Tree-GRPO, and Code2World. Research also connects to AMAP's Saojie Bang (扫街榜) pipeline and AI Companion (AI 伴行), alongside products serving 300M+ users every day. Published 50+ papers at top venues and open-sourced 30+ projects.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>
@@ -192,26 +192,22 @@ Recognition
 
 ---
 
-Core Technical Directions
+DreamX Technical System
 ------
 
 <div class="two-col">
 <div markdown="1">
 
-**Spatial Intelligence** — Route-planning agents (MobilityBench), map-augmented geolocalization (Thinking-with-Map), autonomous-driving VLA reasoning (AutoDrive-R2), urban scene understanding, and industrial mobility systems
+**Understand & Predict the World** — Route-planning agents (MobilityBench), map-augmented geolocalization (Thinking-with-Map), urban scene understanding, mobility forecasting, recommendation, and industrial map systems
 
-**Generative Intelligence** — Scene-text editing (FluxText), diffusion-model optimization (DCW, S2-Guidance), video virtual try-on (Eevee), 3D editing (RL3DEdit), and controllable visual effects (Omni-Effects)
+**Generate & Simulate the World** — Interactive world simulation (DreamX-World), GUI world models (Code2World), scene-text editing (FluxText), 3D editing (RL3DEdit), and controllable spatial content
 
-**Reasoning Agents** — Reinforcement learning for LLM reasoning (GPG, MathForge), tree-search agent training (Tree-GRPO), agent-data co-evolution (CoEvolve), and collective skill evolution (SkillClaw)
+**Plan & Act in the World** — Agent skill evolution (SkillClaw), reasoning and self-reflection for physical action (AutoDrive-R2), LLM reasoning (GPG), tree-search training (Tree-GRPO), and agent-data co-evolution (CoEvolve)
 
 </div>
 <div markdown="1">
 
-**World Models & Interactive AI** — Interactive world simulation (DreamX-World), GUI world models (Code2World), and benchmarks for dynamic 4D response capabilities (Omni-WorldBench)
-
-**Multimodal Understanding** — Vision-language reasoning, visual policy optimization, spatial intelligence evaluation (SpatialGenEval), multimodal in-context learning (STV)
-
-**Foundation Architectures** — Frequency-aware sparse attention (FASA), unified pretraining for generation and understanding (USP), end-to-end pixel generation without VAE (EPG), and diffusion LLMs (AR-MAP)
+**Shared Foundation** — Spatial data and knowledge, multimodal foundation models, reinforcement learning, generative modeling, infrastructure, and evaluation across projects including SpatialGenEval, Omni-WorldBench, FASA, USP, and RealQA
 
 </div>
 </div>
@@ -223,7 +219,7 @@ Team & Opportunities
 
 <div class="team-section" markdown="1">
 
-I lead the AMAP-ML team at Alibaba Group, a 100+ member product-facing AI team with strong research and engineering backgrounds across foundation models, agents, multimodal learning, spatial intelligence, and generative AI.
+I lead **DreamX** at Alibaba Group, a 100+ member product-facing AI team building AMAP's spatial intelligence models and systems. DreamX releases are hosted publicly through the [AMAP-ML GitHub organization](https://github.com/AMAP-ML).
 
 **Our philosophy**: We build systems where research quality, engineering discipline, open-source reproducibility, and product deployment reinforce each other. Many core projects ship with reproducible code, and our work contributes to AMAP products serving 300M+ users every day.
 
@@ -231,7 +227,7 @@ I lead the AMAP-ML team at Alibaba Group, a 100+ member product-facing AI team w
 <div class="team-section__item" markdown="1">
 
 #### Open Source
-We maintain [30+ projects on GitHub](https://github.com/AMAP-ML) spanning spatial intelligence, generative intelligence, reasoning agents, world models, and multimodal AI.
+We maintain [30+ DreamX projects on GitHub](https://github.com/AMAP-ML), organized around understanding and prediction, generation and simulation, planning and action, and a shared technical foundation.
 
 </div>
 <div class="team-section__item" markdown="1">

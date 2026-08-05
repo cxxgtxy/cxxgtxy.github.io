@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiangxiang Chu"
 title_separator          : "-"
 name                     : &name "Xiangxiang Chu"
-description              : &description "AI leader building foundation systems for spatial and generative intelligence at Alibaba AMAP"
+description              : &description "AI leader building DreamX, AMAP's spatial intelligence models and systems"
 url                      : https://cxxgtxy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cxxgtxy/cxxgtxy.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "og-card.png" # Open Graph/Twitter default site image
+og_image                 : "og-card-dreamx.png" # Open Graph/Twitter default site image
 logo                     : "site-logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Xiangxiang Chu（初祥祥）"
   avatar           : "profile.png"
-  bio              : "Head of AMAP-ML · Spatial & Generative AI · 15K citations (6K+ first-author)"
+  bio              : "Head of DreamX · Spatial Intelligence · 15K citations (6K+ first-author)"
   location         :
   employer         : "AMAP, Alibaba Group"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   facebook         :
   foursquare       :
   github           : "AMAP-ML"
-  github_label     : "AMAP-ML GitHub"
+  github_label     : "DreamX GitHub"
   google_plus      :
   keybase          :
   instagram        :

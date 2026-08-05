@@ -9,7 +9,7 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
 {% include base_path %}
 
 <div class="pub-lead">
-  <p>My publications follow a long arc from <strong>neural architecture search</strong> and <strong>efficient vision backbones</strong> to <strong>multimodal foundation models</strong>, <strong>LLM reasoning</strong>, <strong>world models</strong>, and <strong>spatial intelligence</strong>. Recent AMAP-ML work is designed to connect top-tier research, reproducible open source, and AMAP products serving <strong>300M+ users every day</strong>.</p>
+  <p>My publications follow a long arc from <strong>neural architecture search</strong> and <strong>efficient vision backbones</strong> to <strong>multimodal foundation models</strong>, <strong>LLM reasoning</strong>, <strong>world models</strong>, and <strong>spatial intelligence</strong>. Recent work from <strong>DreamX</strong> connects top-tier research and reproducible open source with AMAP products serving <strong>300M+ users every day</strong>.</p>
 </div>
 
 <div class="proof-grid proof-grid--compact">
@@ -122,20 +122,20 @@ Representative Works
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Spatial AI</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2602.22638">MobilityBench</a></div>
-    <div class="project-card__desc">A real-world benchmark for evaluating route-planning agents in mobility scenarios, anchoring AMAP-ML's spatial-intelligence research direction.</div>
+    <div class="project-card__desc">A real-world benchmark for evaluating route-planning agents in mobility scenarios, anchoring DreamX's understand-and-predict direction.</div>
     <div class="project-card__meta">KDD 2026 Oral · <a href="https://github.com/AMAP-ML/MobilityBench">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">World Models</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2606.16993">DreamX-World</a></div>
     <div class="project-card__desc">A general-purpose interactive world model with controllable camera navigation, prompt-driven world events, an open-source 5B model, and a technical report.</div>
-    <div class="project-card__meta">AMAP-ML · 2026 · <a href="https://arxiv.org/abs/2606.16993">tech report</a> · <a href="https://github.com/AMAP-ML/DreamX-World">code</a></div>
+    <div class="project-card__meta">DreamX · 2026 · <a href="https://arxiv.org/abs/2606.16993">tech report</a> · <a href="https://github.com/AMAP-ML/DreamX-World">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">Agents</span>
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/SkillClaw">SkillClaw</a></div>
     <div class="project-card__desc">An agentic skill-evolution system that turns real interaction traces into reusable skill libraries across sessions, devices, and agents.</div>
-    <div class="project-card__meta">AMAP-ML · <a href="https://github.com/AMAP-ML/SkillClaw">code</a></div>
+    <div class="project-card__meta">DreamX · <a href="https://github.com/AMAP-ML/SkillClaw">code</a></div>
   </div>
 </div>
 

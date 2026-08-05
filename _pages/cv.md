@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="vision-statement" markdown="1">
-I lead a 100+ member product-facing AI team at Alibaba AMAP, building foundation systems for **spatial intelligence** and **generative intelligence**. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AMAP products serving **300M+ users every day**. I have authored **120+ research papers and preprints**, including **70+ papers at top-tier AI conferences**, with **15,000+ citations (6,000+ from first-authored works)** across open-source projects.
+I lead **DreamX**, a 100+ member product-facing AI team at Alibaba AMAP building spatial intelligence models and systems that understand and predict, generate and simulate, plan and act in the real world. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AMAP products serving **300M+ users every day**. I have authored **120+ research papers and preprints**, including **70+ papers at top-tier AI conferences**, with **15,000+ citations (6,000+ from first-authored works)** across open-source projects.
 </div>
 
 <div class="stats-grid">
@@ -56,11 +56,11 @@ Professional Experience
   <span class="cv-entry__title">Alibaba Group — AMAP</span>
   <span class="cv-entry__period">Mar 2024 – Present</span>
 </div>
-<div class="cv-entry__role">Senior Director & Head of AMAP-ML</div>
+<div class="cv-entry__role">Senior Director & Head of DreamX</div>
 
-Leading a 100+ member product-facing AI team across spatial intelligence, generative intelligence, reasoning agents, world models, foundation architectures, and multimodal understanding.
+Leading AMAP's 100+ member spatial-intelligence team across understanding and prediction, generation and simulation, planning and action, and shared model, data, infrastructure, and evaluation foundations.
 
-- Led AMAP-ML research resulting in **50+ team papers** at top venues (ICLR, CVPR, ICML, ACL, KDD, ICCV, ECCV, NeurIPS, AAAI, EMNLP, SIGGRAPH) and **30+ open-source projects**
+- Led DreamX research resulting in **50+ team papers** at top venues (ICLR, CVPR, ICML, ACL, KDD, ICCV, ECCV, NeurIPS, AAAI, EMNLP, SIGGRAPH) and **30+ open-source projects** hosted through the [AMAP-ML GitHub organization](https://github.com/AMAP-ML)
 - Key first-author works: GPG (ICLR 2026, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV 2025); key team works: SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
 - Multimodal technology supports AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent work contributes to **AI Companion (AI 伴行)** — alongside AMAP products serving 300M+ users every day
 

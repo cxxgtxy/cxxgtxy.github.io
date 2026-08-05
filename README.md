@@ -1,6 +1,6 @@
 # Xiangxiang Chu Personal Website
 
-This repository hosts the GitHub Pages site for Xiangxiang Chu (初祥祥), including research profile, publications, CV, AMAP-ML team information, news, and media coverage.
+This repository hosts the GitHub Pages site for Xiangxiang Chu (初祥祥), including research profile, publications, CV, DreamX team information, news, and media coverage.
 
 The site is based on Jekyll and AcademicPages/Minimal Mistakes, with local content and styling customized for the current profile.
 

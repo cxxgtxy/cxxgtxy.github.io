@@ -3,17 +3,17 @@ layout: archive
 title: "Public Signals & Selected Coverage"
 permalink: /media/
 author_profile: true
-description: "Public research and open-source signals, plus selected media coverage around Xiangxiang Chu's work on AMAP-ML, YOLOv6, MobileVLM, Twins, FairNAS, and product-facing AI systems."
+description: "Public research and open-source signals, plus selected media coverage around Xiangxiang Chu's work on DreamX, YOLOv6, MobileVLM, Twins, FairNAS, and product-facing AI systems."
 ---
 
 {% include base_path %}
 
 <div class="news-lead">
-  <p>Selected public research and open-source signals, plus media reports around my work. These items follow the same research trajectory highlighted across this site: efficient AI systems, vision and multimodal foundation models, open-source industrial frameworks, and AMAP-ML's current work on product-facing intelligence.</p>
+  <p>Selected public research and open-source signals, plus media reports around my work. These items follow the same research trajectory highlighted across this site: efficient AI systems, vision and multimodal foundation models, open-source industrial frameworks, and DreamX's current work on spatial intelligence models and systems.</p>
 </div>
 
 <div class="research-map">
-  <a href="#public-amap-ml-signals">Public AMAP-ML Signals</a>
+  <a href="#public-dreamx-signals">Public DreamX Signals</a>
   <a href="#agent-systems">Agent Systems</a>
   <a href="#foundation-models--vision">Foundation Models & Vision</a>
   <a href="#object-detection">Object Detection</a>
@@ -22,14 +22,14 @@ description: "Public research and open-source signals, plus selected media cover
 
 ---
 
-Public AMAP-ML Signals
+Public DreamX Signals
 ======
 
-1. AMAP-ML ECCV 2026 acceptance wave
+1. DreamX ECCV 2026 acceptance wave
    > Five papers accepted to ECCV 2026, strengthening the team's recent top-venue portfolio across spatial, generative, and multimodal AI
 
-2. [AMAP-ML GitHub Organization](https://github.com/AMAP-ML)
-   > Open-source portfolio across spatial intelligence, generative AI, reasoning agents, world models, multimodal AI, and foundation architectures
+2. [DreamX on the AMAP-ML GitHub Organization](https://github.com/AMAP-ML)
+   > AMAP's unified spatial-intelligence team and portfolio, spanning understanding and prediction, generation and simulation, planning and action, and shared foundations
 
 3. [GPG in ByteDance VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html)
    > GPG adopted as an official reasoning reinforcement-learning algorithm in the VERL framework
