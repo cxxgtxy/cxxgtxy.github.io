@@ -72,7 +72,7 @@ Representative Works
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Architecture</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2403.00522">VisionLLaMA</a></div>
-    <div class="project-card__desc">A unified LLaMA-style backbone for vision tasks, introducing auto-scaling 2D RoPE for multimodal Transformers across generation, classification, segmentation, and detection.</div>
+    <div class="project-card__desc">A unified LLaMA-style vision backbone introducing AS2DRoPE, an early resolution-aware extension of 2D rotary position embedding validated across generation and understanding. This broader design pattern later became mainstream in frontier multimodal and generative Transformers, including Qwen2-VL, FLUX, and HunyuanVideo.</div>
     <div class="project-card__meta">ECCV 2024 · First Author · <a href="https://github.com/Meituan-AutoML/VisionLLaMA">code</a></div>
   </div>
   <div class="project-card">
