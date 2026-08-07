@@ -75,7 +75,7 @@ Leading AMAP's 100+ member spatial-intelligence team across understanding and pr
 
 Built the Visual Intelligence team from scratch. Directed research in Vision Transformers, multimodal large models, and industrial AI systems.
 
-- Created **Twins** (NeurIPS 2021), **CPVT** (ICLR 2023), **VisionLLaMA** (ECCV 2024) — influential Vision Transformer architectures; VisionLLaMA introduced auto-scaling 2D RoPE for LLaMA-style vision backbones
+- Created **Twins** (NeurIPS 2021), which systematized layer-wise local-global attention interleaving in a general-purpose vision backbone; **CPVT** (ICLR 2023); and **VisionLLaMA** (ECCV 2024), which introduced auto-scaling 2D RoPE for LLaMA-style vision backbones
 - Built **MobileVLM**, a compact VLM designed for real-time on-device deployment; reproduced LLaMA 7B from scratch
 - Open-sourced **YOLOv6**, a widely used industrial object detection framework; developed **QARepVGG** to address quantization challenges in RepVGG-style deployment
 - Shipped 3D perception for autonomous delivery vehicles and drones, reducing annotation and serving costs

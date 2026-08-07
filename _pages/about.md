@@ -134,7 +134,7 @@ Featured Projects
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Architecture</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2104.13840">Twins</a></div>
-    <div class="project-card__desc">Revisiting spatial attention in Vision Transformers. Outperforms Swin Transformer with simpler design and better deployment properties.</div>
+    <div class="project-card__desc">Systematically interleaves local and global attention in a general-purpose vision backbone, outperforming Swin with a simpler, deployment-friendly design. The same compute-context pattern is now common in efficient LLM architectures.</div>
     <div class="project-card__meta">NeurIPS 2021 · First Author · <a href="https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/">PaperDigest Most Influential</a> · <a href="https://github.com/Meituan-AutoML/Twins"><img src="https://img.shields.io/github/stars/Meituan-AutoML/Twins?style=social" alt="GitHub stars"></a></div>
   </div>
   <div class="project-card">

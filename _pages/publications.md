@@ -87,7 +87,7 @@ Representative Works
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Vision Transformer</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2104.13840">Twins</a></div>
-    <div class="project-card__desc">Revisited spatial attention design in Vision Transformers, pairing strong accuracy with a simpler architecture and practical deployment properties.</div>
+    <div class="project-card__desc">Among the earliest general-purpose vision backbones to systematically interleave local-window and efficient global attention, establishing a compute-context design principle now common in frontier LLMs such as Gemma, Kimi Linear, and DeepSeek V4.</div>
     <div class="project-card__meta">NeurIPS 2021 · First Author · <a href="https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/">PaperDigest Most Influential</a> · <a href="https://github.com/Meituan-AutoML/Twins">code</a></div>
   </div>
   <div class="project-card">
