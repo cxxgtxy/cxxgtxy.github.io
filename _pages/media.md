@@ -26,7 +26,7 @@ Public DreamX Signals
 ======
 
 1. DreamX ECCV 2026 acceptance wave
-   > Five papers accepted to ECCV 2026, strengthening the team's recent top-venue portfolio across spatial, generative, and multimodal AI
+   > Five papers accepted to ECCV 2026, including [OmniDance](https://arxiv.org/abs/2606.30019) as an oral presentation, strengthening the team's recent portfolio across spatial, generative, and multimodal AI
 
 2. [DreamX on the AMAP-ML GitHub Organization](https://github.com/AMAP-ML)
    > AMAP's unified spatial-intelligence team and portfolio, spanning understanding and prediction, generation and simulation, planning and action, and shared foundations
@@ -38,7 +38,7 @@ Public DreamX Signals
    > Real-world route-planning agent benchmark accepted as an oral paper at KDD 2026
 
 5. [DreamX-World](https://github.com/AMAP-ML/DreamX-World)
-   > DreamX-World 1.0 technical report and an open-source 5B model for one-minute interactive world generation
+   > DreamX-World 1.0 [live demo](https://amap-ml.github.io/DreamX_World/), technical report, and an open-source 5B model for one-minute interactive world generation
 
 ---
 

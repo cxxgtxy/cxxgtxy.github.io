@@ -129,7 +129,7 @@ Representative Works
     <span class="project-card__tag project-card__tag--llm">World Models</span>
     <div class="project-card__title"><a href="https://arxiv.org/abs/2606.16993">DreamX-World</a></div>
     <div class="project-card__desc">A general-purpose interactive world model with controllable camera navigation, prompt-driven world events, an open-source 5B model, and a technical report.</div>
-    <div class="project-card__meta">DreamX · 2026 · <a href="https://arxiv.org/abs/2606.16993">tech report</a> · <a href="https://github.com/AMAP-ML/DreamX-World">code</a></div>
+    <div class="project-card__meta">DreamX · 2026 · <a href="https://amap-ml.github.io/DreamX_World/">demo</a> · <a href="https://arxiv.org/abs/2606.16993">tech report</a> · <a href="https://github.com/AMAP-ML/DreamX-World">code</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">Agents</span>
@@ -203,7 +203,7 @@ Collaborative Papers
 <ol>
   <li><a href="https://arxiv.org/abs/2605.18233">MIGA: Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos</a>, <strong>ICML 2026</strong></li>
   <li>Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption, <strong>ECCV 2026</strong></li>
-  <li>OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data, <strong>ECCV 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2606.30019">OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data</a>, <strong>ECCV 2026 Oral</strong> <a href="https://github.com/AMAP-ML/OmniDance">[code]</a></li>
   <li>Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment, <strong>ACM MM 2026</strong></li>
   <li>Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models</li>
   <li><a href="https://arxiv.org/abs/2603.14935">Video-CoE: Reinforcing Video Event Prediction via Chain of Events</a>, <strong>CVPR 2026</strong></li>

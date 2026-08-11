@@ -19,7 +19,7 @@ description: "Recent updates from Xiangxiang Chu and DreamX, including papers, o
   </div>
   <div>
     <span class="impact-strip__label">Open releases</span>
-    <strong>30+ reproducible DreamX projects</strong>
+    <strong>40+ reproducible DreamX projects</strong>
   </div>
   <div>
     <span class="impact-strip__label">Product reach</span>
@@ -32,8 +32,11 @@ Latest DreamX Updates
 
 These items are curated from recent DreamX releases and paper/project updates, with the newest and most product-relevant signals first.
 
+- **2026.08.03** — [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) introduced a **Manage-Execute-Audit** loop with durable verified state for reliable long-horizon computer-use agents, improving results across WeaveBench, OSWorld 2.0, and Terminal-Bench 2.1. [paper](https://arxiv.org/abs/2608.01964)
+- **2026.07.23** — [DreamX-World 1.0](https://amap-ml.github.io/DreamX_World/) went live as an interactive world model, following the release of its [technical report](https://arxiv.org/abs/2606.16993) and open-source 5B model supporting **one-minute generation**. [code](https://github.com/AMAP-ML/DreamX-World)
+- **2026.07.20** — [OmniDance](https://arxiv.org/abs/2606.30019) was selected for an **oral presentation at ECCV 2026**, advancing multimodal dance-video generation driven by text, image, and music. [code](https://github.com/AMAP-ML/OmniDance)
+- **2026.07.20** — DreamX added four publications: [SCALAR++](https://github.com/zengjianhao/SCALAR) in **IJCV**, [Evaluation-Verification Reward](https://arxiv.org/abs/2607.29025) at **SIGGRAPH Asia 2026**, and [MAR-GRPO](https://github.com/AMAP-ML/mar-grpo) and [Peak-End-Net](https://github.com/AMAP-ML/Peak-End-Net) at **ACM MM 2026**.
 - **2026.06.18** — DreamX had **five papers accepted to ECCV 2026**, adding another strong top-venue signal to the team's recent research portfolio.
-- **2026.06.15** — [DreamX-World 1.0](https://arxiv.org/abs/2606.16993) released its technical report and open-sourced a 5B model supporting **one-minute interactive world generation**. [code](https://github.com/AMAP-ML/DreamX-World)
 - **2026.05.18** — [MobilityBench](https://github.com/AMAP-ML/MobilityBench) accepted as an **oral paper at KDD 2026**, providing a scalable benchmark for route-planning agents in real-world mobility scenarios.
 - **2026.05.12** — [CoEvolve](https://github.com/AMAP-ML/CoEvolve) accepted to **ACL 2026**, training LLM agents through agent-data mutual evolution.
 - **2026.05.12** — [Thinking-with-Map](https://github.com/AMAP-ML/Thinking-with-Map) accepted to **ACL 2026 Findings**, strengthening geolocalization with map-augmented reasoning.
@@ -67,16 +70,16 @@ The [AMAP-ML GitHub organization](https://github.com/AMAP-ML) hosts the DreamX o
     <div class="project-card__links"><a href="https://github.com/AMAP-ML/GPG">GitHub</a><a href="https://verl.readthedocs.io/en/latest/algo/gpg.html">VERL</a></div>
   </div>
   <div class="project-card">
-    <span class="project-card__tag project-card__tag--llm">Reasoning RL</span>
-    <div class="project-card__title"><a href="https://github.com/AMAP-ML/Tree-GRPO">Tree-GRPO</a></div>
-    <div class="project-card__desc">Tree-search rollouts for LLM agent reinforcement learning.</div>
-    <div class="project-card__links"><a href="https://github.com/AMAP-ML/Tree-GRPO">GitHub</a></div>
+    <span class="project-card__tag project-card__tag--llm">Computer-Use Agents</span>
+    <div class="project-card__title"><a href="https://github.com/AMAP-ML/LongHorizon-Harness">LongHorizon-Harness</a></div>
+    <div class="project-card__desc">Verified long-horizon computer use through durable task state and a Manage-Execute-Audit loop.</div>
+    <div class="project-card__links"><a href="https://arxiv.org/abs/2608.01964">Paper</a><a href="https://github.com/AMAP-ML/LongHorizon-Harness">GitHub</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--vlm">World Models</span>
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
     <div class="project-card__desc">A general-purpose interactive world model for controllable world simulation.</div>
-    <div class="project-card__links"><a href="https://github.com/AMAP-ML/DreamX-World">GitHub</a></div>
+    <div class="project-card__links"><a href="https://amap-ml.github.io/DreamX_World/">Demo</a><a href="https://github.com/AMAP-ML/DreamX-World">GitHub</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--gen">Generative AI</span>

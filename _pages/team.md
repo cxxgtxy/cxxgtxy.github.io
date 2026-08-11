@@ -23,7 +23,7 @@ I lead **DreamX** at Alibaba Group, a 100+ member product-facing AI team buildin
     <span class="proof-item__label">product-facing AI team members</span>
   </div>
   <div class="proof-item">
-    <span class="proof-item__number">30+</span>
+    <span class="proof-item__number">40+</span>
     <span class="proof-item__label">open-source DreamX projects</span>
   </div>
   <div class="proof-item">
@@ -60,7 +60,7 @@ DreamX turns the spatial-intelligence mission into six connected model and syste
     <span class="project-card__tag project-card__tag--llm">Agent · Phi</span>
     <div class="project-card__title">Plan & Act</div>
     <div class="project-card__desc">Build agents and decision systems that reason, use tools, plan, self-reflect, and turn human goals into digital and physical actions.</div>
-    <div class="project-card__meta">SkillClaw · AutoDrive-R2 · GPG · Tree-GRPO · CoEvolve</div>
+    <div class="project-card__meta">LongHorizon-Harness · SkillClaw · AutoDrive-R2 · GPG · CoEvolve</div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--arch">Shared Foundation</span>

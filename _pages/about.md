@@ -55,24 +55,24 @@ Recent Updates
 
 <div class="updates-list">
   <div class="update-item">
-    <span class="update-item__date">2026.06.18</span>
-    <span class="update-item__text">DreamX had five papers accepted to ECCV 2026, adding another strong top-venue signal to the team's recent research portfolio.</span>
+    <span class="update-item__date">2026.08.03</span>
+    <span class="update-item__text"><a href="https://github.com/AMAP-ML/LongHorizon-Harness">LongHorizon-Harness</a> introduced a Manage-Execute-Audit loop with durable verified state for reliable long-horizon computer-use agents.</span>
   </div>
   <div class="update-item">
-    <span class="update-item__date">2026.06.15</span>
-    <span class="update-item__text"><a href="https://arxiv.org/abs/2606.16993">DreamX-World 1.0</a> released its technical report and open-sourced a 5B model supporting one-minute interactive world generation.</span>
+    <span class="update-item__date">2026.07.23</span>
+    <span class="update-item__text"><a href="https://amap-ml.github.io/DreamX_World/">DreamX-World 1.0</a> went live as an interactive world model, following the release of its technical report and open-source 5B model supporting one-minute generation.</span>
+  </div>
+  <div class="update-item">
+    <span class="update-item__date">2026.07.20</span>
+    <span class="update-item__text"><a href="https://arxiv.org/abs/2606.30019">OmniDance</a> was selected for an oral presentation at ECCV 2026, advancing multimodal dance-video generation from text, image, and music.</span>
+  </div>
+  <div class="update-item">
+    <span class="update-item__date">2026.07.20</span>
+    <span class="update-item__text">DreamX added four publications across IJCV, SIGGRAPH Asia 2026, and ACM MM 2026, spanning spatial representation, multimodal rewards, and generative modeling.</span>
   </div>
   <div class="update-item">
     <span class="update-item__date">2026.05.18</span>
     <span class="update-item__text"><a href="https://github.com/AMAP-ML/MobilityBench">MobilityBench</a> accepted as an oral paper at KDD 2026, benchmarking route-planning agents in real-world mobility scenarios.</span>
-  </div>
-  <div class="update-item">
-    <span class="update-item__date">2026.05.12</span>
-    <span class="update-item__text"><a href="https://github.com/AMAP-ML/CoEvolve">CoEvolve</a> and <a href="https://github.com/AMAP-ML/Thinking-with-Map">Thinking-with-Map</a> added new ACL 2026 work on agent-data evolution and map-augmented reasoning.</span>
-  </div>
-  <div class="update-item">
-    <span class="update-item__date">2026.05.01</span>
-    <span class="update-item__text">DreamX added four ICML 2026 papers across unified multimodal generation, data-efficient RL, long-video generation, and preference optimization.</span>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ Featured Projects
     <div class="project-card__title"><a href="https://github.com/AMAP-ML/DreamX-World">DreamX-World</a></div>
     <div class="project-card__desc">A general-purpose interactive world model that creates diverse, high-fidelity virtual environments with camera-controlled navigation and prompt-driven world events.</div>
     <div class="project-card__meta">DreamX · 2026 · <a href="https://github.com/AMAP-ML/DreamX-World"><img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"></a></div>
-    <div class="project-card__links"><a href="https://arxiv.org/abs/2606.16993">tech report</a><a href="https://github.com/AMAP-ML/DreamX-World">code</a><a href="https://github.com/AMAP-ML">DreamX</a></div>
+    <div class="project-card__links"><a href="https://amap-ml.github.io/DreamX_World/">demo</a><a href="https://arxiv.org/abs/2606.16993">tech report</a><a href="https://github.com/AMAP-ML/DreamX-World">code</a><a href="https://github.com/AMAP-ML">DreamX</a></div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--detection">Spatial AI</span>
@@ -154,7 +154,7 @@ Research Journey
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
     <div class="journey-item__title">DreamX: Spatial Intelligence Models & Systems</div>
-    <div class="journey-item__desc">Leading DreamX, a 100+ member product-facing AI team organized around one mission: spatial intelligence. The portfolio connects three core problems — understanding and predicting the world, generating and simulating the world, and planning and acting in the world — with shared foundations in spatial data, multimodal models, reinforcement learning, infrastructure, and evaluation. Representative systems include MobilityBench, DreamX-World, SkillClaw, GPG, Tree-GRPO, and Code2World. Research also connects to AMAP's Saojie Bang (扫街榜) pipeline and AI Companion (AI 伴行), alongside products serving 300M+ users every day. Published 50+ papers at top venues and open-sourced 30+ projects.</div>
+    <div class="journey-item__desc">Leading DreamX, a 100+ member product-facing AI team organized around one mission: spatial intelligence. The portfolio connects three core problems — understanding and predicting the world, generating and simulating the world, and planning and acting in the world — with shared foundations in spatial data, multimodal models, reinforcement learning, infrastructure, and evaluation. Representative systems include MobilityBench, DreamX-World, LongHorizon-Harness, SkillClaw, GPG, and Code2World. Research also connects to AMAP's Saojie Bang (扫街榜) pipeline and AI Companion (AI 伴行), alongside products serving 300M+ users every day. Published 50+ papers at top venues and open-sourced 40+ projects.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>
@@ -202,7 +202,7 @@ DreamX Technical System
 
 **Generate & Simulate the World** — Interactive world simulation (DreamX-World), GUI world models (Code2World), scene-text editing (FluxText), 3D editing (RL3DEdit), and controllable spatial content
 
-**Plan & Act in the World** — Agent skill evolution (SkillClaw), reasoning and self-reflection for physical action (AutoDrive-R2), LLM reasoning (GPG), tree-search training (Tree-GRPO), and agent-data co-evolution (CoEvolve)
+**Plan & Act in the World** — Verified long-horizon computer use (LongHorizon-Harness), agent skill evolution (SkillClaw), reasoning and self-reflection for physical action (AutoDrive-R2), LLM reasoning (GPG), and agent-data co-evolution (CoEvolve)
 
 </div>
 <div markdown="1">
@@ -227,7 +227,7 @@ I lead **DreamX** at Alibaba Group, a 100+ member product-facing AI team buildin
 <div class="team-section__item" markdown="1">
 
 #### Open Source
-We maintain [30+ DreamX projects on GitHub](https://github.com/AMAP-ML), organized around understanding and prediction, generation and simulation, planning and action, and a shared technical foundation.
+We maintain [40+ DreamX projects on GitHub](https://github.com/AMAP-ML), organized around understanding and prediction, generation and simulation, planning and action, and a shared technical foundation.
 
 </div>
 <div class="team-section__item" markdown="1">
