@@ -201,6 +201,7 @@ Collaborative Papers
 ### Video Generation & Understanding
 
 <ol>
+  <li><a href="https://arxiv.org/abs/2608.13489">DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation</a> <a href="https://github.com/AMAP-ML/DreamX-Phi">[project]</a></li>
   <li><a href="https://arxiv.org/abs/2605.18233">MIGA: Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos</a>, <strong>ICML 2026</strong></li>
   <li>Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption, <strong>ECCV 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2606.30019">OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data</a>, <strong>ECCV 2026 Oral</strong> <a href="https://github.com/AMAP-ML/OmniDance">[code]</a></li>

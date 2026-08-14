@@ -61,7 +61,7 @@ Professional Experience
 Leading AMAP's 100+ member spatial-intelligence team across understanding and prediction, generation and simulation, planning and action, and shared model, data, infrastructure, and evaluation foundations.
 
 - Led DreamX research resulting in **50+ team papers** at top venues (ICLR, CVPR, ICML, ACL, KDD, ICCV, ECCV, NeurIPS, AAAI, EMNLP, SIGGRAPH) and **40+ open-source projects** hosted through the [AMAP-ML GitHub organization](https://github.com/AMAP-ML)
-- Key first-author works: GPG (ICLR 2026, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV 2025); key team works: LongHorizon-Harness, SkillClaw, DreamX-World, Tree-GRPO, FASA, CoEvolve
+- Key first-author works: GPG (ICLR 2026, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV 2025); key team works: DreamX-Phi, DreamX-World, LongHorizon-Harness, SkillClaw, Tree-GRPO, FASA, CoEvolve
 - Multimodal technology supports AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent work contributes to **AI Companion (AI 伴行)** — alongside AMAP products serving 300M+ users every day
 
 </div>
@@ -138,6 +138,7 @@ Selected Publications
 - [AutoDrive-R2](https://arxiv.org/abs/2509.01944): Reasoning VLA for Driving — **ICLR 2026**
 
 **Generative AI & World Models**
+- [DreamX-Phi 1.0](https://arxiv.org/abs/2608.13489): Action-Conditioned Video World Model for Robotic Manipulation · 2026 Technical Report · [project](https://github.com/AMAP-ML/DreamX-Phi)
 - [USP](https://arxiv.org/abs/2503.06132): Unified Pretraining for Gen & Understanding — **ICCV 2025** · 1st Author
 - [DCW](https://arxiv.org/abs/2604.16044): SNR-t Bias of Diffusion Models — **CVPR 2026**
 - [S2-Guidance](https://arxiv.org/abs/2508.12880): Training-Free Diffusion Enhancement — **ICLR 2026**
