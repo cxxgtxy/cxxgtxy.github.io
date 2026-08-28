@@ -3,8 +3,8 @@ permalink: /
 title: "Xiangxiang Chu (初祥祥)"
 seo_title: "Xiangxiang Chu (初祥祥) - DreamX, AMAP Spatial Intelligence"
 og_title: "Xiangxiang Chu (初祥祥) - Head of DreamX"
-excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 15,000+ citations, 120+ publications, including 70+ papers at top-tier AI conferences."
-description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 15,000+ citations, 120+ publications, including 70+ papers at top-tier AI conferences."
+excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 15,000+ citations, 120+ publications, including 80+ papers at top-tier AI conferences and journals."
+description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 15,000+ citations, 120+ publications, including 80+ papers at top-tier AI conferences and journals."
 og_image: "og-card-dreamx.png"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ redirect_from:
 <p class="profile-subtitle">Senior Director & Head of DreamX, Alibaba Group</p>
 
 <div class="vision-statement" markdown="1">
-I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **DreamX** at Alibaba AMAP, a 100+ member product-facing AI team building **spatial intelligence models and systems** that understand and predict, generate and simulate, plan and act in the real world. Our work is grounded in AMAP products serving **300M+ users every day**. Across my research career, I have published **70+ papers at top-tier AI conferences**.
+I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **DreamX** at Alibaba AMAP, a 100+ member product-facing AI team building **spatial intelligence models and systems** that understand and predict, generate and simulate, plan and act in the real world. Our work is grounded in AMAP products serving **300M+ users every day**. Across my research career, I have published **80+ papers at top-tier AI conferences and journals**.
 </div>
 
 <div class="profile-actions">
@@ -37,8 +37,8 @@ I build foundation AI systems that move from original research to reproducible o
     <span class="stat-label">As First Author</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">70+</span>
-    <span class="stat-label">Top-Conference Papers</span>
+    <span class="stat-number">80+</span>
+    <span class="stat-label">Top-Conference &amp; Journal Papers</span>
   </div>
   <div class="stat-item">
     <span class="stat-number">300M+</span>
@@ -46,7 +46,7 @@ I build foundation AI systems that move from original research to reproducible o
   </div>
 </div>
 
-<p class="profile-proof">Citation and publication metrics verified July 2026 · Source: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>. Top-conference count covers main-track papers and excludes Findings and workshops.</p>
+<p class="profile-proof">Citation and publication metrics verified August 2026 · Source: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>. Top-conference and journal count excludes Findings and workshops.</p>
 
 ---
 
@@ -54,6 +54,10 @@ Recent Updates
 ------
 
 <div class="updates-list">
+  <div class="update-item">
+    <span class="update-item__date">2026.08.21</span>
+    <span class="update-item__text">DreamX had three papers accepted to <strong>EMNLP 2026</strong>: <a href="https://arxiv.org/abs/2608.24747">SkillForge</a>, <a href="https://arxiv.org/abs/2606.10917">Role-Agent</a>, and <a href="https://arxiv.org/abs/2607.00685">M<sup>2</sup>Note</a>.</span>
+  </div>
   <div class="update-item">
     <span class="update-item__date">2026.08.13</span>
     <span class="update-item__text"><a href="https://arxiv.org/abs/2608.13489">DreamX-Phi 1.0</a> introduced a geometry-aware, action-conditioned video world model for robotic manipulation and reported leading results on WorldArena 2.0.</span>
