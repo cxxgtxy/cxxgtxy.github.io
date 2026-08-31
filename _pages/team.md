@@ -27,7 +27,7 @@ I lead **DreamX** at Alibaba Group, a 100+ member product-facing AI team buildin
     <span class="proof-item__label">open-source DreamX projects</span>
   </div>
   <div class="proof-item">
-    <span class="proof-item__number">50+</span>
+    <span class="proof-item__number">60+</span>
     <span class="proof-item__label">recent top-venue papers from DreamX</span>
   </div>
   <div class="proof-item">
@@ -80,6 +80,8 @@ DreamX open-source releases are hosted in the [**AMAP-ML GitHub organization**](
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | <img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"> | Collective skill evolution for AI agents |
+| [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | <img src="https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness?style=social" alt="GitHub stars"> | Verified long-horizon computer use through a Manage–Execute–Audit loop |
+| [DreamX-Phi](https://github.com/AMAP-ML/DreamX-Phi) | <img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-Phi?style=social" alt="GitHub stars"> | Geometry-aware, action-conditioned video world model for robotic manipulation |
 | [FluxText](https://github.com/AMAP-ML/FluxText) | <img src="https://img.shields.io/github/stars/AMAP-ML/FluxText?style=social" alt="GitHub stars"> | Controllable scene-text editing and visual asset generation |
 | [Code2World](https://github.com/AMAP-ML/Code2World) | <img src="https://img.shields.io/github/stars/AMAP-ML/Code2World?style=social" alt="GitHub stars"> | GUI world model via renderable code generation |
 | [DreamX-World](https://github.com/AMAP-ML/DreamX-World) | <img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social" alt="GitHub stars"> | Interactive world model for virtual environments |
