@@ -3,8 +3,8 @@ permalink: /
 title: "Xiangxiang Chu (初祥祥)"
 seo_title: "Xiangxiang Chu (初祥祥) - DreamX, AMAP Spatial Intelligence"
 og_title: "Xiangxiang Chu (初祥祥) - Head of DreamX"
-excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 15,000+ citations, 120+ publications, including 80+ papers at top-tier AI conferences and journals."
-description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 15,000+ citations, 120+ publications, including 80+ papers at top-tier AI conferences and journals."
+excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 16,000+ citations, 120+ publications, including 80+ papers at top-tier AI conferences and journals."
+description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 16,000+ citations, 120+ publications, including 80+ papers at top-tier AI conferences and journals."
 og_image: "og-card-dreamx.png"
 author_profile: true
 redirect_from: 
@@ -29,7 +29,7 @@ I build foundation AI systems that move from original research to reproducible o
 
 <div class="stats-grid">
   <div class="stat-item">
-    <span class="stat-number">15,000+</span>
+    <span class="stat-number">16,000+</span>
     <span class="stat-label">Total Citations</span>
   </div>
   <div class="stat-item">

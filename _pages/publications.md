@@ -18,7 +18,7 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
     <span class="proof-item__label">research papers and preprints</span>
   </div>
   <div class="proof-item">
-    <span class="proof-item__number">15K+</span>
+    <span class="proof-item__number">16K+</span>
     <span class="proof-item__label">Google Scholar citations</span>
   </div>
   <div class="proof-item">
