@@ -201,5 +201,4 @@ Education
 
 Patents
 ======
-- **40+** domestic invention patents
-- **7** international invention patents
+- **50+ Chinese invention patent filings** and **9 international patent families**

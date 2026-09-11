@@ -191,7 +191,7 @@ Recognition
   <li><strong>Top 100 AI Scholars</strong>, AMiner 2023 — selected from hundreds of thousands of AI researchers worldwide</li>
   <li><strong>3 first-authored papers</strong> on PaperDigest's Most Influential lists: <a href="https://resources.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/"><em>FairNAS</em></a>, <a href="https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/"><em>Twins</em></a>, <a href="https://resources.paperdigest.org/2024/09/most-influential-iclr-papers-2024-09/"><em>CPVT</em></a></li>
   <li><strong>Area Chair</strong>: ICLR, NeurIPS &nbsp;|&nbsp; <strong>Senior Program Committee</strong>: AAAI, IJCAI</li>
-  <li><strong>40+ domestic</strong> and <strong>7 international</strong> invention patents</li>
+  <li><strong>50+ Chinese invention patent filings</strong> and <strong>9 international patent families</strong></li>
 </ul>
 
 ---
