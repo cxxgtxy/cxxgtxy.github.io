@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-description: "Curriculum Vitae of Xiangxiang Chu — Senior Director at Alibaba AMAP, Tsinghua M.S., and author of 120+ research papers and preprints, including 80+ papers at top-tier AI conferences and journals."
+description: "Professional profile of Xiangxiang Chu — Senior Director at Alibaba and Head of DreamX, spanning original AI research, open-source systems, product deployment, and organizational leadership."
 redirect_from:
   - /resume
 ---
@@ -11,38 +11,29 @@ redirect_from:
 {% include base_path %}
 
 <div class="vision-statement" markdown="1">
-I lead **DreamX**, a 100+ member product-facing AI team at Alibaba AMAP building spatial intelligence models and systems that understand and predict, generate and simulate, plan and act in the real world. My research traces an arc from neural architecture search through Vision Transformer design and multimodal foundation models to LLM reasoning, world models, agent systems, and large-scale AMAP products serving **300M+ users every day**. I have authored **120+ research papers and preprints**, including **80+ papers at top-tier AI conferences and journals**, with **16,000+ citations (6,000+ from first-authored works)** across open-source projects.
+**Xiangxiang Chu** is a Senior Director at **Alibaba** and Head of **DreamX**. He leads a product-facing AI organization at AMAP spanning spatial intelligence, multimodal foundation models, generative AI, reinforcement learning, world models, and agent systems. His work connects original research and reproducible open source with nationwide product deployment. Previously, he built foundational AI teams at Meituan and Xiaomi.
 </div>
 
 <div class="stats-grid">
   <div class="stat-item">
     <span class="stat-number">16,000+</span>
-    <span class="stat-label">Citations</span>
+    <span class="stat-label">Total Citations</span>
   </div>
   <div class="stat-item">
     <span class="stat-number">6,000+</span>
     <span class="stat-label">First-Author Citations</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">120+</span>
-    <span class="stat-label">Publications</span>
+    <span class="stat-number">80+</span>
+    <span class="stat-label">Top AI Venue Papers</span>
   </div>
   <div class="stat-item">
     <span class="stat-number">100+</span>
-    <span class="stat-label">Team Members</span>
+    <span class="stat-label">DreamX Members</span>
   </div>
 </div>
 
----
-
-Awards & Recognition
-======
-
-<ul class="awards-list">
-  <li><strong>Top 100 AI Scholars</strong>, AMiner 2023 — selected from hundreds of thousands of AI researchers worldwide</li>
-  <li><strong>3 first-authored papers</strong> on PaperDigest's Most Influential lists: <a href="https://resources.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/"><em>FairNAS</em></a>, <a href="https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/"><em>Twins</em></a>, <a href="https://resources.paperdigest.org/2024/09/most-influential-iclr-papers-2024-09/"><em>CPVT</em></a></li>
-  <li><strong>2nd Place</strong>, Xiaomi "Million Dollar Prize" — Automated Neural Network Design</li>
-</ul>
+<p class="profile-proof">Research metrics verified September 2026 via <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&amp;hl=en">Google Scholar</a>.</p>
 
 ---
 
@@ -53,70 +44,64 @@ Professional Experience
 
 <div class="cv-entry cv-entry--current" markdown="1">
 <div class="cv-entry__header">
-  <span class="cv-entry__title">Alibaba Group — AMAP</span>
+  <span class="cv-entry__title">Alibaba · Senior Director &amp; Head of DreamX</span>
   <span class="cv-entry__period">Mar 2024 – Present</span>
 </div>
-<div class="cv-entry__role">Senior Director & Head of DreamX</div>
 
-Leading AMAP's 100+ member spatial-intelligence team across understanding and prediction, generation and simulation, planning and action, and shared model, data, infrastructure, and evaluation foundations.
+Leads DreamX, an organization with two complementary mandates: building frontier AI systems that reach production, and advancing the core mobility algorithms behind AMAP's route planning, ETA prediction, and recommendation. The work spans an ecosystem serving 300M+ users daily.
 
-- Led DreamX research resulting in **60+ team papers** at top venues (ICLR, CVPR, ICML, ACL, KDD, ICCV, ECCV, NeurIPS, AAAI, EMNLP, SIGGRAPH) and **40+ open-source projects** hosted through the [AMAP-ML GitHub organization](https://github.com/AMAP-ML)
-- Key first-author works: GPG (ICLR 2026, adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html) framework), USP (ICCV 2025); key team works: DreamX-Phi, DreamX-World, LongHorizon-Harness, SkillClaw, Tree-GRPO, FASA, CoEvolve
-- Multimodal technology supports AMAP's **Saojie Bang (扫街榜)** pipeline; large-scale industrial Agent work contributes to **AI Companion (AI 伴行)** — alongside AMAP products serving 300M+ users every day
+- Scaled DreamX from **30 to 100+ members**, including 30 interns; established four technical portfolios from the ground up and built a strong internal leadership bench
+- Led the nationwide delivery of **Navigation Live**, bringing **DreamX Agent** into a large-scale multimodal navigation product and coordinating dozens of researchers and engineers across multiple business teams
+- Led the productization of **AIGC and Creator** through visual content enhancement for AMAP's **Saojiebang** and physically grounded video generation
+- Led a research and open-source program producing **60+ papers at leading conferences and journals** and a portfolio of public releases through the [AMAP-ML GitHub organization](https://github.com/AMAP-ML)
 
 </div>
 
 <div class="cv-entry" markdown="1">
 <div class="cv-entry__header">
-  <span class="cv-entry__title">Meituan — Visual Intelligence Department</span>
+  <span class="cv-entry__title">Meituan · Senior Technical Manager</span>
   <span class="cv-entry__period">May 2020 – Mar 2024</span>
 </div>
-<div class="cv-entry__role">Senior Technical Manager</div>
 
-Built the Visual Intelligence team from scratch. Directed research in Vision Transformers, multimodal large models, and industrial AI systems.
+Built the foundational vision team from **0 to 30 members**, covering model architecture, multimodal foundation models, detection, and industrial perception.
 
-- Created **Twins** (NeurIPS 2021), which systematized layer-wise local-global attention interleaving in a general-purpose vision backbone; **CPVT** (ICLR 2023); and **VisionLLaMA** (ECCV 2024), which introduced auto-scaling 2D RoPE for LLaMA-style vision backbones
-- Built **MobileVLM**, a compact VLM designed for real-time on-device deployment; reproduced LLaMA 7B from scratch
-- Open-sourced **YOLOv6**, a widely used industrial object detection framework; developed **QARepVGG** to address quantization challenges in RepVGG-style deployment
-- Shipped 3D perception for autonomous delivery vehicles and drones, reducing annotation and serving costs
+- Created first-authored research including **Twins** (NeurIPS 2021), **CPVT** (ICLR 2023), **VisionLLaMA** (ECCV 2024), **MobileVLM**, and **QARepVGG** (AAAI 2024)
+- Led the open-source **YOLOv6** industrial detection framework and the department-wide production adoption of Twins and YOLOv6; QARepVGG addressed the quantization bottleneck in RepVGG-style deployment
+- Shipped 3D perception systems for autonomous delivery vehicles and drones, reducing annotation and serving costs
 
 </div>
 
 <div class="cv-entry" markdown="1">
 <div class="cv-entry__header">
-  <span class="cv-entry__title">Xiaomi — Artificial Intelligence Department</span>
+  <span class="cv-entry__title">Xiaomi · Senior Technical Manager</span>
   <span class="cv-entry__period">Mar 2017 – May 2020</span>
 </div>
-<div class="cv-entry__role">Senior Technical Manager</div>
 
-Founded Xiaomi's AutoML team and produced a series of influential neural architecture search works.
+Founded and grew Xiaomi's AutoML team from **0 to 10 members**, connecting neural architecture search with mobile deployment.
 
-- **FairNAS** (ICCV 2021), **FairDARTS** (ECCV 2020), **DARTS-** (ICLR 2021), **FALSR** — establishing new standards for fair and robust architecture search
-- Won **2nd place** in Xiaomi's first "Million Dollar Prize" (Automated Neural Network Design)
-- FALSR super-resolution algorithm personally endorsed by CEO Lei Jun
+- Developed the first-authored NAS research line spanning **FairNAS** (ICCV 2021), **FairDARTS** (ECCV 2020), **DARTS-** (ICLR 2021), and **FALSR**
+- Deployed AutoML-designed real-time super-resolution and portrait-segmentation models across **100M+ smartphones**, with demonstrations featured in major Xiaomi product launches
+- Won **2nd place** in Xiaomi's first "Million Dollar Prize" for Automated Neural Network Design
 
 </div>
 
 <div class="cv-entry" markdown="1">
 <div class="cv-entry__header">
-  <span class="cv-entry__title">Beijing KingStar System Control Co., Ltd.</span>
+  <span class="cv-entry__title">Beijing KingStar System Control · Deputy Director</span>
   <span class="cv-entry__period">Jun 2013 – Mar 2017</span>
 </div>
-<div class="cv-entry__role">Deputy Director</div>
 
-- Core contributor to "Complex Power Grid Autonomy — Collaborative Automatic Voltage Control" project
-- Contributed 20 invention patents; awarded **National Science and Technology Progress First Prize (2018)**
+- Core contributor to the "Complex Power Grid Autonomy — Collaborative Automatic Voltage Control" project, recognized with the **State Scientific and Technological Progress Award, First Prize (2018)**
 
 </div>
 
 <div class="cv-entry" markdown="1">
 <div class="cv-entry__header">
-  <span class="cv-entry__title">IBM Research China (CRL)</span>
+  <span class="cv-entry__title">IBM Research China · Research Scientist</span>
   <span class="cv-entry__period">Jul 2012 – May 2013</span>
 </div>
-<div class="cv-entry__role">Research Scientist</div>
 
-- Large-scale data analytics and machine learning solutions at IBM China Research Lab
+- Developed large-scale data analytics and machine learning solutions at IBM China Research Lab
 
 </div>
 
@@ -124,59 +109,51 @@ Founded Xiaomi's AutoML team and produced a series of influential neural archite
 
 ---
 
-Selected Publications
+Selected Contributions
 ======
 
 <div class="two-col" markdown="1">
 <div markdown="1">
 
-**LLM Reasoning**
-- [GPG](https://arxiv.org/abs/2504.02546): Simple & Strong RL for Reasoning — **ICLR 2026** · 1st Author · 100+ citations
-- [Tree-GRPO](https://arxiv.org/abs/2509.21240): Tree Search for Agent RL — **ICLR 2026**
-- [CoEvolve](https://arxiv.org/abs/2604.15840): Agent-Data Co-Evolution — **ACL 2026**
-- [MathForge](https://arxiv.org/abs/2601.20614): Difficulty-Aware GRPO — **ICLR 2026**
-- [AutoDrive-R2](https://arxiv.org/abs/2509.01944): Reasoning VLA for Driving — **ICLR 2026**
+**First-Author Research**
 
-**Generative AI & World Models**
-- [DreamX-Phi 1.0](https://arxiv.org/abs/2608.13489): Action-Conditioned Video World Model for Robotic Manipulation · 2026 Technical Report · [project](https://github.com/AMAP-ML/DreamX-Phi)
-- [USP](https://arxiv.org/abs/2503.06132): Unified Pretraining for Gen & Understanding — **ICCV 2025** · 1st Author
-- [DCW](https://arxiv.org/abs/2604.16044): SNR-t Bias of Diffusion Models — **CVPR 2026**
-- [S2-Guidance](https://arxiv.org/abs/2508.12880): Training-Free Diffusion Enhancement — **ICLR 2026**
-- [EPG](https://arxiv.org/abs/2510.12586): End-to-End Pixel Generation without VAE — **ICLR 2026**
-- [DreamX-World](https://arxiv.org/abs/2606.16993): Interactive World Model · 2026 Technical Report · [code](https://github.com/AMAP-ML/DreamX-World)
-
-**AI Agents & Intelligent Mobility**
-- [SkillClaw](https://github.com/AMAP-ML/SkillClaw): Collective Skill Evolution
-- [Code2World](https://arxiv.org/abs/2602.09856): GUI World Model via Renderable Code
-- [MobilityBench](https://arxiv.org/abs/2602.22638): Route-Planning Agent Benchmark — **KDD 2026 Oral**
+- [GPG](https://arxiv.org/abs/2504.02546) — Simple and strong reinforcement learning for model reasoning · **ICLR 2026** · First author · Adopted by ByteDance's [VERL](https://verl.readthedocs.io/en/latest/algo/gpg.html)
+- [USP](https://arxiv.org/abs/2503.06132) — Unified self-supervised pretraining for image generation and understanding · **ICCV 2025** · First author
+- [VisionLLaMA](https://arxiv.org/abs/2403.00522) — LLaMA-style vision foundation architecture with auto-scaling 2D RoPE · **ECCV 2024** · First author
+- [MobileVLM](https://arxiv.org/abs/2312.16886) — Compact vision-language model designed for real-time mobile deployment · First author
+- [QARepVGG](https://arxiv.org/abs/2212.01593) — Quantization-aware RepVGG for industrial deployment · **AAAI 2024** · First author
+- [Twins](https://arxiv.org/abs/2104.13840), [CPVT](https://arxiv.org/abs/2102.10882), and [FairNAS](https://arxiv.org/abs/1907.01845) — First-authored architecture research recognized on PaperDigest's Most Influential lists
 
 </div>
 <div markdown="1">
 
-**Foundation Architectures**
-- [VisionLLaMA](https://arxiv.org/abs/2403.00522): Unified LLaMA for Vision — **ECCV 2024** · 1st Author
-- [Twins](https://arxiv.org/abs/2104.13840): Spatial Attention in ViTs — **NeurIPS 2021** · 1st Author · [PaperDigest Most Influential](https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/)
-- [CPVT](https://arxiv.org/abs/2102.10882): Conditional Positional Encodings — **ICLR 2023** · 1st Author · [PaperDigest Most Influential](https://resources.paperdigest.org/2024/09/most-influential-iclr-papers-2024-09/)
-- [FASA](https://arxiv.org/abs/2602.03152): Frequency-Aware Sparse Attention — **ICLR 2026**
-- [QARepVGG](https://arxiv.org/abs/2212.01593): Quantization-Aware RepVGG — **AAAI 2024** · 1st Author
+**Systems &amp; Teams Led**
 
-**Vision-Language & Detection**
-- [MobileVLM](https://arxiv.org/abs/2312.16886): Real-Time Mobile Vision-Language Model · 1st Author
-- [YOLOv6](https://arxiv.org/abs/2209.02976): Industrial Object Detection
-- [SpatialGenEval](https://arxiv.org/abs/2601.20354): Spatial Intelligence Benchmark — **ICLR 2026**
-- [PromptDet](https://arxiv.org/abs/2203.16513): Open-Vocabulary Detection — **ECCV 2022**
-
-**AutoML & Neural Architecture Search**
-- [FairNAS](https://arxiv.org/abs/1907.01845): Rethinking NAS Fairness — **ICCV 2021** · 1st Author · [PaperDigest Most Influential](https://resources.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/)
-- [FairDARTS](https://arxiv.org/abs/1911.12126): Fair Differentiable NAS — **ECCV 2020** · 1st Author
-- [DARTS-](https://arxiv.org/abs/2009.01027): Robustly Out of Collapse — **ICLR 2021** · 1st Author
+- [DreamX-World](https://github.com/AMAP-ML/DreamX-World) — General-purpose interactive world model with an open-source 5B model and one-minute generation
+- [DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) — Native joint audio-video generation with 2K refinement
+- [DreamX-Phi](https://github.com/AMAP-ML/DreamX-Phi) — Geometry-aware, action-conditioned video world model for robotic manipulation
+- [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) — Verified long-horizon computer use with durable task state and a Manage-Execute-Audit loop
+- [MobilityBench](https://arxiv.org/abs/2602.22638) — Real-world route-planning agent benchmark · **KDD 2026 Oral**
+- [YOLOv6](https://github.com/meituan/YOLOv6) — Industrial real-time object detection framework with broad open-source and production adoption
 
 </div>
 </div>
 
 <p style="text-align: right; font-size: 0.85em; color: #999;">
-  → <a href="/publications/">Full publication list (120+ papers)</a>
+  → <a href="/publications/">Full publication list (120+ papers and preprints)</a>
 </p>
+
+---
+
+Honors &amp; Recognition
+======
+
+<ul class="awards-list">
+  <li><strong>State Scientific and Technological Progress Award, First Prize</strong>, 2018 — core contributor to the Complex Power Grid Autonomy project</li>
+  <li><strong>Top 100 AI Scholars</strong>, AMiner 2023</li>
+  <li><strong>3 first-authored papers</strong> on PaperDigest's Most Influential lists: <a href="https://resources.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/"><em>FairNAS</em></a>, <a href="https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/"><em>Twins</em></a>, and <a href="https://resources.paperdigest.org/2024/09/most-influential-iclr-papers-2024-09/"><em>CPVT</em></a></li>
+  <li><strong>2nd Place</strong>, Xiaomi "Million Dollar Prize" — Automated Neural Network Design</li>
+</ul>
 
 ---
 
@@ -184,10 +161,10 @@ Professional Service
 ======
 
 <div class="service-badges">
-  <span class="service-badge">Area Chair: ICLR</span>
-  <span class="service-badge">Area Chair: NeurIPS</span>
-  <span class="service-badge">SPC: AAAI</span>
-  <span class="service-badge">SPC: IJCAI</span>
+  <span class="service-badge">Area Chair · ICLR 2026–2027</span>
+  <span class="service-badge">Area Chair · NeurIPS 2026</span>
+  <span class="service-badge">SPC · AAAI 2026–2027</span>
+  <span class="service-badge">SPC · IJCAI 2026</span>
 </div>
 
 ---
@@ -196,9 +173,3 @@ Education
 ======
 - **M.S. in Electrical Engineering**, Tsinghua University, 2012
 - **B.S. in Electrical Engineering**, Southeast University, 2010
-
----
-
-Patents
-======
-- **50+ Chinese invention patent filings** and **9 international patent families**

@@ -11,7 +11,7 @@ description: "DreamX at Alibaba AMAP — a 100+ member AI team building spatial 
 DreamX: AMAP Spatial Intelligence Models and Systems
 ======
 
-I lead **DreamX** at Alibaba Group, a 100+ member product-facing AI team building spatial intelligence models and systems for AMAP's mapping, mobility, local-service, content, interactive-world, and embodied-AI scenarios.
+I lead **DreamX** at Alibaba, a 100+ member product-facing AI team building spatial intelligence models and systems for AMAP's mapping, mobility, local-service, content, interactive-world, and embodied-AI scenarios.
 
 <div class="vision-statement" markdown="1">
 **One mission: Spatial Intelligence.** We build systems that understand and predict, generate and simulate, plan and act in the real world. DreamX connects academic rigor, open-source reproducibility, engineering discipline, and real-world product deployment.

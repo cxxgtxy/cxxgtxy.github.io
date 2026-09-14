@@ -12,7 +12,7 @@ redirect_from:
   - /about.html
 ---
 
-<p class="profile-subtitle">Senior Director & Head of DreamX, Alibaba Group</p>
+<p class="profile-subtitle">Senior Director & Head of DreamX, Alibaba</p>
 
 <div class="vision-statement" markdown="1">
 I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **DreamX** at Alibaba AMAP, a 100+ member product-facing AI team building **spatial intelligence models and systems** that understand and predict, generate and simulate, plan and act in the real world. Our work is grounded in AMAP products serving **300M+ users every day**. Across my research career, I have published **80+ papers at top-tier AI conferences and journals**.
@@ -46,7 +46,7 @@ I build foundation AI systems that move from original research to reproducible o
   </div>
 </div>
 
-<p class="profile-proof">Citation and publication metrics verified August 2026 · Source: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>. Top-conference and journal count excludes Findings and workshops.</p>
+<p class="profile-proof">Citation and publication metrics verified September 2026 · Source: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
 
 ---
 
@@ -158,7 +158,7 @@ Research Journey
   <div class="journey-item journey-item--current">
     <div class="journey-item__period">2024 – Present · Alibaba AMAP</div>
     <div class="journey-item__title">DreamX: Spatial Intelligence Models & Systems</div>
-    <div class="journey-item__desc">Leading DreamX, a 100+ member product-facing AI team organized around one mission: spatial intelligence. The portfolio connects three core problems — understanding and predicting the world, generating and simulating the world, and planning and acting in the world — with shared foundations in spatial data, multimodal models, reinforcement learning, infrastructure, and evaluation. Representative systems include DreamX-Phi, DreamX-World, MobilityBench, LongHorizon-Harness, SkillClaw, and GPG. Research also connects to AMAP's Saojie Bang (扫街榜) pipeline and AI Companion (AI 伴行), alongside products serving 300M+ users every day. Published 60+ papers at top venues and open-sourced 40+ projects.</div>
+    <div class="journey-item__desc">Leading DreamX, a 100+ member product-facing AI team organized around one mission: spatial intelligence. The portfolio connects three core problems — understanding and predicting the world, generating and simulating the world, and planning and acting in the world — with shared foundations in spatial data, multimodal models, reinforcement learning, infrastructure, and evaluation. Representative systems include DreamX-Phi, DreamX-World, MobilityBench, LongHorizon-Harness, SkillClaw, and GPG. DreamX Agent powers Navigation Live, while AIGC and Creator support visual content enhancement for AMAP's Saojiebang and physically grounded video generation. The work contributes to products serving 300M+ users every day. Published 60+ papers at top venues and open-sourced 40+ projects.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2020 – 2024 · Meituan</div>
@@ -168,7 +168,7 @@ Research Journey
   <div class="journey-item">
     <div class="journey-item__period">2017 – 2020 · Xiaomi</div>
     <div class="journey-item__title">Neural Architecture Search & AutoML</div>
-    <div class="journey-item__desc">Founded Xiaomi's AutoML team. Produced a series of influential NAS works — FairNAS (ICCV 2021), FairDARTS (ECCV 2020), DARTS- (ICLR 2021), FALSR — establishing new standards for fair and robust architecture search. Featured by Lei Jun and major AI media.</div>
+    <div class="journey-item__desc">Founded Xiaomi's AutoML team. Produced a series of influential NAS works — FairNAS (ICCV 2021), FairDARTS (ECCV 2020), DARTS- (ICLR 2021), FALSR — establishing new standards for fair and robust architecture search. Featured by Lei Jun.</div>
   </div>
   <div class="journey-item">
     <div class="journey-item__period">2013 – 2017 · KingStar</div>
@@ -191,7 +191,7 @@ Recognition
   <li><strong>Top 100 AI Scholars</strong>, AMiner 2023 — selected from hundreds of thousands of AI researchers worldwide</li>
   <li><strong>3 first-authored papers</strong> on PaperDigest's Most Influential lists: <a href="https://resources.paperdigest.org/2022/02/most-influential-iccv-papers-2022-02/"><em>FairNAS</em></a>, <a href="https://www.paperdigest.org/2025/09/most-influential-nips-papers-2025-09-version/"><em>Twins</em></a>, <a href="https://resources.paperdigest.org/2024/09/most-influential-iclr-papers-2024-09/"><em>CPVT</em></a></li>
   <li><strong>Area Chair</strong>: ICLR, NeurIPS &nbsp;|&nbsp; <strong>Senior Program Committee</strong>: AAAI, IJCAI</li>
-  <li><strong>50+ Chinese invention patent filings</strong> and <strong>9 international patent families</strong></li>
+  <li><strong>50+ invention patent families with Chinese filings</strong>, including <strong>9 with international filings</strong></li>
 </ul>
 
 ---
@@ -223,7 +223,7 @@ Team & Opportunities
 
 <div class="team-section" markdown="1">
 
-I lead **DreamX** at Alibaba Group, a 100+ member product-facing AI team building AMAP's spatial intelligence models and systems. DreamX releases are hosted publicly through the [AMAP-ML GitHub organization](https://github.com/AMAP-ML).
+I lead **DreamX** at Alibaba, a 100+ member product-facing AI team building AMAP's spatial intelligence models and systems. DreamX releases are hosted publicly through the [AMAP-ML GitHub organization](https://github.com/AMAP-ML).
 
 **Our philosophy**: We build systems where research quality, engineering discipline, open-source reproducibility, and product deployment reinforce each other. Many core projects ship with reproducible code, and our work contributes to AMAP products serving 300M+ users every day.
 
