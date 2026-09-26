@@ -24,7 +24,7 @@ redirect_from:
     <span class="stat-label">First-Author Citations</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">80+</span>
+    <span class="stat-number">100+</span>
     <span class="stat-label">Top AI Venue Papers</span>
   </div>
   <div class="stat-item">
@@ -33,7 +33,7 @@ redirect_from:
   </div>
 </div>
 
-<p class="profile-proof">Research metrics verified September 2026 via <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&amp;hl=en">Google Scholar</a>.</p>
+<p class="profile-proof">Citations: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&amp;hl=en">Google Scholar</a> · Paper count includes published works and confirmed acceptances as of September 27, 2026; see <a href="/publications/">Publications</a> for the counting scope.</p>
 
 ---
 

@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-description: "Publication list of Xiangxiang Chu — 120+ research papers and preprints, including 80+ papers at top-tier AI conferences and journals."
+description: "Publication list of Xiangxiang Chu — 120+ research papers and preprints, including 100+ papers published or accepted at leading AI conferences and journals."
 ---
 
 {% include base_path %}
@@ -26,7 +26,7 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
     <span class="proof-item__label">citations from first-authored works</span>
   </div>
   <div class="proof-item">
-    <span class="proof-item__number">80+</span>
+    <span class="proof-item__number">100+</span>
     <span class="proof-item__label">top-conference &amp; journal papers</span>
   </div>
 </div>
@@ -43,7 +43,7 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">my Google Scholar profile</a></u>.
 
-<p class="profile-proof">The publication record includes <strong>80+ papers at leading conferences and journals</strong>, including Findings tracks. Workshop papers and technical reports are excluded from this count; individual venues and tracks are identified below.</p>
+<p class="profile-proof">The publication record includes <strong>100+ papers published or accepted at leading AI conferences and journals</strong>, including Findings tracks. The count combines Google Scholar records with confirmed acceptances as of September 27, 2026; some accepted papers are not yet reflected in Scholar or the selected list below. Each distinct paper is counted once. Workshop papers and technical reports are excluded from this count; individual venues and tracks are identified below where available.</p>
 
 ---
 

@@ -3,8 +3,8 @@ permalink: /
 title: "Xiangxiang Chu (初祥祥)"
 seo_title: "Xiangxiang Chu (初祥祥) - DreamX, AMAP Spatial Intelligence"
 og_title: "Xiangxiang Chu (初祥祥) - Head of DreamX"
-excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 16,000+ citations, 120+ publications, including 80+ papers at top-tier AI conferences and journals."
-description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 16,000+ citations, 120+ publications, including 80+ papers at top-tier AI conferences and journals."
+excerpt: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 16,000+ citations, 120+ research papers and preprints, including 100+ papers published or accepted at leading AI conferences and journals."
+description: "Xiangxiang Chu (初祥祥), Senior Director at Alibaba AMAP and head of DreamX, a 100+ member AI team building spatial intelligence models and systems. 16,000+ citations, 120+ research papers and preprints, including 100+ papers published or accepted at leading AI conferences and journals."
 og_image: "og-card-dreamx.png"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ redirect_from:
 <p class="profile-subtitle">Senior Director & Head of DreamX, Alibaba</p>
 
 <div class="vision-statement" markdown="1">
-I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **DreamX** at Alibaba AMAP, a 100+ member product-facing AI team building **spatial intelligence models and systems** that understand and predict, generate and simulate, plan and act in the real world. Our work is grounded in AMAP products serving **300M+ users every day**. Across my research career, I have published **80+ papers at top-tier AI conferences and journals**.
+I build foundation AI systems that move from original research to reproducible open source and large-scale map, mobility, and interactive AI products. I lead **DreamX** at Alibaba AMAP, a 100+ member product-facing AI team building **spatial intelligence models and systems** that understand and predict, generate and simulate, plan and act in the real world. Our work is grounded in AMAP products serving **300M+ users every day**. My research record includes **100+ papers published or accepted at leading AI conferences and journals**.
 </div>
 
 <div class="profile-actions">
@@ -37,7 +37,7 @@ I build foundation AI systems that move from original research to reproducible o
     <span class="stat-label">As First Author</span>
   </div>
   <div class="stat-item">
-    <span class="stat-number">80+</span>
+    <span class="stat-number">100+</span>
     <span class="stat-label">Top-Conference &amp; Journal Papers</span>
   </div>
   <div class="stat-item">
@@ -46,7 +46,7 @@ I build foundation AI systems that move from original research to reproducible o
   </div>
 </div>
 
-<p class="profile-proof">Citation and publication metrics verified September 2026 · Source: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
+<p class="profile-proof">Citations: <a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">Google Scholar</a> · Publication count includes confirmed acceptances as of September 27, 2026; see <a href="/publications/">Publications</a> for the counting scope.</p>
 
 ---
 
