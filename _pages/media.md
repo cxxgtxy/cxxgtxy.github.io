@@ -40,6 +40,9 @@ Public DreamX Signals
 5. [DreamX-World](https://github.com/AMAP-ML/DreamX-World)
    > DreamX-World 1.0 [live demo](https://amap-ml.github.io/DreamX_World/), technical report, and an open-source 5B model for one-minute interactive world generation
 
+6. [DreamX-Creator 1.0](https://github.com/AMAP-ML/DreamX-Creator)
+   > Open model weights and inference code for native joint audio-video generation with a 7B model and autoregressive one-step 2K refinement
+
 ---
 
 Agent Systems

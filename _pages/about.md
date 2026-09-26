@@ -55,6 +55,14 @@ Recent Updates
 
 <div class="updates-list">
   <div class="update-item">
+    <span class="update-item__date">2026.09.26</span>
+    <span class="update-item__text">DreamX had <strong>14 papers accepted to NeurIPS 2026</strong>: 11 in the Main Track and 3 in the Evaluations &amp; Datasets Track, including one Spotlight. <a href="https://github.com/AMAP-ML#recent-updates">Team announcement</a>.</span>
+  </div>
+  <div class="update-item">
+    <span class="update-item__date">2026.09.03</span>
+    <span class="update-item__text"><a href="https://github.com/AMAP-ML/DreamX-Creator">DreamX-Creator 1.0</a> released model weights and inference code for native joint audio-video generation with a 7B model and an autoregressive one-step 2K refiner.</span>
+  </div>
+  <div class="update-item">
     <span class="update-item__date">2026.08.21</span>
     <span class="update-item__text">DreamX had three papers accepted to <strong>EMNLP 2026</strong>: <a href="https://arxiv.org/abs/2608.24747">SkillForge</a>, <a href="https://arxiv.org/abs/2606.10917">Role-Agent</a>, and <a href="https://arxiv.org/abs/2607.00685">M<sup>2</sup>Note</a>.</span>
   </div>
@@ -69,14 +77,6 @@ Recent Updates
   <div class="update-item">
     <span class="update-item__date">2026.07.23</span>
     <span class="update-item__text"><a href="https://amap-ml.github.io/DreamX_World/">DreamX-World 1.0</a> went live as an interactive world model, following the release of its technical report and open-source 5B model supporting one-minute generation.</span>
-  </div>
-  <div class="update-item">
-    <span class="update-item__date">2026.07.20</span>
-    <span class="update-item__text"><a href="https://arxiv.org/abs/2606.30019">OmniDance</a> was selected for an oral presentation at ECCV 2026, advancing multimodal dance-video generation from text, image, and music.</span>
-  </div>
-  <div class="update-item">
-    <span class="update-item__date">2026.07.20</span>
-    <span class="update-item__text">DreamX added four publications across IJCV, SIGGRAPH Asia 2026, and ACM MM 2026, spanning spatial representation, multimodal rewards, and generative modeling.</span>
   </div>
 </div>
 
@@ -204,7 +204,7 @@ DreamX Technical System
 
 **Understand & Predict the World** — Route-planning agents (MobilityBench), map-augmented geolocalization (Thinking-with-Map), urban scene understanding, mobility forecasting, recommendation, and industrial map systems
 
-**Generate & Simulate the World** — Interactive world simulation (DreamX-World), GUI world models (Code2World), scene-text editing (FluxText), 3D editing (RL3DEdit), and controllable spatial content
+**Generate & Simulate the World** — Native joint audio-video generation with 2K refinement (DreamX-Creator), interactive world simulation (DreamX-World), GUI world models (Code2World), scene-text editing (FluxText), and 3D editing (RL3DEdit)
 
 **Plan & Act in the World** — Action-conditioned robotic world modeling (DreamX-Phi), verified long-horizon computer use (LongHorizon-Harness), agent skill evolution (SkillClaw), reasoning and self-reflection for physical action (AutoDrive-R2), and LLM reasoning (GPG)
 

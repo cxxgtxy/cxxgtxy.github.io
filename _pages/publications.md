@@ -43,7 +43,7 @@ description: "Publication list of Xiangxiang Chu — 120+ research papers and pr
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=jn21pUsAAAAJ&hl=zh-CN">my Google Scholar profile</a></u>.
 
-<p class="profile-proof">As of August 2026, the publication record includes <strong>80+ top-conference and journal papers</strong> across CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ACL, EMNLP, KDD, WWW, ACM Multimedia, CIKM, RecSys, SIGGRAPH, SIGGRAPH Asia, and IJCV. Findings and workshops are listed below but excluded from this count.</p>
+<p class="profile-proof">The publication record includes <strong>80+ papers at leading conferences and journals</strong>, including Findings tracks. Workshop papers and technical reports are excluded from this count; individual venues and tracks are identified below.</p>
 
 ---
 
@@ -191,7 +191,7 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2508.16158">Ragsr: Regional attention guided diffusion for image super-resolution</a></li>
   <li><a href="https://arxiv.org/abs/2508.12880">S2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models</a>, <strong>ICLR 2026</strong> <a href="https://github.com/AMAP-ML/S2-Guidance">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2507.00790">LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling</a>, <strong>ICCV 2025</strong> <a href="https://github.com/AMAP-ML/LD-RPS">[code]</a></li>
-  <li><a href="https://arxiv.org/abs/2505.03329">Flux-text: A simple and advanced diffusion transformer baseline for scene text editing</a></li>
+  <li><a href="https://arxiv.org/abs/2505.03329">Flux-text: A simple and advanced diffusion transformer baseline for scene text editing</a>, <strong>IEEE TMM 2026</strong> <a href="https://github.com/AMAP-ML/FluxText">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2411.14871">Preference Alignment for Diffusion Model via Explicit Denoised Distribution Estimation</a></li>
   <li><a href="https://arxiv.org/abs/2408.05008">FlowDreamer: exploring high fidelity text-to-3D generation via rectified flow</a></li>
   <li>TEXTS-Diff: TEXTS-Aware Diffusion Model for Real-World Text Image Super-Resolution, <strong>ICASSP 2026</strong></li>
@@ -201,6 +201,7 @@ Collaborative Papers
 ### Video Generation & Understanding
 
 <ol>
+  <li><a href="https://arxiv.org/abs/2608.31106">DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution</a>, <strong>2026 Technical Report</strong> <a href="https://github.com/AMAP-ML/DreamX-Creator">[code]</a> <a href="https://huggingface.co/GD-ML/DreamX-Creator">[models]</a></li>
   <li><a href="https://arxiv.org/abs/2608.13489">DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation</a> <a href="https://github.com/AMAP-ML/DreamX-Phi">[project]</a></li>
   <li><a href="https://arxiv.org/abs/2605.18233">MIGA: Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos</a>, <strong>ICML 2026</strong></li>
   <li>Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption, <strong>ECCV 2026</strong></li>
@@ -315,10 +316,10 @@ Collaborative Papers
   <li><a href="https://arxiv.org/abs/2602.22638">MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios</a>, <strong>KDD 2026 Oral</strong> <a href="https://github.com/AMAP-ML/MobilityBench">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2602.20704">IntRR: A Framework for Integrating SID Redistribution and Length Reduction for Generative Recommendation</a> <a href="https://github.com/AMAP-ML/IntRR">[code]</a></li>
   <li><a href="https://arxiv.org/abs/2602.11664">IntTravel: A Real-World Dataset and Generative Framework for Integrated Multi-Task Travel Recommendation</a> <a href="https://github.com/AMAP-ML/IntTravel">[code]</a></li>
-  <li><a href="https://arxiv.org/abs/2602.04174">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></li>
+  <li><a href="https://arxiv.org/abs/2602.04174">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a>, <strong>CIKM 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2602.03324">SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation</a></li>
   <li><a href="https://arxiv.org/abs/2601.05432">Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</a>, <strong>ACL 2026 Findings</strong></li>
-  <li><a href="https://arxiv.org/abs/2509.21179">Intsr: An integrated generative framework for search and recommendation</a></li>
+  <li><a href="https://arxiv.org/abs/2509.21179">Intsr: An integrated generative framework for search and recommendation</a>, <strong>CIKM 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2508.08745">Comprehensive Comparison Network: a framework for locality-aware, routes-comparable and interpretable route recommendation</a></li>
   <li><a href="https://arxiv.org/abs/2505.11306">Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion</a></li>
   <li>DSFNet: Learning Disentangled Scenario Factorization for Multi-Scenario Route Ranking, <strong>WWW 2025</strong> <a href="https://github.com/AMAP-ML/DSFNet">[code]</a></li>

@@ -54,7 +54,7 @@ DreamX turns the spatial-intelligence mission into six connected model and syste
     <span class="project-card__tag project-card__tag--gen">World · Creator</span>
     <div class="project-card__title">Generate & Simulate</div>
     <div class="project-card__desc">Create and simulate map-native assets, media, 3D scenes, digital content, and persistent interactive worlds with control and spatial consistency.</div>
-    <div class="project-card__meta">DreamX-World · Code2World · FluxText · RL3DEdit</div>
+    <div class="project-card__meta">DreamX-Creator · DreamX-World · Code2World · FluxText · RL3DEdit</div>
   </div>
   <div class="project-card">
     <span class="project-card__tag project-card__tag--llm">Agent · Phi</span>
@@ -79,6 +79,7 @@ DreamX open-source releases are hosted in the [**AMAP-ML GitHub organization**](
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [DreamX-Creator](https://github.com/AMAP-ML/DreamX-Creator) | <img src="https://img.shields.io/github/stars/AMAP-ML/DreamX-Creator?style=social" alt="GitHub stars"> | Native joint audio-video generation with an open 7B model and one-step 2K refinement |
 | [SkillClaw](https://github.com/AMAP-ML/SkillClaw) | <img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"> | Collective skill evolution for AI agents |
 | [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | <img src="https://img.shields.io/github/stars/AMAP-ML/LongHorizon-Harness?style=social" alt="GitHub stars"> | Verified long-horizon computer use through a Manage–Execute–Audit loop |
 | [FluxText](https://github.com/AMAP-ML/FluxText) | <img src="https://img.shields.io/github/stars/AMAP-ML/FluxText?style=social" alt="GitHub stars"> | Controllable scene-text editing and visual asset generation |

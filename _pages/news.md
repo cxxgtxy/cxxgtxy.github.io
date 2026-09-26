@@ -32,6 +32,8 @@ Latest DreamX Updates
 
 These items are curated from recent DreamX releases and paper/project updates, with the newest and most product-relevant signals first.
 
+- **2026.09.26** — DreamX had **14 papers accepted to NeurIPS 2026**: **11 Main Track** and **3 Evaluations & Datasets (E&D) Track** papers, including **one Spotlight**. [Team announcement](https://github.com/AMAP-ML#recent-updates)
+- **2026.09.03** — [DreamX-Creator 1.0](https://github.com/AMAP-ML/DreamX-Creator) released model weights and inference code for native joint audio-video generation with a **7B model** and an **autoregressive one-step 2K refiner**. [Technical report](https://arxiv.org/abs/2608.31106) · [Model weights](https://huggingface.co/GD-ML/DreamX-Creator)
 - **2026.08.21** — DreamX had three papers accepted to **EMNLP 2026**: [SkillForge](https://arxiv.org/abs/2608.24747), [Role-Agent](https://arxiv.org/abs/2606.10917), and [M<sup>2</sup>Note](https://arxiv.org/abs/2607.00685), advancing verifiable skill evolution, dual-role agents, and continual vision-language learning.
 - **2026.08.13** — [DreamX-Phi 1.0](https://arxiv.org/abs/2608.13489) introduced a geometry-aware, action-conditioned video world model for robotic manipulation. At release, it ranked **first on WorldArena 2.0 Track 1** and tied for second on Track 2; model weights and inference code are planned after the challenge concludes. [project](https://github.com/AMAP-ML/DreamX-Phi)
 - **2026.08.03** — [LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) introduced a **Manage-Execute-Audit** loop with durable verified state for reliable long-horizon computer-use agents, improving results across WeaveBench, OSWorld 2.0, and Terminal-Bench 2.1. [paper](https://arxiv.org/abs/2608.01964)
